@@ -2,7 +2,7 @@ site_name: MetaTrader-Panel
 site_url: https://metatrader-panel.com/en/
 docs_dir: '../../docs/en'                           # Where to find the English markdown files
 site_dir: '../../generated/en'
-use_directory_urls: false
+#use_directory_urls: false
 
 theme:
   #custom_dir: overrides
@@ -94,7 +94,9 @@ nav:
     - Stop questions: faq/stops.md
     - Tick chart questions: faq/tick-chart.md     
   - Download:
-    - Latest version: download/download.md  
-  - About:
+    - Latest version: download/download.md 
+  - Pricing:
+    - Order: pricing/order.md
+  - More:
     - Release Notes: about/release-notes.md
     - License: about/license.md    

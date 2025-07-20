@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-#:material-clock-fast:{ .lg .middle } __Created to make CFD trading fairer__
+#:material-clock-fast:{ .lg .middle } __Making CFD trading a lot fairer__
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, 
