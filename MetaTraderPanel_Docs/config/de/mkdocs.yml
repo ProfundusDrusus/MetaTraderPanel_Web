@@ -1,0 +1,63 @@
+site_name: MetaTrader-Panel
+site_url: https://metatrader-panel.com/de/
+docs_dir: '../../docs/de' # Where to find the German markdown files
+site_dir: '../../generated/de'
+use_directory_urls: false
+
+
+theme:
+  language: de
+  name: material
+  favicon: images/FM32.ico
+  logo: images/Logo1.png
+  palette:
+    - scheme: default
+      primary: blue
+      accent: orange
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Zum hellen Modus wechseln
+    - scheme: slate
+      primary: orange
+      accent: orange
+      toggle:
+        icon: material/toggle-switch
+        name: Zum dunkel Modus wechseln
+  features:
+    - search.suggest
+    - search.highlight
+    - navigation.instant
+    - navigation.section
+    - navigation.tabs
+    
+markdown_extensions:
+  - attr_list
+  
+plugins:
+   - glightbox:
+       touchNavigation: true
+       loop: false
+       effect: zoom
+       slide_effect: slide
+       width: 100%
+       height: auto
+       zoomable: true
+   - search:
+        lang: de
+extra:
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Deutsch
+      link: /de/
+      lang: de       
+nav:
+  - Home: 
+    - Willkommen: index.md
+    - Erste Schritte: getting-started.md
+    - Benutzerhandbuch: user-guide\guide.md
+  - Über:
+    - Versionshinweise: about/release-notes.md
+    - Lizenz: about/license.md
+
