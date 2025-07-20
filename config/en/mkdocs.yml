@@ -55,7 +55,12 @@ plugins:
    - search:
 
 extra:
-  generator: false
+  footer_links:
+    - text: "Privacy Policy"
+      href: "https://anter.dev/privacy"
+    - text: "Imprint"
+      href: "https://anter.dev/imprint"
+  generator: true
   social:
     - icon: fontawesome/solid/envelope
       link: mailto:<info@metatrader-panel.com>

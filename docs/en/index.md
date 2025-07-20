@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-#:material-clock-fast:{ .lg .middle } __Making CFD trading a lot fairer__
+#Making CFD trading a fair deal
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, 

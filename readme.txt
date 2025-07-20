@@ -3,3 +3,6 @@ https://github.com/squidfunk/mkdocs-material/discussions/6023
 https://github.com/squidfunk/mkdocs-material/discussions/6949
 https://github.com/squidfunk/mkdocs-material/discussions/2762
 https://www.mkdocs.org/user-guide/choosing-your-theme/
+https://github.com/squidfunk/mkdocs-material/discussions/5685
+https://www.littlesnippets.net/snip1517
+https://wiki.anter.dev/docs/material-mkdocs-footer-links/#step-2-add-links-to-configuration
