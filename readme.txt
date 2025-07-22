@@ -9,3 +9,9 @@ https://wiki.anter.dev/docs/material-mkdocs-footer-links/#step-2-add-links-to-co
 In CFD trading your broker is not your friend
 https://github.com/squidfunk/mkdocs-material/issues/2585
 https://www.piwheels.org/project/mkdocs-bootstrap-elements-plugin/
+https://blog.logto.io/de/nur-mit-css-unendliche-scrollen
+https://demos.onepagelove.com/html/namari/
+https://codebrace.com/editor/afef034d6
+https://codebrace.com/editor/afec3e661
+https://stackoverflow.com/questions/48138979/how-to-change-text-every-5-seconds
+https://stackoverflow.com/questions/22578804/change-divs-class-every-x-second-but-not-just-1-but-with-multiple-classes

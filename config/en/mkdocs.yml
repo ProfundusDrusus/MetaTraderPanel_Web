@@ -2,7 +2,7 @@ site_name: MetaTrader-Panel
 site_url: https://metatrader-panel.com/en/
 docs_dir: '../../docs/en'                           # Where to find the English markdown files
 site_dir: '../../generated/en'
-use_directory_urls: false
+#use_directory_urls: false
 
 theme:
   custom_dir: overrides
@@ -19,8 +19,8 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
     - scheme: default
-      primary: white
-      accent: light blue
+      primary: blue
+      accent: blue
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -99,6 +99,10 @@ extra_javascript:
   - javascript/jquery.easing.min.js
   - javascript/jquery.waypoints.min.js
   - javascript/site.js
+  - javascript/featherlight.min.js
+  - javascript/featherlight.gallery.min.js
+  - javascript/images-loaded.min.js
+  - javascript/lightbox.min.js
   
 nav:
   - Home: 
