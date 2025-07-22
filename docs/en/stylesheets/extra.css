@@ -134,6 +134,6 @@ span.b {
 
 
 .bgTest{
-	background: url('../assets/testx.jpg');no-repeat center center fixed; 
+	background: url('../assets/testx.jpg');no-repeat center top;
     background-size: cover;	
 }	

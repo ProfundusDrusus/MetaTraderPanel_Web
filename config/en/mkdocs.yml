@@ -19,7 +19,7 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
     - scheme: default
-      primary: blue
+      primary: white
       accent: light blue
       toggle:
         icon: material/toggle-switch-off-outline
@@ -91,6 +91,15 @@ extra_css:
   - stylesheets/namari-color.css
   - stylesheets/animate.css
   - stylesheets/font-awesome.min.css
+  
+extra_javascript:
+  - javascript/jquery.1.8.3.min.js
+  - javascript/wow.min.js
+  - javascript/jquery.enllax.js
+  - javascript/jquery.easing.min.js
+  - javascript/jquery.waypoints.min.js
+  - javascript/site.js
+  
 nav:
   - Home: 
     - Overview: index.md
