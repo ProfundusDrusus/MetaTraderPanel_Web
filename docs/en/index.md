@@ -2,8 +2,23 @@
 hide:
   - navigation
 ---
-
-#Making CFD trading a fair deal
+ 
+<div class="carousel">
+	  <div class="group">
+		<div class="card"><p style="text-align: center;">Your broker is not your friend</p></div>
+		<div class="card">B</div>
+		<div class="card">C</div>
+	  </div>
+	  <!-- Füge `aria-hidden` hinzu, um die duplizierten Karten für Screenreader zu verbergen. -->
+	  <div aria-hidden class="group">
+		<div class="card"><p style="text-align: center;">Your broker is not your friend</p></div>
+		<div class="card">B</div>
+		<div class="card">C</div>
+	  </div>
+</div>
+  
+  
+#In CFD trading your broker is not your friend
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, 
@@ -15,7 +30,7 @@ justo purus auctor massa, nec semper lorem quam in massa.
 <br> 
 
 ###:material-clock-fast:{ .lg .middle } __Unique features to encrease your profit__
-
+<div markdown="1" class="center-table">
 | Feature  | MetaTrader-Panel  | MT5  | Other competitors  |
 |:-------- |:--------:|:--------:| :--------:|
 | Hidden stops | :octicons-check-circle-fill-24:{ .col-green }     | :octicons-x-circle-fill-24:{ .col-red }    | :octicons-x-circle-fill-24:{ .col-red }  |
@@ -25,7 +40,7 @@ justo purus auctor massa, nec semper lorem quam in massa.
 | Feature 4     | :octicons-check-circle-fill-24:{ .col-green }    | :octicons-x-circle-fill-24:{ .col-red }    | :octicons-x-circle-fill-24:{ .col-red } |
 | Feature 5     | :octicons-check-circle-fill-24:{ .col-green }    | :octicons-x-circle-fill-24:{ .col-red }    | :octicons-x-circle-fill-24:{ .col-red } |
 | Feature 6     | :octicons-check-circle-fill-24:{ .col-green }    | :octicons-x-circle-fill-24:{ .col-red }    | :octicons-x-circle-fill-24:{ .col-red } |
-
+</div>
 
 
 ###:material-clock-fast:{ .lg .middle } __Save space__

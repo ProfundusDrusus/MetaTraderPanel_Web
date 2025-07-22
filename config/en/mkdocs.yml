@@ -2,10 +2,10 @@ site_name: MetaTrader-Panel
 site_url: https://metatrader-panel.com/en/
 docs_dir: '../../docs/en'                           # Where to find the English markdown files
 site_dir: '../../generated/en'
-#use_directory_urls: false
+use_directory_urls: false
 
 theme:
-  #custom_dir: overrides
+  custom_dir: overrides
   auto_themed: true
   language: en
   name: material
@@ -27,7 +27,8 @@ theme:
   features:
     - search.suggest
     - search.highlight
-    #- navigation.indexes #important!
+    - navigation.indexes #important!
+    - navigation.footer
     - navigation.tabs
     - navigation.sections
     - navigation.tabs.sticky
@@ -36,10 +37,7 @@ theme:
     - toc.follow
     - toc.integrate 
 
-copyright: Copyright &copy; 1996 - 2025 Profundus Drusus
-
-markdown_extensions:
-  - attr_list
+copyright: Copyright &copy; 1996 - 2025 Profundus Drusus Maior
 
 plugins:
    - glightbox:
@@ -56,14 +54,18 @@ plugins:
 
 extra:
   footer_links:
+    - text: "About us"
+      href: "https://anter.dev/privacy"
+    - text: "Products"
+      href: "https://anter.dev/privacy"
     - text: "Privacy Policy"
       href: "https://anter.dev/privacy"
     - text: "Imprint"
       href: "https://anter.dev/imprint"
-  generator: true
-  social:
-    - icon: fontawesome/solid/envelope
-      link: mailto:<info@metatrader-panel.com>
+  generator: false
+  #social:
+    #- icon: fontawesome/solid/envelope
+      #link: mailto:<info@metatrader-panel.com>
   alternate:
     - name: English
       link: /en/

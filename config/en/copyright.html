@@ -1,14 +1,20 @@
 {# base partial from:
 github.com/squidfunk/mkdocs-material/material/templates/partials/copyright.html
 #}
-<div class="md-copyright">
+<div class="md-copyright" >
+	<div padding-top="50px" padding-bottom="50px">
+	
+	</div>
+	{% for link in config.extra.footer_links %}
+			<div class="footer-links"><a href="{{ link.href }}" target="_blank" rel="noopener">{{ link.text }}</a></div>			
+	{% endfor %}
     {% if config.copyright %}
     <div class="md-copyright__highlight">
         {{ config.copyright }}
-        {% for link in config.extra.footer_links %}
-        :: <a href="{{ link.href }}" target="_blank" rel="noopener">{{ link.text }}</a>
-        {% endfor %}
     </div>
+	<div padding-top="50px" padding-bottom="50px
+	
+	</div>
     {% endif %}
     {% if not config.extra.generator == false %}
     Made with
@@ -16,4 +22,5 @@ github.com/squidfunk/mkdocs-material/material/templates/partials/copyright.html
         Material for MkDocs
     </a>
     {% endif %}
+	<p>This is a paragraph.</p>
 </div>
