@@ -131,3 +131,9 @@ span.b {
 	transform: translateX(-100%);
   }
 }
+
+
+.bgTest{
+	background: url('../assets/testx.jpg');no-repeat center center fixed; 
+    background-size: cover;	
+}	

@@ -87,7 +87,10 @@ markdown_extensions:
   
 extra_css:
   - stylesheets/extra.css
-  
+  - stylesheets/style.css
+  - stylesheets/namari-color.css
+  - stylesheets/animate.css
+  - stylesheets/font-awesome.min.css
 nav:
   - Home: 
     - Overview: index.md
