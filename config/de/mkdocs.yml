@@ -1,38 +1,44 @@
 site_name: MetaTrader-Panel
-site_url: https://metatrader-panel.com/de/
-docs_dir: '../../docs/de' # Where to find the German markdown files
-site_dir: '../../generated/de'
-use_directory_urls: false
-
+site_url: https://metatrader-panel.com/en/
+docs_dir: '../../docs/en'                           # Where to find the English markdown files
+site_dir: '../../generated/en'
+#use_directory_urls: false
 
 theme:
-  language: de
+  custom_dir: overrides
+  auto_themed: true
+  language: en
   name: material
   favicon: images/FM32.ico
-  logo: images/Logo1.png
+  logo: images/FM32.ico 
   palette:
+    #- scheme: slate
+      #primary: blue
+      #accent: light blue
+      #toggle:
+        #icon: material/toggle-switch
+        #name: Switch to light mode
     - scheme: default
       primary: blue
-      accent: orange
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Zum hellen Modus wechseln
-    - scheme: slate
-      primary: orange
-      accent: orange
-      toggle:
-        icon: material/toggle-switch
-        name: Zum dunkel Modus wechseln
+      accent: blue
+      #toggle:
+        #icon: material/toggle-switch-off-outline
+        #name: Switch to dark mode
   features:
     - search.suggest
     - search.highlight
-    - navigation.instant
-    - navigation.section
+    - navigation.indexes #important!
+    - navigation.footer
     - navigation.tabs
-    
-markdown_extensions:
-  - attr_list
-  
+    - navigation.sections
+    - navigation.tabs.sticky
+    - navigation.path
+    - navigation.top
+    - toc.follow
+    - toc.integrate 
+
+copyright: Copyright &copy; 1996 - 2025 Profundus Drusus Maior
+
 plugins:
    - glightbox:
        touchNavigation: true
@@ -41,10 +47,24 @@ plugins:
        slide_effect: slide
        width: 100%
        height: auto
-       zoomable: true
+       zoomable: false
+       shadow: true
    - search:
-        lang: de
+
 extra:
+  footer_links:
+    - text: "About us"
+      href: "https://anter.dev/privacy"
+    - text: "Products"
+      href: "https://anter.dev/privacy"
+    - text: "Privacy Policy"
+      href: "https://anter.dev/privacy"
+    - text: "Imprint"
+      href: "https://anter.dev/imprint"
+  generator: false
+  #social:
+    #- icon: fontawesome/solid/envelope
+      #link: mailto:<info@metatrader-panel.com>
   alternate:
     - name: English
       link: /en/
@@ -52,12 +72,53 @@ extra:
     - name: Deutsch
       link: /de/
       lang: de       
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/style.css
+  - stylesheets/namari-color.css
+  - stylesheets/animate.css
+  - stylesheets/font-awesome.min.css
+  
+extra_javascript:
+  - javascript/jquery.1.8.3.min.js
+  - javascript/wow.min.js
+  - javascript/jquery.enllax.js
+  - javascript/jquery.easing.min.js
+  - javascript/jquery.waypoints.min.js
+  - javascript/site.js
+  - javascript/featherlight.min.js
+  - javascript/featherlight.gallery.min.js
+  - javascript/images-loaded.min.js
+  - javascript/lightbox.min.js
+  
 nav:
   - Home: 
-    - Willkommen: index.md
-    - Erste Schritte: getting-started.md
-    - Benutzerhandbuch: user-guide\guide.md
-  - Über:
-    - Versionshinweise: about/release-notes.md
-    - Lizenz: about/license.md
-
+    - Overview: index.md
+  - Features: 
+    - Tick Chart: features/tick-chart.md
+    - Position Properties: features/position-props.md      
+  - How it works:
+    - Set up in 3 steps: signup/set-up-in-3-steps.md
+    - Auth0: signup/auth0.md
+  - FAQ:
+    - Stop questions: faq/stops.md
+    - Tick chart questions: faq/tick-chart.md     
+  - Download:
+    - Latest version: download/download.md 
+  - Pricing:
+    - Order: pricing/order.md
+  - More:
+    - Release Notes: about/release-notes.md
+    - License: about/license.md    
