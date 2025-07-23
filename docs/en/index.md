@@ -33,7 +33,7 @@ hide:
 			<div class="col-3">
 				<div class="section-heading">
 					<h3>SUCCESS</h3>
-					<h2 class="section-title">How we support your trading</h2>
+					<h2 class="section-title">How we help to achieve better trading results</h2>
 					<p class="section-subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 						eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!</p>
 				</div>

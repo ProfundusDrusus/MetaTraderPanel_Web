@@ -50,7 +50,7 @@ plugins:
        zoomable: false
        shadow: true
    - search:
-      locale: de
+      lang: de
 
 extra:
   footer_links:
