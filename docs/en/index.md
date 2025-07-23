@@ -9,7 +9,7 @@ hide:
 
 		<div class="section-heading">
 			<h1>DEIN BROKER IST NICHT DEIN FREUND</h1>
-			<h2>Wir aber schon - MetaTrader-Panel wurde mit der einen Idee entwickelt, den CFD-Handel im Retail Segment fairer zu machen.</h2>
+			<h2>Wir aber schon - MetaTrader-Panel wurde mit der einen Idee entwickelt, den CFD-Handel im Retail Segment fairer zu machen...</h2>
 			<h3>Probiere es aus und teste uns, kostenlos und risikofrei.</h3>
 				
 		</div>
@@ -46,7 +46,7 @@ hide:
 				<div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.1s">
 					<!--Icon-->
 					<div class="icon">
-						<i class="fa fa-html5 fa-2x"></i>
+						<i class="fa fa-html5 fa-2x" style="color: #EE0F0F;"></i>
 					</div>
 					<!--Icon Block Description-->
 					<div class="icon-block-description">
