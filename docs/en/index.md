@@ -46,7 +46,7 @@ hide:
 				<div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.1s">
 					<!--Icon-->
 					<div class="icon">
-						<i class="fa fa-html5 fa-2x" style="color: #EE0F0F;"></i>
+						<i class="fa fa-html5 fa-2x" style="color: #5494DA;"></i>
 					</div>
 					<!--Icon Block Description-->
 					<div class="icon-block-description">
@@ -61,7 +61,7 @@ hide:
 				<div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.3s">
 					<!--Icon-->
 					<div class="icon">
-						<i class="fa fa-bolt fa-2x"></i>
+						<i class="fa fa-bolt fa-2x" style="color: #5494DA;"></i>
 					</div>
 					<!--Icon Block Description-->
 					<div class="icon-block-description">
@@ -81,7 +81,7 @@ hide:
 				<div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.4s">
 					<!--Icon-->
 					<div class="icon">
-						<i class="fa fa-html5 fa-2x"></i>
+						<i class="fa fa-html5 fa-2x" style="color: #5494DA;"></i>
 					</div>
 					<!--Icon Block Description-->
 					<div class="icon-block-description">
@@ -96,7 +96,7 @@ hide:
 				<div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.5s">
 					<!--Icon-->
 					<div class="icon">
-						<i class="fa fa-bolt fa-2x"></i>
+						<i class="fa fa-bolt fa-2x" style="color: #5494DA;"></i>
 					</div>
 					<!--Icon Block Description-->
 					<div class="icon-block-description">
@@ -183,7 +183,7 @@ hide:
 
                 <!--Pricing Block-->
                 <div class="pricing-block col-3" >
-                    <div class="pricing-block-content">
+                    <div id="priceHover" class="pricing-block-content">
                         <h3>FREE</h3>
                         <p class="pricing-sub">The standard version</p>
                         <div class="pricing">
