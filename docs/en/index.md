@@ -178,7 +178,7 @@ hide:
 
                 <div class="section-heading">
                     <h3>YOUR CHOICE</h3>
-                    <h2 class="section-title">We have the right package for you</h2>
+                    <h2 class="section-title">We have the right package for you..</h2>
                 </div>
 
                 <!--Pricing Block-->
