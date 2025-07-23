@@ -1,13 +1,13 @@
 site_name: MetaTrader-Panel
-site_url: https://metatrader-panel.com/en/
-docs_dir: '../../docs/en'                           # Where to find the English markdown files
-site_dir: '../../generated/en'
+site_url: https://metatrader-panel.com/de/
+docs_dir: '../../docs/de'                           # Where to find the English markdown files
+site_dir: '../../generated/de'
 #use_directory_urls: false
 
 theme:
   custom_dir: overrides
   auto_themed: true
-  language: en
+  language: de
   name: material
   favicon: images/FM32.ico
   logo: images/FM32.ico 
@@ -50,6 +50,7 @@ plugins:
        zoomable: false
        shadow: true
    - search:
+      locale: de
 
 extra:
   footer_links:
@@ -109,7 +110,7 @@ nav:
   - Features: 
     - Tick Chart: features/tick-chart.md
     - Position Properties: features/position-props.md      
-  - How it works:
+  - So funktiert es:
     - Set up in 3 steps: signup/set-up-in-3-steps.md
     - Auth0: signup/auth0.md
   - FAQ:
@@ -117,8 +118,8 @@ nav:
     - Tick chart questions: faq/tick-chart.md     
   - Download:
     - Latest version: download/download.md 
-  - Pricing:
+  - Preise:
     - Order: pricing/order.md
-  - More:
+  - Mehr:
     - Release Notes: about/release-notes.md
     - License: about/license.md    
