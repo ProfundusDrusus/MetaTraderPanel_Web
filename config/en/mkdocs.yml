@@ -12,18 +12,18 @@ theme:
   favicon: images/FM32.ico
   logo: images/FM32.ico 
   palette:
-    - scheme: slate
-      primary: blue
-      accent: light blue
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+    #- scheme: slate
+      #primary: blue
+      #accent: light blue
+      #toggle:
+        #icon: material/toggle-switch
+        #name: Switch to light mode
     - scheme: default
       primary: blue
       accent: blue
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+      #toggle:
+        #icon: material/toggle-switch-off-outline
+        #name: Switch to dark mode
   features:
     - search.suggest
     - search.highlight
@@ -49,7 +49,6 @@ plugins:
        height: auto
        zoomable: false
        shadow: true
-       
    - search:
 
 extra:

@@ -10,7 +10,7 @@ hide:
 		<div class="section-heading">
 			<h1>DEIN BROKER IST NICHT DEIN FREUND</h1>
 			<h2>Wir aber schon - MetaTrader-Panel wurde mit der einen Idee entwickelt, den CFD-Handel im Retail Segment fairer zu machen.</h2>
-			<h3>Probiere es aus und teste es, es ist kostenlos und risikofrei.</h3>
+			<h3>Probiere es aus und teste uns, kostenlos und risikofrei.</h3>
 				
 		</div>
 
@@ -32,8 +32,8 @@ hide:
 
 			<div class="col-3">
 				<div class="section-heading">
-					<h3>SUCCESS</h3>
-					<h2 class="section-title">How We Help You To Achieve Better Results</h2>
+					<h3>ERFOLG</h3>
+					<h2 class="section-title">Wie eir dir helfen erfolgreicher zu traden</h2>
 					<p class="section-subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 						eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!</p>
 				</div>
@@ -142,7 +142,7 @@ hide:
 				<div class="section-heading">
 					<h3>BELIEVING</h3>
 					<h2 class="section-title">Focusing On What Matters Most</h2>
-					<p class="section-subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+					<p >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 						eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!</p>
 				</div>
 				<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
@@ -206,7 +206,7 @@ hide:
                 <!--Pricing Block-->
                 <div class="pricing-block col-3" >
                     <div class="pricing-block-content">
-                        <h3>STANDALONE</h3>
+                        <h3>STADALONE</h3>
                         <p class="pricing-sub">For the whole team</p>
                         <div class="pricing">
                             <div class="price"><span>€</span>99</div>
