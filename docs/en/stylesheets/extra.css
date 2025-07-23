@@ -27,6 +27,24 @@
     color: #FFFFFF;
   }
 }
+
+
+/*------------------------------------------------------------------------------------------*/
+/* 1. Website Default Styling */
+/*------------------------------------------------------------------------------------------*/
+
+
+/* Default Icon Color */
+
+.icon i {
+    color:#5494DA;
+}
+
+.pricing-block-content:hover {
+    border-color:#5494DA;
+}
+
+
 /*
 --md-footer-bg-color: deeppink; mmm
 */
