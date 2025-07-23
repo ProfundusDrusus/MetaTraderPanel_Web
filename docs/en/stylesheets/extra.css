@@ -40,6 +40,9 @@
 
 /*------------------------------------------------------------------------------------------*/
 
+/*
+needed to overwrite material for mkdocs
+*/
 #priceHover:hover {
     border-color:#5494DA;
 }

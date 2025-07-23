@@ -178,7 +178,7 @@ hide:
 
                 <div class="section-heading">
                     <h3>YOUR CHOICE</h3>
-                    <h2 class="section-title">We have the right package for you..</h2>
+                    <h2 class="section-title">We have the right package for you</h2>
                 </div>
 
                 <!--Pricing Block-->
@@ -205,7 +205,7 @@ hide:
 
                 <!--Pricing Block-->
                 <div class="pricing-block col-3" >
-                    <div class="pricing-block-content">
+                    <div id="priceHover" class="pricing-block-content">
                         <h3>STADALONE</h3>
                         <p class="pricing-sub">For the whole team</p>
                         <div class="pricing">
@@ -226,7 +226,7 @@ hide:
 				
 				<!--Pricing Block-->
                 <div class="pricing-block col-3" >
-                    <div class="pricing-block-content">
+                    <div id="priceHover" class="pricing-block-content">
                         <h3>PROFESSIONAL</h3>
                         <p class="pricing-sub">For the whole team</p>
                         <div class="pricing">
