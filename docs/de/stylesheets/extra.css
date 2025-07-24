@@ -37,6 +37,12 @@
   }
 }
 
+/* show only on screens with max width of 768px  */
+@media (max-width: 768px) {
+  .mobile_only {
+    display: block;
+  }
+}
 
 /*------------------------------------------------------------------------------------------*/
 /* 1. Website Default Styling 
