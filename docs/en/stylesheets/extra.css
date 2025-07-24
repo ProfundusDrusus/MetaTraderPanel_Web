@@ -7,8 +7,9 @@
 
 .md-header__button.md-logo img,
 .md-header__button.md-logo svg {
-  height: 200%;
-  width: 130%;
+  margin-left: 0;
+  height: 120%;
+  width: 120%;
 }
 
 .md-header__title {
