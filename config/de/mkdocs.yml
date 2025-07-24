@@ -19,7 +19,7 @@ theme:
         #icon: material/toggle-switch
         #name: Switch to light mode
     - scheme: default
-      primary: blue
+      primary: white
       accent: blue
       #toggle:
         #icon: material/toggle-switch-off-outline

@@ -4,7 +4,6 @@ hide:
 ---
 
 
-
 <div id="banner-content" class="clearfix bgTest wow fadeInDown" data-wow-delay="0.1s">
 	<div class="col-38">
 
