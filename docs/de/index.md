@@ -9,14 +9,14 @@ hide:
 	<div class="col-38">
 
 		<div class="section-heading">
-			<h1>DEIN BROKER IST NICHT DEIN FREUND</h1>
-			<h2>Wir aber schon - MetaTrader-Panel wurde mit der einen Idee entwickelt, den CFD-Handel im Retail Segment fairer zu machen...</h2>
-			<h3>Probiere es aus und teste uns, kostenlos und risikofrei...</h3>
+			<h1>YOUR BROKER IS NOT YOUR FRIEND</h1>
+			<h2>But we are - MetaTrader-Panel was designed with the one idea in mind making CFD trading a fair deal.</h2>
+			<h3>Give it a go and test us, it's free.</h3>
 				
 		</div>
 
 		<!--Call to Action-->
-		<a href="#" class="button">Mehr erfahren...</a>
+		<a href="#" class="button">Learn more...</a>
 		<!--End Call to Action-->
 
 	</div>
@@ -33,8 +33,8 @@ hide:
 
 			<div class="col-3">
 				<div class="section-heading">
-					<h3>ERFOLG</h3>
-					<h2 class="section-title">Wir helfen dir erfolgreicher zu traden</h2>
+					<h3>SUCCESS</h3>
+					<h2 class="section-title">How we help to achieve better trading results</h2>
 					<p class="section-subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 						eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!</p>
 				</div>

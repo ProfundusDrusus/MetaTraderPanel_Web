@@ -16,7 +16,7 @@ hide:
 		</div>
 
 		<!--Call to Action-->
-		<a href="#" id="red-button" class="button">Learn more...</a>
+		<a href="#" class="button">Learn more...</a>
 		<!--End Call to Action-->
 
 	</div>
