@@ -10,7 +10,7 @@ hide:
 		<div class="section-heading">
 			<h1>DEIN BROKER IST NICHT DEIN FREUND</h1>
 			<h2>Wir aber schon - MetaTrader-Panel wurde mit der einen Idee entwickelt, den CFD-Handel im Retail Segment fairer zu machen.</h2>
-			<h3>Probiere es aus und teste uns, kostenlos und risikofrei.</h3>
+			<h3>Probiere es aus und teste uns, kostenlos und risikofrei...</h3>
 				
 		</div>
 
