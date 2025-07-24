@@ -50,8 +50,7 @@ plugins:
        zoomable: false
        shadow: true
    - search:
-      lang: de
-
+       lang: de
 extra:
   footer_links:
     - text: "About us"
