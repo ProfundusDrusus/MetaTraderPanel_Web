@@ -37,6 +37,9 @@
   }
 }
 
+.mobile_only {
+  display: none;
+}
 /* show only on screens with max width of 768px  */
 @media (max-width: 768px) {
   .mobile_only {
