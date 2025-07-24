@@ -3,7 +3,6 @@
   margin-bottom: 0;
   padding-top: 30;
   padding-bottom: 0;
-  margin-left: 0;
 }
 
 .md-header__button.md-logo img,
@@ -25,7 +24,6 @@
   #--md-primary-bg-color--light: #ECB7B7;
   #--md-primary-ng-color--dark:  #90030C;
 }
-
 
 [data-md-color-scheme="default"] {
   .md-typeset h1 {
@@ -163,15 +161,13 @@ span.b {
   }
 }
 
-#animate
-{
-  animation: pulse1 1.5s ease-in-out infinite;
+#red-button{
+	color: #5494DA;
 }
-
 .bgTest{
 	background: url('../assets/Test7.jpg');no-repeat center top;
     background-size: cover;	
-}	
+}
 
 .centered-div {
    width: 100%;
