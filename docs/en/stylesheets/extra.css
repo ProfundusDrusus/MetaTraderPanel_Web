@@ -155,8 +155,8 @@ span.b {
 #red-button{
 	color: #5494DA;
 }
-#bgTest{
-	background: url('../assets/test7.jpg');no-repeat center top;
+.bgTest{
+	background: url('../assets/Test7.jpg');no-repeat center top;
     background-size: cover;	
 }	
 

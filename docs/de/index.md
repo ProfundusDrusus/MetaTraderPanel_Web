@@ -4,7 +4,7 @@ hide:
 ---
 
 
-<div id="banner-content" class=" clearfix bgTest" >
+<div id="banner-content" class="clearfix bgTest">
 	<div class="col-38">
 
 		<div class="section-heading">
