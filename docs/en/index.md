@@ -10,7 +10,7 @@ hide:
 		<div class="section-heading">
 			<h1>YOUR BROKER IS NOT YOUR FRIEND</h1>
 			<h2>But we are - MetaTrader-Panel was designed with the one idea in mind making CFD trading a fair deal.</h2>
-			<h3>Give it a go and test us, it's free...</h3>
+			<h3>Give it a go and test us, it's free.</h3>
 				
 		</div>
 
