@@ -152,9 +152,11 @@ span.b {
   }
 }
 
-
+#red-button{
+	color: #5494DA;
+}
 .bgTest{
-	background: url('../assets/testx.jpg');no-repeat center top;
+	background: url('../assets/test7.jpg');no-repeat center top;
     background-size: cover;	
 }	
 

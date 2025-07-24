@@ -4,7 +4,7 @@ hide:
 ---
 
 
-<div id="banner-content" class=" clearfix bgTest" >
+<div id="banner-content" class=" clearfix bgTest wow fadeInRight" data-wow-delay="0.1s">
 	<div class="col-38">
 
 		<div class="section-heading">
@@ -15,7 +15,7 @@ hide:
 		</div>
 
 		<!--Call to Action-->
-		<a href="#" class="button">Learn more...</a>
+		<a href="#" id="red-button" class="button">Learn more...</a>
 		<!--End Call to Action-->
 
 	</div>
