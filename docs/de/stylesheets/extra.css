@@ -37,6 +37,10 @@
   }
 }
 
+/* Default behavior: elements with the class "mobile_only" are hidden by default. *
+.mobile_only {
+  display: none;
+}
 /* show only on screens with max width of 768px  */
 @media (max-width: 768px) {
   .mobile_only {
