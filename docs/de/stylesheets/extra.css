@@ -18,6 +18,15 @@
   font-size: 1.2rem;
   line-height: 3rem;
 }
+
+:root  > * {
+  --md-primary-bg-color:        #111111;
+  --md-primary-fg-color:        #F5F5F5;
+  #--md-primary-bg-color--light: #ECB7B7;
+  #--md-primary-ng-color--dark:  #90030C;
+}
+
+
 [data-md-color-scheme="default"] {
   .md-typeset h1 {
     color: #000000;
