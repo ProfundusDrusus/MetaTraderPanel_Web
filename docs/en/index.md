@@ -7,11 +7,14 @@ hide:
 
 <div id="banner-content" class="clearfix bgTest wow fadeInDown" data-wow-delay="0.1s">
 	<div class="col-38">
+
 		<div class="section-heading">
 			<h1>YOUR BROKER IS NOT YOUR FRIEND</h1>
 			<h2>But we are - MetaTrader-Panel was designed with the one idea in mind making CFD trading a fair deal.</h2>
 			<h3>Give it a go and test us, it's free.</h3>
+				
 		</div>
+
 		<!--Call to Action-->
 		<a href="#" class="button">Learn more...</a>
 		<!--End Call to Action-->
@@ -28,7 +31,7 @@ hide:
 
 		<div class="row clearfix">
 
-			<div class="col-3">
+			<div class="col-3 wow fadeInLeft" data-wow-delay="0.1s">
 				<div class="section-heading">
 					<h3>SUCCESS</h3>
 					<h2 class="section-title">How we help to achieve better trading results</h2>
@@ -122,7 +125,7 @@ hide:
 
 
 			<!--Content Left Side-->
-			<div class="col-3">
+			<div class="col-3 wow fadeInLeft" data-wow-delay="0.1s">
 				<!--User Testimonial-->
 				<blockquote class="testimonial text-right bigtest">
 					<q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
