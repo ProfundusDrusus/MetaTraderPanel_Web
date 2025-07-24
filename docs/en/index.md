@@ -4,7 +4,7 @@ hide:
 ---
 
 
-<div id="banner-content" class=" clearfix bgTest wow bounceInDown" data-wow-delay="0.1s">
+<div id="bgTest" class=" clearfix  wow bounceInDown" data-wow-delay="0.1s">
 	<div class="col-38">
 
 		<div class="section-heading">
