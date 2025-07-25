@@ -14,7 +14,7 @@ texts.push("ANOTHER COOL STATEMENT 3");
 
 
 var point = 0;
-
+var point1 = 0;
 function changeHeaderText(){
   $('#refresh-headertext').html(texts[point]);
   if(point < texts.length - 1){
@@ -22,20 +22,15 @@ function changeHeaderText(){
   }else{
     point = 0;
   }
-  setTimeout(changeHeaderText, 5000)
-}
-
-changeHeaderText();  
-
-var point1 = 0;
-function changeSubText(){
   $('#refresh-subtext').html(sub_texts[point1]);
   if(point1 < sub_texts.length - 1){
     point1 ++;
   }else{
     point1 = 0;
   }
-  setTimeout(changeSubText, 5000)
+  setTimeout(changeHeaderText, 5000)
 }
 
-changeSubText();  
+changeHeaderText();  
+
+ 
