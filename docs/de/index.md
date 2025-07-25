@@ -23,7 +23,7 @@ hide:
 		</div>
 
 		<!--Call to Action-->
-		<a href="#" class="button">Learn more...</a>
+		<a href="#" class="button" style="color: #3373C4">Learn more...</a>
 		<!--End Call to Action-->
 
 	</div>
