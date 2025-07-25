@@ -143,6 +143,33 @@ span.b {
     background-size: cover;	
 }
 
+.miracle {
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* next size - tablet */
+@media (min-width: 768px) {
+  .miracle {
+    background-image: url('../assets/MobileTest4.png');
+  }
+}
+
+/* next size - tablet landscape and it covers desktop */
+@media (min-width: 1024px) {
+  .miracle {
+    background-image: url('../assets/Test7.jpg');
+  }
+}
+
+/* next size - larger desktops */
+@media (min-width: 1280px) {
+  .miracle {
+    background-image: url('../assets/Test7.jpg');
+  }
+}
+
 .centered-div {
    width: 100%;
    margin: 10px;

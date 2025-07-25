@@ -4,7 +4,7 @@ hide:
 ---
 
 
-<div id="banner-content" class="clearfix bgTest wow fadeInDown" data-wow-delay="0.1s">
+<div id="banner-content" class="clearfix miracle wow fadeInDown" data-wow-delay="0.1s">
 	<div class="col-38">
 		<div class="section-heading">
 			<svg class="mobile_only" width="60" height="60" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
