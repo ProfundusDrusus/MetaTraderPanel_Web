@@ -102,6 +102,7 @@ extra_javascript:
   - javascript/featherlight.gallery.min.js
   - javascript/images-loaded.min.js
   - javascript/lightbox.min.js
+  - javascript/change-text.js 
   
 nav:
   - Home: 
