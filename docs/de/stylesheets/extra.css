@@ -25,6 +25,10 @@
   #--md-primary-ng-color--dark:  #90030C;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 [data-md-color-scheme="default"] {
   .md-typeset h1 {
     color: #000000;
@@ -46,6 +50,16 @@
   .mobile_only {
     display: block;
   }
+}
+
+@media (max-width: 950px) {
+  .desktop_only {
+    display: none;
+  }
+}
+
+.desktop_only {
+  display: block;
 }
 
 /*------------------------------------------------------------------------------------------*/
@@ -174,6 +188,8 @@ span.b {
 #red-button{
 	color: #5494DA;
 }
+
+
 .bgTest{
 	background: url('../assets/Test7.jpg');no-repeat center top;
     background-size: cover;	

@@ -26,6 +26,7 @@ theme:
         #name: Switch to dark mode
   features:
     - search.suggest
+    - navigation.tracking
     - search.highlight
     - navigation.indexes #important!
     - navigation.footer
@@ -120,6 +121,7 @@ nav:
     - Latest version: download/download.md 
   - Preise:
     - Order: pricing/order.md
+  - FollowMe: https://client.metatrader-panel.com/
   - Mehr:
     - Release Notes: about/release-notes.md
     - License: about/license.md    

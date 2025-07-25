@@ -172,23 +172,24 @@ hide:
 			<!--End Content Right Side-->
 
 			<div class="col-3 wow fadeInUp" data-wow-delay="0.4s">
-				<img src="images/dancer.jpg" alt="Dancer"/>
+				<img src="images/TickChart.jpg" alt="Dancer"/>
 			</div>
 
 		</div>
 
 	</div>
 	<!--End of Content Section-->
-
+	<div  >
+		<p style="padding-top: 50px; margin-bottom: 50px"> </p>
+	</div>
         
 	 
 	<!--Pricing Tables-->
         <section id="pricing" class="secondary-color text-center scrollto clearfix ">
             <div class="row clearfix">
-
                 <div class="section-heading">
                     <h3>YOUR CHOICE</h3>
-                    <h2 class="section-title">We have the right package for you</h2>
+                    <h2 id="JumpLink" class="section-title">We have the right package for you</h2>
                 </div>
 
                 <!--Pricing Block-->
