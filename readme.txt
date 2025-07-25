@@ -16,3 +16,4 @@ https://codebrace.com/editor/afec3e661
 https://stackoverflow.com/questions/48138979/how-to-change-text-every-5-seconds
 https://stackoverflow.com/questions/22578804/change-divs-class-every-x-second-but-not-just-1-but-with-multiple-classes
 https://convertio.co/download/a5f89eae4c5bcca2ab43b3cba2ee44dfa1b1b1/
+https://shihabiiuc.com/testimonial-slider/
