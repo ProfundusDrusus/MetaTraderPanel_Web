@@ -9,7 +9,7 @@ sub_texts.push("Has ne tritani atomorum conclusionemque, in dolorum volumus coti
 
 var texts = new Array();
 texts.push("YOUR BROKER IS NOT YOUR FRIEND");
-texts.push("COOL ADVERTISING STATEMENT 2");
+texts.push("A COOL STATEMENT 2");
 texts.push("ANOTHER COOL STATEMENT 3");
 
 

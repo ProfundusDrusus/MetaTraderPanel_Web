@@ -3,7 +3,6 @@ hide:
   - navigation
 ---
 
-
 <div id="banner-content" class="clearfix miracle wow fadeInDown" data-wow-delay="0.1s">
 	<div class="col-38">
 		<div class="section-heading">
