@@ -1,87 +1,37 @@
-<!-- Footer -->
-<footer class="md-footer">
+<footer class="example-2">
+  <div class="content site-footer--content">
+    <div class="footer-left">
+		  
+      <svg width="60" height="60" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+			  <circle cx="20" cy="20" fill="none" r="12" stroke="#1750AC" stroke-width="3">
+				<animate attributeName="r" from="8" to="20" dur="1.5s" begin="0s" repeatCount="indefinite"/>
+				<animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0s" repeatCount="indefinite"/>
+			  </circle>
+			  <circle cx="20" cy="20" fill="#3373C4" r="13"/>
+			  <circle cx="20" cy="20" fill="#5494DA" r="12"/>
+			  <circle cx="20" cy="20" fill="#1750AC" r="8"/>
+			  <circle cx="20" cy="20" fill="#F5F5F5" r="7"/>
+		</svg>
+		<p class="col-gray">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat necessitatibus a pariatur, quibusdam dolorem impedit assumenda laborum modi nam, rem odit, doloremque commodi in consectetur vitae nisi. Nostrum, voluptatum quibusdam. Rpsum dolor sit amet consectetur adipisicing elit. Repellat necessitatibus a pariatur, quibusdam dolorem impedit assumenda laborum modi nam, rem odit, doloremque commodi in consectetur vitae nisi. Nostrum, voluptatum quibusdam</p>
+		
+    </div>
 
-  <!-- Link to previous and/or next page -->
-  {% if "navigation.footer" in features %}
-    {% if page.previous_page or page.next_page %}
-      {% if page.meta and page.meta.hide %}
-        {% set hidden = "hidden" if "footer" in page.meta.hide %}
-      {% endif %}
-      <nav
-        class="md-footer__inner md-grid"
-        aria-label="{{ lang.t('footer') }}"
-        {{ hidden }}
-      >
-
-        <!-- Link to previous page -->
-        {% if page.previous_page %}
-          {% set direction = lang.t("footer.previous") %}
-          <a
-            href="{{ page.previous_page.url | url }}"
-            class="md-footer__link md-footer__link--prev"
-            aria-label="{{ direction }}: {{ page.previous_page.title | e }}"
-          >
-            <div class="md-footer__button md-icon">
-              {% set icon = config.theme.icon.previous or "material/arrow-left" %}
-              {% include ".icons/" ~ icon ~ ".svg" %}
-            </div>
-            <div class="md-footer__title">
-              <span class="md-footer__direction">
-                {{ direction }}
-              </span>
-              <div class="md-ellipsis">
-                {{ page.previous_page.title }}
-              </div>
-            </div>
-          </a>
-        {% endif %}
-
-        <!-- Link to next page -->
-        {% if page.next_page %}
-          {% set direction = lang.t("footer.next") %}
-          <a
-            href="{{ page.next_page.url | url }}"
-            class="md-footer__link md-footer__link--next"
-            aria-label="{{ direction }}: {{ page.next_page.title | e }}"
-          >
-            <div class="md-footer__title">
-              <span class="md-footer__direction">
-                {{ direction }}
-              </span>
-              <div class="md-ellipsis">
-                {{ page.next_page.title }}
-              </div>
-            </div>
-            <div class="md-footer__button md-icon">
-              {% set icon = config.theme.icon.next or "material/arrow-right" %}
-              {% include ".icons/" ~ icon ~ ".svg" %}
-            </div>
-          </a>
-        {% endif %}
-      </nav>
-    {% endif %}
-  {% endif %}
-
-  <!-- Further information -->
-  <div class="md-footer-meta md-typeset" style="padding-bottom:150px;">
-    <div class="md-footer-meta__inner md-grid">
-		<div style="padding-top:50px;">
+    <div class="footer-right">
+      <div style="padding-top:10px;">
 		<span class="md-icon b inline-img">
             {% include ".icons/fontawesome/solid/envelope.svg" %}
           </span>
-		  <span class="b"><a href="mailto:info@metatrader-panel.com">info@metatrader-panel.com</a></span> 
+		  <span class="b1"><a href="mailto:info@metatrader-panel.com">info@metatrader-panel.com</a></span> 
+		</div>
+		<div style="padding-top:10px;padding-bottom:50px;">
 		{% for link in config.extra.footer_links %}
 			<div class="footer-links"><a href="{{ link.href }}" target="_blank" rel="noopener">{{ link.text }}</a></div>			
 		{% endfor %}
-		<div class="md-copyright__highlight" style="padding-top:20px;">
-			{{ config.copyright }}
-		</div>	
+		
 		</div>
-      <!-- Social links -->
-      {% if config.extra.social %}
-        {% include "partials/social.html" %}
-      {% endif %}
     </div>
-
+  </div>
+  <div class="copyright-notice">
+    <p>© <time datetime="2025">2025,</time> All rights reserved by metatrader-panel.com</p>
   </div>
 </footer>
