@@ -17,13 +17,13 @@
     </div>
 
     <div class="footer-right">
-      <div style="padding-top:10px;">
+      <div style="padding-top:10px;padding-right:30px">
 		<span class="md-icon b inline-img">
             {% include ".icons/fontawesome/solid/envelope.svg" %}
           </span>
 		  <span class="b1"><a href="mailto:info@metatrader-panel.com">info@metatrader-panel.com</a></span> 
 		</div>
-		<div style="padding-top:10px;padding-bottom:50px;">
+		<div style="padding-top:10px;padding-bottom:50px;padding-right:30px;">
 		{% for link in config.extra.footer_links %}
 			<div class="footer-links"><a href="{{ link.href }}" target="_blank" rel="noopener">{{ link.text }}</a></div>			
 		{% endfor %}
