@@ -105,7 +105,7 @@ extra_javascript:
   - javascript/lightbox.min.js
   - javascript/change-text.js 
   #- javascript/change-image.js 
-   - javascript/cookieconsent-config.js
+  - javascript/cookieconsent-config.js
     
 nav:
   - Home: 
