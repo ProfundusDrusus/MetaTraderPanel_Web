@@ -21,16 +21,18 @@ CookieConsent.run({
             readOnly: true
         },
         functionality: {},
-        analytics: {}
+        analytics: {},
+        marketing: {}
     },
     language: {
         default: "en",
-        autoDetect: "browser",
+        autoDetect: "document",
         translations: {
             de: {
                 consentModal: {
-                    title: "Hallo Reisende, es ist Kekszeit!",
-                    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
+                    title: "Wir nutzen Cookies",
+                    description: "Diese Website verwendet Cookies und andere Tracking-Technologien, um  dir ein besseres Erlebnis auf unserer Website zu bieten und dein Interesse an unseren Produkten und Dienstleistungen zu messen",
+                    closeIconLabel: "",
                     acceptAllBtn: "Alle akzeptieren",
                     acceptNecessaryBtn: "Alle ablehnen",
                     showPreferencesBtn: "Einstellungen verwalten",
@@ -38,15 +40,15 @@ CookieConsent.run({
                 },
                 preferencesModal: {
                     title: "Präferenzen für die Zustimmung",
+                    closeIconLabel: "Modal schließen",
                     acceptAllBtn: "Alle akzeptieren",
                     acceptNecessaryBtn: "Alle ablehnen",
                     savePreferencesBtn: "Einstellungen speichern",
-                    closeIconLabel: "Modal schließen",
                     serviceCounterLabel: "Dienstleistungen",
                     sections: [
                         {
                             title: "Verwendung von Cookies",
-                            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Diese Website verwendet Cookies und andere Tracking-Technologien, um Ihr Browser-Erlebnis für die folgenden Zwecke zu verbessern: um grundlegende Funktionen der Website zu ermöglichen, um ein besseres Erlebnis auf der Website zu bieten, um Ihr Interesse an unseren Produkten und Dienstleistungen zu messen und um Marketing-Interaktionen zu personalisieren, um für Sie relevantere Werbung anzuzeigen."
                         },
                         {
                             title: "Streng Notwendige Cookies <span class=\"pm__badge\">Immer Aktiviert</span>",
@@ -64,6 +66,11 @@ CookieConsent.run({
                             linkedCategory: "analytics"
                         },
                         {
+                            title: "Werbung Cookies",
+                            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            linkedCategory: "marketing"
+                        },
+                        {
                             title: "Weitere Informationen",
                             description: "For any query in relation to my policy on cookies and your choices, please <a class=\"cc__link\" href=\"#yourdomain.com\">contact me</a>."
                         }
@@ -72,8 +79,9 @@ CookieConsent.run({
             },
             en: {
                 consentModal: {
-                    title: "Hello traveller, it's cookie time!",
-                    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
+                    title: "We use cookies",
+                    description: "This website uses cookies and other tracking technologies to provide you with a better experience on our website and to measure your interest in our products and services",
+                    closeIconLabel: "",
                     acceptAllBtn: "Accept all",
                     acceptNecessaryBtn: "Reject all",
                     showPreferencesBtn: "Manage preferences",
@@ -81,15 +89,15 @@ CookieConsent.run({
                 },
                 preferencesModal: {
                     title: "Consent Preferences Center",
+                    closeIconLabel: "Close modal",
                     acceptAllBtn: "Accept all",
                     acceptNecessaryBtn: "Reject all",
                     savePreferencesBtn: "Save preferences",
-                    closeIconLabel: "Close modal",
                     serviceCounterLabel: "Service|Services",
                     sections: [
                         {
                             title: "Cookie Usage",
-                            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            description: "This website uses cookies and other tracking technologies to improve your browsing experience for the following purposes: to enable basic functionality of the website, to provide a better experience on the website, to measure your interest in our products and services and to personalize marketing interactions, to deliver ads that are more relevant to you."
                         },
                         {
                             title: "Strictly Necessary Cookies <span class=\"pm__badge\">Always Enabled</span>",
@@ -105,6 +113,11 @@ CookieConsent.run({
                             title: "Analytics Cookies",
                             description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
                             linkedCategory: "analytics"
+                        },
+                        {
+                            title: "Advertisement Cookies",
+                            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            linkedCategory: "marketing"
                         },
                         {
                             title: "More information",
