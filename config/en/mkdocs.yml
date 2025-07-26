@@ -90,6 +90,7 @@ extra_css:
   - stylesheets/namari-color.css
   - stylesheets/animate.css
   - stylesheets/font-awesome.min.css
+  - stylesheets/cookieconsent.css
   
 extra_javascript:
   - javascript/jquery.1.8.3.min.js
@@ -104,6 +105,8 @@ extra_javascript:
   - javascript/lightbox.min.js
   - javascript/change-text.js 
   #- javascript/change-image.js 
+   - javascript/cookieconsent-config.js
+    
 nav:
   - Home: 
     - Overview: index.md
