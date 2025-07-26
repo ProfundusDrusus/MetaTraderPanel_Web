@@ -105,7 +105,6 @@ extra_javascript:
   - javascript/images-loaded.min.js
   - javascript/lightbox.min.js
   - javascript/change-text.js
-  #- javascript/change-image.js 
   - javascript/cookieconsent-config.js
   
 nav:

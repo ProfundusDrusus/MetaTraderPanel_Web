@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-<div id="banner-content" class="clearfix miracle wow fadeInDown" data-wow-delay="0.1s">
+<div id="banner-content" class="clearfix wow fadeInDown" data-wow-delay="0.1s">
 	<div class="col-38">
 		<div class="section-heading">
 			<svg class="mobile_only" width="60" height="60" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
@@ -16,13 +16,20 @@ hide:
 			  <circle cx="20" cy="20" fill="#1750AC" r="8"/>
 			  <circle cx="20" cy="20" fill="#F5F5F5" r="7"/>
 			</svg>
-			<h1 id="refresh-headertext">YOUR BROKER IS NOT YOUR FRIEND</h1>
+			<h1 id="refresh-headertext">IHR BROKER IST NICHT IHR FREUND. ER IST IHR HANDELS-PARTNER</h1>
 			<h2 id="refresh-subtext">But we are - MetaTrader-Panel was designed with the one idea in mind making CFD trading a fair deal.</h2>
 			<h3>Give it a go and test us, it's free.</h3>		
 		</div>
 		<!--Call to Action-->
 		<a href="#" class="button" style="color: #3373C4">Learn more...</a>
 		<!--End Call to Action-->
+	</div>
+	<div class="col-61 " >
+		<div class="section-heading" >
+		<picture >
+			<img id="pic-box" src="assets/700x600.png" alt="">
+		</picture>
+		</div>
 	</div>
 </div>
 

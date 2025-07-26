@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-<div id="banner-content" class="clearfix wow fadeInDown" data-wow-delay="0.1s">
+<div id="banner-content" class="clearfix miracle wow fadeInDown" data-wow-delay="0.1s">
 	<div class="col-38">
 		<div class="section-heading">
 			<svg class="mobile_only" width="60" height="60" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
@@ -23,13 +23,6 @@ hide:
 		<!--Call to Action-->
 		<a href="#" class="button" style="color: #3373C4">Learn more...</a>
 		<!--End Call to Action-->
-	</div>
-	<div class="col-61 " >
-		<div class="section-heading" >
-		<picture >
-			<img id="pic-box" src="assets/700x600.png" alt="">
-		</picture>
-		</div>
 	</div>
 </div>
 
