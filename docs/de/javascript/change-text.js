@@ -5,9 +5,9 @@ sub_texts.push("Has ne tritani atomorum conclusionemque, in dolorum volumus coti
 
 var texts = new Array();
 texts.push("DEIN BROKER IST NICHT DEIN FREUND. ER IST DEIN HANDELS-PARTNER");
-texts.push("WARUM VERÄTST DU DEINEM BROKER DEIN STOP LOSS?");
-texts.push("WARUM VERÄTST DU DEINEM BROKER DEINEN TARGET POINT?");
+texts.push("WARUM VERRÄTST DU DEINEM BROKER DEIN STOP LOSS?");
 texts.push("EIN NEUER STANDARD FÜR PRIVATKUNDEN IM CFD-HANDEL");
+texts.push("WARUM VERRÄTST DU DEINEM BROKER DEINEN TARGET POINT?");
 texts.push("INTELLIGENTER CODE, BLITZSCHNELL UND NEUESTE TECHNOLOGIE");
 
 var images = [],
