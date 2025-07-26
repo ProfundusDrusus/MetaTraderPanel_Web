@@ -36,7 +36,7 @@ CookieConsent.run({
                     acceptAllBtn: "Alle akzeptieren",
                     acceptNecessaryBtn: "Alle ablehnen",
                     showPreferencesBtn: "Einstellungen verwalten",
-                    footer: "<a href=\"https:\\metatrader-panel.com/privacy-policy\">Datenschutz</a>\n<a href=\"https:\\metatrader-panel.com/terms-and-conditions\">Bedingungen und Konditionen</a>"
+                    footer: "<a href=\"/privacy-policy\">Datenschutz</a>\n<a href=\"/terms-and-conditions\">Bedingungen und Konditionen</a>"
                 },
                 preferencesModal: {
                     title: "Präferenzen für die Zustimmung",
@@ -81,7 +81,7 @@ CookieConsent.run({
                     acceptAllBtn: "Accept all",
                     acceptNecessaryBtn: "Reject all",
                     showPreferencesBtn: "Manage preferences",
-                    footer: "<a href=\"https:\\metatrader-panel.com/privacy-policy\">Privacy Policy</a>\n<a href=\"https:\\metatrader-panel.com/terms-and-conditions\">Terms and conditions</a>"
+                    footer: "<a href=\"/privacy-policy\">Privacy Policy</a>\n<a href=\"/terms-and-conditions\">Terms and conditions</a>"
                 },
                 preferencesModal: {
                     title: "Consent Preferences Center",
