@@ -8,13 +8,16 @@ sub_texts.push("Has ne tritani atomorum conclusionemque, in dolorum volumus coti
 
 
 var texts = new Array();
-texts.push("YOUR BROKER IS NOT YOUR FRIEND");
-texts.push("A COOL STATEMENT 2");
-texts.push("ANOTHER COOL STATEMENT 3");
+texts.push("IHR BROKER IST NICHT IHR FREUND. ER IST IHR HANDELS-PARTNER");
+texts.push("WARUM VERRATEN SIE IM IHR STOP LOSS?");
+texts.push("WARUM VERRATEN SIE IM IHREN TARGET POINT?");
+texts.push("EIN NEUER BRANCHENSTANDARD  FÜR PRIVATKUNDEN IM CFD-HANDEL");
+texts.push("BLITZSCHNELL, MODERNSTE TECHNOLOGIE UND SCHLANKER CODE");
 
 
 var point = 0;
 var point1 = 0;
+
 function changeHeaderText(){
   $('#refresh-headertext').html(texts[point]);
   if(point < texts.length - 1){

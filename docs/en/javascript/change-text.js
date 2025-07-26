@@ -5,12 +5,12 @@ sub_texts.push("But we are - MetaTrader-Panel was designed with the one idea in 
 sub_texts.push("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore!");
 sub_texts.push("Has ne tritani atomorum conclusionemque, in dolorum volumus cotidieque eum. At vis choro legentur");
 
+texts.push("YOUR BROKER IS NOT YOUR FRIEND. HE IS YOUR COUNTERPART");
+texts.push("WHY YOUR BROKER KNOWS YOUR STOP LOSS");
+texts.push("A NEW STANDARD IN CFD RETAIL TRADING");
+texts.push("WHY YOUR BROKER KNOWS YOUR TARGET POINT");
+texts.push("LIGHTNING FAST, STATE OF THE ART AND LIGHTWEIGHT");
 
-
-var texts = new Array();
-texts.push("YOUR BROKER IS NOT YOUR FRIEND");
-texts.push("A COOL STATEMENT 2");
-texts.push("ANOTHER COOL STATEMENT 3");
 
 
 var point = 0;

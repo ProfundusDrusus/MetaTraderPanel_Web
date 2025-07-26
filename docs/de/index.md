@@ -165,7 +165,7 @@ hide:
 			</div>
 			<!--End Content Right Side-->
 
-			<div class="col-3 wow fadeInUp" data-wow-delay="0.4s">
+			<div id="pic2" class="col-3 wow fadeInUp" data-wow-delay="0.4s">
 				<img src="images/TickChart.jpg" alt="Dancer"/>
 			</div>
 
