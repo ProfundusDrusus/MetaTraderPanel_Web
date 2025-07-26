@@ -3,7 +3,6 @@ hide:
   - navigation
 ---
 
-
 <div id="banner-content" class="clearfix miracle wow fadeInDown" data-wow-delay="0.1s">
 	<div class="col-38">
 		<div class="section-heading">
@@ -166,7 +165,7 @@ hide:
 			</div>
 			<!--End Content Right Side-->
 
-			<div class="col-3 wow fadeInUp" data-wow-delay="0.4s">
+			<div id="pic2" class="col-3 wow fadeInUp" data-wow-delay="0.4s">
 				<img src="images/TickChart.jpg" alt="Dancer"/>
 			</div>
 
