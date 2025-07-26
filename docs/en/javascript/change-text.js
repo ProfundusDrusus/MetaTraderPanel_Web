@@ -2,10 +2,10 @@ var sub_texts = new Array();
 
 
 sub_texts.push("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore!");
-sub_texts.push("But ou are not on your own - MetaTrader-Panel was designed with the one idea in mind making CFD trading a fair deal.");
+sub_texts.push("Do not worry. You're not on your own. MetaTrader-Panel was designed with the one idea in mind making CFD trading a fair deal.");
 sub_texts.push("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore!");
 sub_texts.push("Has ne tritani atomorum conclusionemque, in dolorum volumus cotidieque eum. At vis choro legentur");
-sub_texts.push("Almost 100 years of experience in coding combined with 50 years of experience in professional trading. Experience is all that matters in this business. Our CEO got his first job in the industry long before you were born.");
+sub_texts.push("Experience is all that matters in this business. Almost 100 years in coding combined with 50 years in professional trading. Our CEO got his first job in the industry long before you were born.");
 
 var texts = new Array();
 texts.push("WHY DOES YOUR BROKER KNOW ABOUT YOUR STOP LOSS?");
