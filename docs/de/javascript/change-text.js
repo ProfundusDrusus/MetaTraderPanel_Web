@@ -4,11 +4,11 @@ sub_texts.push("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 sub_texts.push("Has ne tritani atomorum conclusionemque, in dolorum volumus cotidieque eum. At vis choro legentur");
 
 var texts = new Array();
-texts.push("IHR BROKER IST NICHT IHR FREUND. ER IST IHR HANDELS-PARTNER");
-texts.push("WARUM VERRATEN SIE IM IHR STOP LOSS?");
-texts.push("WARUM VERRATEN SIE IM IHREN TARGET POINT?");
-texts.push("EIN NEUER BRANCHENSTANDARD  FÜR PRIVATKUNDEN IM CFD-HANDEL");
-texts.push("BLITZSCHNELL, MODERNSTE TECHNOLOGIE UND SCHLANKER CODE");
+texts.push("DEIN BROKER IST NICHT DEIN FREUND. ER IST DEIN HANDELS-PARTNER");
+texts.push("WARUM VERÄTST DU DEINEM BROKER DEIN STOP LOSS?");
+texts.push("WARUM VERÄTST DU DEINEM BROKER DEINEN TARGET POINT?");
+texts.push("EIN NEUER STANDARD FÜR PRIVATKUNDEN IM CFD-HANDEL");
+texts.push("INTELLIGENTER CODE, BLITZSCHNELL UND NEUESTE TECHNOLOGIE");
 
 var images = [],
    x = -1;
@@ -30,21 +30,28 @@ function changeHeaderText() {
          $(this).fadeIn("slow");
       });
    }
-
-   $('#refresh-headertext').html(texts[point]);
+   
+   $("#refresh-headertext").fadeOut("slow", function () {
+         $(this).html(texts[point]);
+         $(this).fadeIn("slow");
+      });
+	  
    if (point < texts.length - 1) {
       point++;
    } else {
       point = 0;
    }
-   $('#refresh-subtext').html(sub_texts[point1]);
+   $("#refresh-subtext").fadeOut("slow", function () {
+         $(this).html(sub_texts[point1]);
+         $(this).fadeIn("slow");
+      });
    if (point1 < sub_texts.length - 1) {
       point1++;
    } else {
       point1 = 0;
    }
 
-   setTimeout(changeHeaderText, 5000)
+   setTimeout(changeHeaderText, 10000)
 }
 
 changeHeaderText();

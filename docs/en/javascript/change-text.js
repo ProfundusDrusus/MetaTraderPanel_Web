@@ -1,14 +1,18 @@
 var sub_texts = new Array();
-sub_texts.push("But we are - MetaTrader-Panel was designed with the one idea in mind making CFD trading a fair deal.");
+
+
+sub_texts.push("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore!");
+sub_texts.push("But ou are not on your own - MetaTrader-Panel was designed with the one idea in mind making CFD trading a fair deal.");
 sub_texts.push("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore!");
 sub_texts.push("Has ne tritani atomorum conclusionemque, in dolorum volumus cotidieque eum. At vis choro legentur");
+sub_texts.push("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore!");
 
 var texts = new Array();
+texts.push("WHY DOES YOUR BROKER KNOW ABOUT YOUR STOP LOSS?");
 texts.push("YOUR BROKER IS NOT YOUR FRIEND. HE IS YOUR COUNTERPART");
-texts.push("WHY YOUR BROKER KNOWS YOUR STOP LOSS");
-texts.push("A NEW STANDARD IN CFD RETAIL TRADING");
-texts.push("WHY YOUR BROKER KNOWS YOUR TARGET POINT");
-texts.push("SLIM, LIGHTNING FAST AND STATE OF THE ART");
+texts.push("A NEW INDUSTRY STANDARD IN CFD RETAIL TRADING HAS BEEN SET");
+texts.push("WHY DOES YOUR BROKER KNOW ABOUT YOUR TARGET POINT?");
+texts.push("SMART CODE, LIGHTNING FAST AND STATE OF THE ART");
 
 var images = [],
    x = -1;
@@ -30,21 +34,28 @@ function changeHeaderText() {
          $(this).fadeIn("slow");
       });
    }
-
-   $('#refresh-headertext').html(texts[point]);
+   
+   $("#refresh-headertext").fadeOut("slow", function () {
+         $(this).html(texts[point]);
+         $(this).fadeIn("slow");
+      });
+	  
    if (point < texts.length - 1) {
       point++;
    } else {
       point = 0;
    }
-   $('#refresh-subtext').html(sub_texts[point1]);
+   $("#refresh-subtext").fadeOut("slow", function () {
+         $(this).html(sub_texts[point1]);
+         $(this).fadeIn("slow");
+      });
    if (point1 < sub_texts.length - 1) {
       point1++;
    } else {
       point1 = 0;
    }
 
-   setTimeout(changeHeaderText, 5000)
+   setTimeout(changeHeaderText, 12000)
 }
 
 changeHeaderText();
