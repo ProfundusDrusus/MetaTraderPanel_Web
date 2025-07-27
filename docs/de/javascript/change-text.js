@@ -1,11 +1,11 @@
 
 var sub_texts = new Array();
 sub_texts.push("Das haben wir uns auch gefragt. Dann haben wir einfach einen Tick-Chart gebaut, aus dem man auch wirklich traden kann.");
-sub_texts.push("No more stop loss fishing. MetaTrader-Panel uses a stealth mode and your stop loss is invisible to your counterpart.");
-sub_texts.push("Do not worry. You're not on your own. MetaTrader-Panel was designed with the one idea in mind making CFD trading a fair deal.");
-sub_texts.push("Experience is all that matters in trading. With almost 100 years in coding and 50 years in professional trading we know what we are doing.");
-sub_texts.push("In CFD trading your broker is also your counterpart. Telling your broker your target point allows your counterpart a head start.");
-sub_texts.push("Experience is all that matters in trading. With almost 100 years in coding and 50 years in professional trading we know what we are doing.");
+sub_texts.push("Schluss mit Stop-Loss-Fischen. MetaTrader-Panel nutzt einen Stealth-Modus und dein Stop Loss ist für deinen Handels-Partner unsichtbar.");
+sub_texts.push("Keine Sorge. Du bist nicht allein. MetaTrader-Panel wurde mit der Idee entwickelt, den CFD-Handel für Endkunden fairer zu machen.");
+sub_texts.push("Im Trading zählt vor allem Erfahrung. Mit fast 100 Jahren im Programmieren und 50 im professionellen Trading wissen wir genau, was wir tun.");
+sub_texts.push("Beim CFD-Handel ist dein Broker auch dein Handelspartner. Verrätst du ihm deinen Target Point gibst du ihm einen entscheidenden Vorsprung.");
+sub_texts.push("Im Trading zählt vor allem Erfahrung. Mit fast 100 Jahren im Programmieren und 50 im professionellen Trading wissen wir genau, was wir tun.");
 
 var texts = new Array();
 texts.push("WARUM VERFÜGT MT5 ÜBER KEINEN GUTEN TICK-CHART?");
