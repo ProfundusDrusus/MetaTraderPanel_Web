@@ -14,6 +14,7 @@ hide:
 			  <circle cx="20" cy="20" fill="#3373C4" r="13"/>
 			  <circle cx="20" cy="20" fill="#5494DA" r="12"/>
 			  <circle cx="20" cy="20" fill="#1750AC" r="8"/>
+			  <circle cx="20" cy="20" fill="#F5F5F5" r="7"/>How we help to achieve better trading results
 			  <circle cx="20" cy="20" fill="#F5F5F5" r="7"/>
 			</svg>
 			<h1 id="refresh-headertext">IHR BROKER IST NICHT IHR FREUND. ER IST IHR HANDELS-PARTNER</h1>
@@ -44,7 +45,7 @@ hide:
 			<div class="col-3 wow fadeInLeft" data-wow-delay="0.1s">
 				<div class="section-heading">
 					<h3>SUCCESS</h3>
-					<h2 class="section-title">How we help to achieve better trading results</h2>
+					<h2 class="section-title">Wie wir dir helfen bessere trading Ergebnisse4 zu erzielen</h2>
 					<p class="section-subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 						eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!</p>
 				</div>
