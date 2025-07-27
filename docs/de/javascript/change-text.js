@@ -7,14 +7,14 @@ sub_texts.push("Keine Sorge, du bist nicht allein. MetaTrader-Panel wurde mit de
 sub_texts.push("Erfahrung zählt. Unser Team vereint mehr als 120 Jahre professioneller Trading Erfahrung und wir wissen genau, was wir tun");
 sub_texts.push("Im CFD-Handel ist dein Broker auch dein Handelspartner. Verrätst du ihm deinen Target Point gibst du ihm einen entscheidenden Vorsprung");
 sub_texts.push("Die Kombination erfahrener Trader mit jahrzehntelanger Handelserfahrung mit jungen, erfolgshungrigen Talenten, das ist unser Geheimnis.");
-sub_texts.push("Natürlich nicht - wie denn auch? MetaTrader-Panel hat sein eigene Datenbank und kann das natürlich. Kein Problem für uns");
+sub_texts.push("Natürlich nicht - wie denn auch? MetaTrader-Panel hat seine eigene Datenbank und kann das natürlich. Kein Problem für uns");
 
 var texts = new Array();
 
 texts.push("WARUM VERFÜGT MT5 ÜBER KEINEN GUTEN TICK-CHART?");
 texts.push("WARUM VERRÄTST DU DEINEM BROKER DEIN STOP LOSS?");
 texts.push("DEIN BROKER IST NICHT DEIN FREUND. ER IST DEIN HANDELS-PARTNER");
-texts.push("WIR SETZEN EINEN NEUEN STANDARD FÜR CFD RETAIL TRADING");
+texts.push("WIR SETZEN EINEN NEUEN STANDARD IM CFD RETAIL HANDEL");
 texts.push("WARUM KENNT DEIN HANDELS-PARTNER DEINEN TARGET POINT?");
 texts.push("INTELLIGENTER CODE, BLITZSCHNELL UND NEUESTE TECHNOLOGIE");
 texts.push("KANN MT5 FIBONACCI LEVELS OHNE DATEN ZEICHNEN?");
