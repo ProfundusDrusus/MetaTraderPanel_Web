@@ -6,7 +6,7 @@ sub_texts.push("Schluss mit Stop-Loss Fischen. MetaTrader-Panel benutzt einen St
 sub_texts.push("Keine Sorge, du bist nicht allein. MetaTrader-Panel wurde mit der Idee entwickelt, den CFD-Handel für Endkunden fairer zu machen.");
 sub_texts.push("Erfahrung zählt. Unser Team vereint mehr als 120 Jahre professioneller Trading Erfahrung und wir wissen genau, was wir tun");
 sub_texts.push("Im CFD-Handel ist dein Broker auch dein Handelspartner. Verrätst du ihm deinen Target Point gibst du ihm einen entscheidenden Vorsprung");
-sub_texts.push("Die Kombination erfahrener Trader mit jahrzehntelanger Handelserfahrung mit jungen, erfolgshungrigen Talenten. Das ist unser Geheimnis.");
+sub_texts.push("Die Kombination erfahrener Trader mit jahrzehntelanger Handelserfahrung mit jungen, erfolgshungrigen Talenten, das ist unser Geheimnis.");
 sub_texts.push("Natürlich nicht - wie denn auch? MetaTrader-Panel hat sein eigene Datenbank und kann das natürlich. Kein Problem für uns");
 
 var texts = new Array();
