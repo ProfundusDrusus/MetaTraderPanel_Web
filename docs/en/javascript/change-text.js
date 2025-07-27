@@ -5,6 +5,7 @@ sub_texts.push("No more stop loss fishing. MetaTrader-Panel uses a stealth mode 
 sub_texts.push("Do not worry. You're not on your own. MetaTrader-Panel was designed with the one idea in mind making CFD trading a fair deal.");
 sub_texts.push("Experience is all that matters in trading. With almost 100 years in coding and 50 years in professional trading we know what we are doing.");
 sub_texts.push("In CFD trading your broker is also your counterpart. Telling your broker your target point allows your counterpart a head start.");
+sub_texts.push("combinING veteran traders with decades of trading experience with young talents. That's our secret. It's simple as that");
 sub_texts.push("Experience is all that matters in trading. With almost 100 years in coding and 50 years in professional trading we know what we are doing.");
 
 var texts = new Array();
@@ -14,6 +15,7 @@ texts.push("YOUR BROKER IS NOT YOUR FRIEND. HE IS YOUR COUNTERPART");
 texts.push("A NEW INDUSTRY STANDARD IN CFD RETAIL TRADING HAS BEEN SET");
 texts.push("WHY YOUR COUNTERPART KNOWS ABOUT YOUR TARGET POINT?");
 texts.push("SMART CODE, LIGHTNING FAST AND STATE OF THE ART");
+texts.push("CAN MT58 DRAW FIBONACCI LEVELS WITHOU  DATA?");
 
 var images = [],
    x = -1;
