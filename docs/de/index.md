@@ -44,7 +44,7 @@ hide:
 
 			<div class="col-3 wow fadeInLeft" data-wow-delay="0.1s">
 				<div class="section-heading">
-					<h3>SUCCESS</h3>
+					<h3>ERFOLG</h3>
 					<h2 class="section-title">Wie wir dir helfen bessere trading Ergebnisse4 zu erzielen</h2>
 					<p class="section-subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 						eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!</p>
