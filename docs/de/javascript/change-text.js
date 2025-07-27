@@ -4,7 +4,7 @@ sub_texts.push("Das haben wir uns auch gefragt. Dann haben wir einfach einen Tic
 sub_texts.push("Schluss mit Stop-Loss-Fischen. MetaTrader-Panel nutzt einen Stealth-Modus und dein Stop Loss ist für deinen Handels-Partner unsichtbar.");
 sub_texts.push("Keine Sorge. Du bist nicht allein. MetaTrader-Panel wurde mit der Idee entwickelt, den CFD-Handel für Endkunden fairer zu machen.");
 sub_texts.push("Im Trading zählt vor allem Erfahrung. Mit fast 100 Jahren im Programmieren und 50 im professionellen Trading wissen wir genau, was wir tun.");
-sub_texts.push("Beim CFD-Handel ist dein Broker auch dein Handelspartner. Verrätst du ihm deinen Target Point gibst du ihm einen entscheidenden Vorsprung.");
+sub_texts.push("Im CFD-Handel ist dein Broker auch dein Handelspartner. Verrätst du ihm deinen Target Point gibst du ihm einen entscheidenden Vorsprung.");
 sub_texts.push("Im Trading zählt vor allem Erfahrung. Mit fast 100 Jahren im Programmieren und 50 im professionellen Trading wissen wir genau, was wir tun.");
 
 var texts = new Array();
@@ -12,7 +12,7 @@ texts.push("WARUM VERFÜGT MT5 ÜBER KEINEN GUTEN TICK-CHART?");
 texts.push("WARUM VERRÄTST DU DEINEM BROKER DEIN STOP LOSS?");
 texts.push("DEIN BROKER IST NICHT DEIN FREUND. ER IST DEIN HANDELS-PARTNER");
 texts.push("EIN NEUER STANDARD FÜR PRIVATKUNDEN IM CFD-HANDEL");
-texts.push("WARUM KENNT DEIN HANDESLS-PARTNER DEINEN TARGET POINT?");
+texts.push("WARUM KENNT DEIN HANDELS-PARTNER DEINEN TARGET POINT?");
 texts.push("INTELLIGENTER CODE, BLITZSCHNELL UND NEUESTE TECHNOLOGIE");
 
 var images = [],
