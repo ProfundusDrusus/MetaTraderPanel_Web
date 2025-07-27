@@ -1,6 +1,6 @@
 var sub_texts = new Array();
 
-sub_texts.push("We asked ourselves exactly this question. Then we decided to simply built a tick chart you can actually trade from.");
+sub_texts.push("We asked ourselves exactly the same question. Then we simply built a tick chart that you can actually trade from.");
 sub_texts.push("No more stop loss fishing. MetaTrader-Panel uses a stealth mode and your stop loss is invisible to your counterpart.");
 sub_texts.push("Do not worry. You're not on your own. MetaTrader-Panel was designed with the one idea in mind making CFD trading a fair deal.");
 sub_texts.push("Experience is all that matters in trading. With almost 100 years in coding and 50 years in professional trading we know what we are doing.");
