@@ -17,8 +17,8 @@ hide:
 			  <circle cx="20" cy="20" fill="#F5F5F5" r="7"/>
 			</svg>
 			<h1 id="refresh-headertext">IHR BROKER IST NICHT IHR FREUND. ER IST IHR HANDELS-PARTNER</h1>
-			<h2 id="refresh-subtext">But we are - MetaTrader-Panel was designed with the one idea in mind making CFD trading a fair deal.</h2>
-			<h3>Give it a go and test us, it's free.</h3>		
+			<h2 id="refresh-subtext" style="color: #333333;">But we are - MetaTrader-Panel was designed with the one idea in mind making CFD trading a fair deal.</h2>
+			<h3 style="color: #808080;">Give it a go and test us, it's free.</h3>		
 		</div>
 		<!--Call to Action-->
 		<a href="#" class="button" style="color: #3373C4">Learn more...</a>
