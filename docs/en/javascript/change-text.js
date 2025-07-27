@@ -5,7 +5,7 @@ sub_texts.push("No more stop loss fishing. MetaTrader-Panel is running in stealt
 sub_texts.push("Do not worry. You're not on your own. MetaTrader-Panel was designed with the one idea in mind making CFD trading a fair deal.");
 sub_texts.push("Experience is all that matters in trading. With almost 100 years in coding and 50 years in professional trading we know what we are doing.");
 sub_texts.push("In CFD trading your broker is also your counterpart. Telling your broker your target point allows your counterpart a head start.");
-sub_texts.push("Combining veteran traders with decades of trading experience with young talents. That's our secret. It's simple as that");
+sub_texts.push("Combining veteran traders with decades of trading experience with young and hungry talents eager to achieve success. That's our secret.");
 sub_texts.push("Experience is all that matters in trading. With almost 100 years in coding and 50 years in professional trading we know what we are doing.");
 
 var texts = new Array();
