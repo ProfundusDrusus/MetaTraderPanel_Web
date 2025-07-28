@@ -186,9 +186,9 @@ hide:
 	<!--Pricing Tables-->
         <section id="pricing" class="secondary-color text-center scrollto clearfix ">
             <div class="row clearfix">
-                <div id="JumpLink" class="section-heading">
+                <div id="go-pricing" class="section-heading">
                     <h3>DEINE ENTSCHEIDUNG</h3>
-                    <h2 id="JumpLink2" class="section-title">Wir haben das richtige Angebot für dich</h2>
+                    <h2 class="section-title">Wir haben das richtige Angebot für dich</h2>
                 </div>
 
                 <!--Pricing Block-->
