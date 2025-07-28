@@ -218,7 +218,7 @@ hide:
                         <p class="pricing-sub">Day-Trader ohne Signale</p>
                         <div class="pricing">
                             <div class="price"><span>€</span>99</div>
-                            <p>Alles was du brauchst um erfolgreich Intraday-zu handeln</p>
+                            <p>Alles was du brauchst um erfolgreich Intraday zu handeln</p>
                         </div>
                         <ul>
                             <li>Day-Trader / Scalper</li>
