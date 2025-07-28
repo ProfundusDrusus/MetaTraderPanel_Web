@@ -134,7 +134,6 @@ hide:
 
 		<div class="row no-padding-bottom clearfix">
 
-
 			<!--Content Left Side-->
 			<div class="col-3 wow fadeInLeft" data-wow-delay="0.1s">
 				<!--User Testimonial-->
