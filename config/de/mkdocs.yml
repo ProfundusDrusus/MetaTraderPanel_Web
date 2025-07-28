@@ -122,7 +122,7 @@ nav:
   - Download:
     - Latest version: download/download.md 
   - Preise:
-    - Order: pricing/order.md
+    - Order: https://doc.metatrader-panel.com/#pricing
   - FollowMe: https://client.metatrader-panel.com/
   - Mehr:
     - Release Notes: about/release-notes.md
