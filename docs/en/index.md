@@ -21,7 +21,7 @@ hide:
 			<h3 style="color: #808080;">Give it a go and test us, it's free.</h3>		
 		</div>
 		<!--Call to Action-->
-		<a href="#" class="button" style="color: #3373C4">Learn more...</a>
+		<a href="#" class="button" style="background-color: #5494DA;color:white;">Learn more...</a>
 		<!--End Call to Action-->
 	</div>
 	<div class="col-61 " >

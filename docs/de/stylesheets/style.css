@@ -1466,11 +1466,18 @@ blockquote {
     position: relative;
 }
 
+
 .price span {
     position: absolute;
     top: 0;
     left: -20px;
     font-size: 22px;
+}
+
+.price:after {
+	margin-left:10px;
+    content: 'Jahr';
+    font-size: 14px;
 }
 
 .pricing  p {

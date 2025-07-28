@@ -22,7 +22,7 @@ hide:
 			<h3 style="color: #808080;">Probiere es aus, kostenlos und ohne Risiko.</h3>		
 		</div>
 		<!--Call to Action-->
-		<a href="#" class="button" style="color: #3373C4">Mehr erfahren...</a>
+		<a href="#" class="button" style="background-color: #5494DA;color:white;">Mehr erfahren <i class="fa fa-play" aria-hidden="true"></i></a>
 		<!--End Call to Action-->
 	</div>
 	<div class="col-61 " >
@@ -62,7 +62,7 @@ hide:
 					</div>
 					<!--Icon Block Description-->
 					<div class="icon-block-description">
-						<h4>HTML5 &amp; CSS3</h4>
+						<h4>Einfache Bedienung</h4>
 						<p>Has ne tritani atomorum conclusionemque, in dolorum volumus cotidieque eum. At vis choro
 							neglegentur iudico</p>
 					</div>
@@ -77,7 +77,7 @@ hide:
 					</div>
 					<!--Icon Block Description-->
 					<div class="icon-block-description">
-						<h4>Easy to Use</h4>
+						<h4>Teilverkäufe</h4>
 						<p>Cu vero ipsum vim, doctus facilisi sea in. Eam ex falli honestatis repudiandae, sit
 							detracto mediocrem disputationi</p>
 					</div>
@@ -97,7 +97,7 @@ hide:
 					</div>
 					<!--Icon Block Description-->
 					<div class="icon-block-description">
-						<h4>HTML5 &amp; CSS3</h4>
+						<h4>Orders per Doppelklick</h4>
 						<p>Has ne tritani atomorum conclusionemque, in dolorum volumus cotidieque eum. At vis choro
 							neglegentur iudico</p>
 					</div>
@@ -112,7 +112,7 @@ hide:
 					</div>
 					<!--Icon Block Description-->
 					<div class="icon-block-description">
-						<h4>Easy to Use</h4>
+						<h4>Bitzschnell Stops setzen</h4>
 						<p>Cu vero ipsum vim, doctus facilisi sea in. Eam ex falli honestatis repudiandae, sit
 							detracto mediocrem disputationi</p>
 					</div>
@@ -152,8 +152,8 @@ hide:
 			<!--Content of the Right Side-->
 			<div class="col-3  wow fadeInUp" data-wow-delay="0.2s">
 				<div class="section-heading">
-					<h3>BELIEVING</h3>
-					<h2 class="section-title">Focusing On What Matters Most</h2>
+					<h3>FOKUSIERUNG</h3>
+					<h2 class="section-title">Konzentration auf das Wesentliche</h2>
 					<p >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 						eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!</p>
 				</div>
@@ -166,10 +166,7 @@ hide:
 					consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
 					Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet!
 				</p>
-				<!-- Just replace the Video ID "UYJ5IjBRlW8" with the ID of your video on YouTube (Found within the URL) -->
-				<a href="#" data-videoid="UYJ5IjBRlW8" data-videosite="youtube" class="button video link-lightbox">
-					WATCH VIDEO <i class="fa fa-play" aria-hidden="true"></i>
-				</a>
+				
 			</div>
 			<!--End Content Right Side-->
 
@@ -190,27 +187,28 @@ hide:
         <section id="pricing" class="secondary-color text-center scrollto clearfix ">
             <div class="row clearfix">
                 <div class="section-heading">
-                    <h3>YOUR CHOICE</h3>
-                    <h2 id="JumpLink" class="section-title">We have the right package for you</h2>
+                    <h3>DEINE ENTSCHEIDUNG</h3>
+                    <h2 id="JumpLink" class="section-title">Wir haben das richtige Angebot für dich</h2>
                 </div>
 
                 <!--Pricing Block-->
                 <div class="pricing-block col-3" >
                     <div id="priceHover" class="pricing-block-content">
                         <h3>FREE</h3>
-                        <p class="pricing-sub">The standard version</p>
+                        <p class="pricing-sub">Risikofrei testen</p>
                         <div class="pricing">
                             <div class="price"><span>€</span>0</div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                            <p>Teste MetaTrader-Panel ganz in Ruhe und solange du willst</p>
                         </div>
                         <ul>
-                            <li>5 Downloads</li>
-                            <li>2 Extensions</li>
-                            <li> </li><li> </li>
-                            <li>Forum Support</li>
-                            <li>1 year free updates</li>
+							<li style="color: #333333;">Ideal für Anfänger</li>
+							<li style="color: #333333;">Volle Funktionalität</li>
+                            <li style="color: #333333;">Keine versteckten Gebühren</li>
+                            
+                            <li style="color: #333333;">Beschränkt auf Demo-Konten</li>
+							<li style="color: #333333;">Eingeschränkter Support</li>
                         </ul>
-                        <a href="#" class="button">BUY TODAY</a>
+                        <a href="#" class="button" style="background-color: #5494DA;color:white;">AUSPROBIEREN</a>
                     </div>
                 </div>
                 <!--End Pricing Block-->
@@ -220,19 +218,20 @@ hide:
                 <div class="pricing-block col-3" >
                     <div id="priceHover" class="pricing-block-content">
                         <h3>STADALONE</h3>
-                        <p class="pricing-sub">For the whole team</p>
+                        <p class="pricing-sub">Day-Trader ohne Signale</p>
                         <div class="pricing">
                             <div class="price"><span>€</span>99</div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                            <p>Alles was du brauchst um erfolgreich Intraday-zu handeln</p>
                         </div>
                         <ul>
-                            <li>Unlimited Downloads</li>
+                            <li>Day-Trader / Scalper</li>
                             <li>Unlimited Extensions</li>
                             <li>HD Video Tutorials</li>
-                            <li>Chat Support</li>
-                            <li>Lifetime free updates</li>
+                            <li>Inklusiv 1 Jahr Updates</li>
+                            <li>Uneingeschränkter Support</li>
                         </ul>
-                        <a href="#" class="button">BUY TODAY</a>
+
+						<a href="#" class="button" style="background-color: #5494DA;color:white;">JETZT KAUFEN </a>
                     </div>
                 </div>
                 <!--End Pricing Block-->
@@ -241,19 +240,19 @@ hide:
                 <div class="pricing-block col-3" >
                     <div id="priceHover" class="pricing-block-content">
                         <h3>PROFESSIONAL</h3>
-                        <p class="pricing-sub">For the whole team</p>
+                        <p class="pricing-sub">Day-Trader incl. Signale</p>
                         <div class="pricing">
-                            <div class="price"><span>€</span>199</div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                            <div class="price"><span>€</span>299</div>
+                            <p>Erhalte zusätzlich Handelssignale unserer KI Jeannie</p>
                         </div>
                         <ul>
                             <li>Unlimited Downloads</li>
                             <li>Unlimited Extensions</li>
                             <li>HD Video Tutorials</li>
-                            <li>Chat Support</li>
-                            <li>Lifetime free updates</li>
+                            <li>Inklusiv 1 Jahr Updates</li>
+                            <li>Uneingeschränkter Support</li>
                         </ul>
-                        <a href="#" class="button">BUY TODAY</a>
+                        <a href="#" class="button" style="background-color: #5494DA;color:white;">JETZT KAUFEN </a>
                     </div>
                 </div>
                 <!--End Pricing Block-->
@@ -269,12 +268,12 @@ hide:
 
 			<div class="section-heading">
 				<h3>FEEDBACK</h3>
-				<h2 class="section-title">What our customers are saying</h2>
+				<h2 class="section-title">Was unsere Kunden sagen</h2>
 			</div>
 
 			<!--User Testimonial-->
-			<blockquote class="col-3 testimonial classic">
-				<img src="images/user-images/user-1.jpg" alt="User"/>
+			<blockquote class="col-4 testimonial classic">
+				
 				<q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
 					labore
 					et dolore magna aliqua</q>
@@ -283,8 +282,8 @@ hide:
 			<!-- End of Testimonial-->
 
 			<!--User Testimonial-->
-			<blockquote class="col-3 testimonial classic">
-				<img src="images/user-images/user-2.jpg" alt="User"/>
+			<blockquote class="col-4 testimonial classic">
+				 
 				<q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
 					labore
 					et dolore magna aliqua</q>
@@ -293,12 +292,22 @@ hide:
 			<!-- End of Testimonial-->
 
 			<!--User Testimonial-->
-			<blockquote class="col-3 testimonial classic">
-				<img src="images/user-images/user-3.jpg" alt="User"/>
+			<blockquote class="col-4 testimonial classic">
+				
 				<q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
 					labore
 					et dolore magna aliqua</q>
 				<footer>Thomas Doe - Happy Customer</footer>
+			</blockquote>
+			<!-- End of Testimonial-->
+			
+			<!--User Testimonial-->
+			<blockquote class="col-4 testimonial classic">
+				 
+				<q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+					labore
+					et dolore magna aliqua</q>
+				<footer>Roslyn Doe - Happy Customer</footer>
 			</blockquote>
 			<!-- End of Testimonial-->
 
