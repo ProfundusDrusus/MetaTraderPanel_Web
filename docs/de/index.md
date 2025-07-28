@@ -151,7 +151,7 @@ hide:
 				<div class="section-heading">
 					<h3>FOKUSIERUNG</h3>
 					<h2 class="section-title">Konzentration auf das Wesentliche</h2>
-					<p >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+					<p >Und hier kommt dann die ganz dolle Erklärung wie wir das machen, sed do
 						eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!</p>
 				</div>
 				<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
