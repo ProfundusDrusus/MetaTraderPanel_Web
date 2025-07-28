@@ -139,10 +139,8 @@ hide:
 			<div class="col-3 wow fadeInLeft" data-wow-delay="0.1s">
 				<!--User Testimonial-->
 				<blockquote class="testimonial text-right bigtest">
-					<q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-						labore
-						et dolore magna aliqua</q>
-					<footer>— John Doe, Happy Customer</footer>
+					<q>Wir versuchen einfach, ängstlich zu sein, wenn andere gierig sind, und nur dann gierig zu sein, wenn andere Angst haben.</q>
+					<footer>— Warren Buffet —</footer>
 				</blockquote>
 				<!-- End of Testimonial-->
 
@@ -202,7 +200,7 @@ hide:
                         </div>
                         <ul>
 							<li style="color: #333333;">Ideal für Anfänger</li>
-							<li style="color: #333333;">Volle Funktionalität</li>
+							<li style="color: #333333;">1 Trading Panel</li>
                             <li style="color: #333333;">Keine versteckten Gebühren</li>
                             
                             <li style="color: #333333;">Beschränkt auf Demo-Konten</li>
@@ -225,8 +223,8 @@ hide:
                         </div>
                         <ul>
                             <li>Day-Trader / Scalper</li>
-                            <li>Unlimited Extensions</li>
-                            <li>HD Video Tutorials</li>
+                            <li>Unlimierte Panel Anzahl</li>
+                            <li>Freie Trading Kurse</li>
                             <li>Inklusiv 1 Jahr Updates</li>
                             <li>Uneingeschränkter Support</li>
                         </ul>
@@ -246,9 +244,9 @@ hide:
                             <p>Erhalte zusätzlich Handelssignale unserer KI Jeannie</p>
                         </div>
                         <ul>
-                            <li>Unlimited Downloads</li>
-                            <li>Unlimited Extensions</li>
-                            <li>HD Video Tutorials</li>
+                            <li>KI Handels-Signale</li>
+                            <li>Unlimierte Panel Anzahl</li>
+                            <li>Freie Trading Kurse</li>
                             <li>Inklusiv 1 Jahr Updates</li>
                             <li>Uneingeschränkter Support</li>
                         </ul>

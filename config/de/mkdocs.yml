@@ -54,13 +54,13 @@ plugins:
        lang: de
 extra:
   footer_links:
-    - text: "About us"
+    - text: "Über uns"
       href: "https://anter.dev/privacy"
-    - text: "Products"
+    - text: "Produkte"
       href: "https://anter.dev/privacy"
-    - text: "Privacy Policy"
+    - text: "Datenschutz"
       href: "https://anter.dev/privacy"
-    - text: "Imprint"
+    - text: "Impressum"
       href: "https://anter.dev/imprint"
   generator: false
   #social:
