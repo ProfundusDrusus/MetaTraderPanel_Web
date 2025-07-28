@@ -138,7 +138,7 @@ hide:
 			<div class="col-3 wow fadeInLeft" data-wow-delay="0.1s">
 				<!--User Testimonial-->
 				<blockquote class="testimonial text-right bigtest">
-					<q>Wir versuchen einfach, ängstlich zu sein, wenn andere gierig sind, und nur dann gierig zu sein, wenn andere Angst haben.</q>
+					<q>Spiele werden von denen gewonnen, die sich auf das Spiel konzentrieren – nicht von denen, deren Augen auf die Anzeigetafel gerichtet sind.</q>
 					<footer>— Warren Buffet —</footer>
 				</blockquote>
 				<!-- End of Testimonial-->
@@ -214,8 +214,8 @@ hide:
                 <!--Pricing Block-->
                 <div class="pricing-block col-3" >
                     <div id="priceHover" class="pricing-block-content">
-                        <h3>STADALONE</h3>
-                        <p class="pricing-sub">Day-Trader ohne Signale</p>
+                        <h3>STANDALONE</h3>
+                        <p class="pricing-sub">Day-Trading</p>
                         <div class="pricing">
                             <div class="price"><span>€</span>99</div>
                             <p>Alles was du brauchst um erfolgreich Intraday zu handeln</p>

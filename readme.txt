@@ -18,3 +18,8 @@ https://stackoverflow.com/questions/22578804/change-divs-class-every-x-second-bu
 https://convertio.co/download/a5f89eae4c5bcca2ab43b3cba2ee44dfa1b1b1/
 https://shihabiiuc.com/testimonial-slider/
 https://playground.cookieconsent.orestbida.com/
+
+Games are won by players who focus on the playing field –- not by those whose eyes are glued to the scoreboard.
+https://pepperstone.com/en-eu/learn-to-trade/trading-guides/a-list-of-famous-forex-trading-quotes/
+https://www.brainyquote.com/authors/warren-buffett-quotes
+https://www.godocm.com/powerful-trading-quotes-to-transform-your-trading-approach/
