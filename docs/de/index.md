@@ -151,7 +151,7 @@ hide:
 				<div class="section-heading">
 					<h3>FOKUSIERUNG</h3>
 					<h2 class="section-title">Konzentration auf das Wesentliche</h2>
-					<p >Und hier kommt dann die ganz dolle Erklärung wie wir das machen, unterstützt von wdrchselnden Bildchen vom Panel inm Action</p>
+					<p >Und hier kommt dann die ganz dolle Erklärung wie wir das machen, unterstützt von wechselnden Bildchen vom Panel inm Action</p>
 				</div>
 				<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
 					totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
