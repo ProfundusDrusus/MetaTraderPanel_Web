@@ -121,7 +121,7 @@ nav:
   - Download:
     - Latest version: download/download.md 
   - Pricing:
-    - Order: pricing/order.md
+    - Order: https://doc.metatrader-panel.com/en/#pricing
   - More:
     - Release Notes: about/release-notes.md
     - License: about/license.md    
