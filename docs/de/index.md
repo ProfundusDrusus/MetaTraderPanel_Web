@@ -138,7 +138,7 @@ hide:
 			<div class="col-3 wow fadeInLeft" data-wow-delay="0.1s">
 				<!--User Testimonial-->
 				<blockquote class="testimonial text-right bigtest">
-					<q>Spiele werden von denen gewonnen, die sich auf das Spiel konzentrieren – nicht von denen, die die ganze Zeit nur auf die Anzeigetafel schauen.</q>
+					<q>Spiele werden von denen gewonnen, die sich auf das Spiel konzentrieren – nicht von denen, die nur die ganze Zeit auf die Anzeigetafel schauen.</q>
 					<footer>— Warren Buffet —</footer>
 				</blockquote>
 				<!-- End of Testimonial-->
