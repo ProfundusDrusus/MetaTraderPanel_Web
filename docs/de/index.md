@@ -167,7 +167,7 @@ hide:
 			<!--End Content Right Side-->
 
 			<div id="pic2" class="col-3 wow fadeInUp" data-wow-delay="0.4s">
-				<img src="images/TickChart.jpg" alt="Dancer"/>
+				<img style="max-width: 100%;height: auto;;" src="assets/Panel_04.png" alt="Panel"/>
 			</div>
 
 		</div>
@@ -283,7 +283,7 @@ hide:
 				<q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
 					labore
 					et dolore magna aliqua</q>
-				<footer>Roslyn Doe - Happy Customer</footer>
+				<footer>Oma Drusus - Happy Customer</footer>
 			</blockquote>
 			<!-- End of Testimonial-->
 

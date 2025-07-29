@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.footer-col-2 {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.footer-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.footer-info-link{
+  text-align: right;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+.footer-rechts{
+  text-align: right;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+</style>
+</head>
+<body>
+
+<h2>Two Equal Columns</h2>
+
+<div class="footer-row">
+  <div class="footer-col-2">
+    <svg width="60" height="60" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+			  <circle cx="20" cy="20" fill="none" r="12" stroke="#1750AC" stroke-width="3">
+				<animate attributeName="r" from="8" to="20" dur="1.5s" begin="0s" repeatCount="indefinite"/>
+				<animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0s" repeatCount="indefinite"/>
+			  </circle>
+			  <circle cx="20" cy="20" fill="#3373C4" r="13"/>
+			  <circle cx="20" cy="20" fill="#5494DA" r="12"/>
+			  <circle cx="20" cy="20" fill="#1750AC" r="8"/>
+			  <circle cx="20" cy="20" fill="#F5F5F5" r="7"/>
+	</svg>
+    <p>„In der Welt des Trading ist der Rückspiegel immer klarer als die Windschutzscheibe.“</p>
+  </div>
+  <div class="footer-col-2">
+		<div >
+			<div class="footer-rechts"><a href="mailto:info@metatrader-panel.com">info@metatrader-panel.com</a></fiv> 
+		</div>
+			<div class="footer-rechts"><a href="https://anter.dev/privacy" target="_blank" rel="noopener">Über uns</a></div>			
+		
+			<div class="footer-rechts"><a href="https://anter.dev/privacy" target="_blank" rel="noopener">Produkte</a></div>			
+		
+			<div class="footer-rechts"><a href="https://anter.dev/privacy" target="_blank" rel="noopener">Datenschutz</a></div>			
+		
+			<div class="footer-rechts"><a href="https://anter.dev/imprint" target="_blank" rel="noopener">Impressum</a></div>			
+		
+		
+		</div>
+  </div>
+</div>
+
+</body>
+</html>

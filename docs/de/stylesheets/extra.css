@@ -18,11 +18,17 @@
   line-height: 3rem;
 }
 
+.md-top{
+  color: red:
+}
+
 :root  > * {
   --md-primary-bg-color:        #111111;
   --md-primary-fg-color:        #F5F5F5;
   #--md-primary-bg-color--light: #ECB7B7;
   #--md-primary-ng-color--dark:  #90030C;
+  --md-accent-fg-color: red;
+
 }
 
 html {
@@ -141,16 +147,15 @@ footer.example-2 .site-footer--content .footer-left {
   -ms-flex-preferred-size: 55%;
       flex-basis: 55%;
 }
-footer.example-2 .site-footer--content .footer-left p {
+footer.example-2 .site-footer--content  p {
   font-size: 16px;
   line-height: 1.6;
 
 }
-footer.example-2 .site-footer--content .footer-right {
+
+footer.example-2 .site-footer--content {
   -ms-flex-preferred-size: 40%;
       flex-basis: 40%;
-  text-align: right;
-
 }
 footer.example-2 .site-footer--content a {
 
@@ -163,6 +168,52 @@ footer.example-2 .copyright-notice {
   color:gray;
 }
 
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.footer-col-2 {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  margin-left:75px;
+  margin-right:75px;
+}
+
+/* Clear floats after the columns */
+.footer-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.footer-info-link{
+  text-align: right;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
+.footer-links{
+  text-align: left;
+  padding-top:10px;
+  padding-bottom:10px;
+  max-width:390px;
+}
+.footer-rechts{
+  text-align: right;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
+
+@media screen and (max-width: 450px) {
+.footer-rechts{
+  text-align: center;
+}
+.footer-links {
+ text-align: center;
+}
+}
 
 /*-------------------------NOT IN USE----------------------------------------*/
 .centered-div {

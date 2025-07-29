@@ -6,7 +6,7 @@ sub_texts.push("Schluss mit Stop-Loss Fischen. MetaTrader-Panel benutzt einen St
 sub_texts.push("Keine Sorge, du bist nicht allein. MetaTrader-Panel wurde mit der Idee entwickelt, den CFD-Handel für Endkunden fairer zu machen.");
 sub_texts.push("Erfahrung zählt. Unser Team vereint mehr als 120 Jahre professioneller Trading Erfahrung und wir wissen genau, was wir tun");
 sub_texts.push("Im CFD-Handel ist dein Broker auch dein Handelspartner. Verrätst du ihm deinen Target Point gibst du ihm einen entscheidenden Vorsprung");
-sub_texts.push("Profi-Trader mit jahrzehntelanger Handelserfahrung kominiert mit jungen, erfolgshungrigen Talenten, das ist unser Geheimnis.");
+sub_texts.push("Profi-Trader mit jahrzehntelanger Handelserfahrung kombiniert mit jungen, erfolgshungrigen Talenten, das ist unser Geheimnis.");
 sub_texts.push("Natürlich nicht - wie denn auch? MetaTrader-Panel verfügt über eine eigene Datenbank und kann das. Kein Problem für uns");
 
 var texts = new Array();
@@ -19,8 +19,11 @@ texts.push("WARUM KENNT DEIN HANDELS-PARTNER DEINEN TARGET POINT?");
 texts.push("INTELLIGENTER CODE, BLITZSCHNELL UND NEUESTE TECHNOLOGIE");
 texts.push("KANN MT5 FIBONACCI LEVELS OHNE DATEN ZEICHNEN?");
 
-var images = [],
-   x = -1;
+var images1 = [], y = 0;
+images1[0] = "assets/Pic3.jpg";
+images1[1] = "assets/Pic4.jpg";
+
+var images = [], x = -1;
 images[0] = "assets/700x600.png";
 images[1] = "assets/700x600_2.png";
 images[2] = "assets/700x600_3.png";
@@ -40,6 +43,7 @@ function changeHeaderText() {
       });
    }
    
+	  
    $("#refresh-headertext").fadeOut("slow", function () {
          $(this).html(texts[point]);
          $(this).fadeIn("slow");

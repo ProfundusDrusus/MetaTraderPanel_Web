@@ -17,6 +17,11 @@ texts.push("WHY YOUR COUNTERPART KNOWS ABOUT YOUR TARGET POINT?");
 texts.push("SMART CODE, LIGHTNING FAST AND STATE OF THE ART");
 texts.push("CAN MT5 DRAW FIBONACCI LEVELS WITHOU  DATA?");
 
+var images1 = [], y = -1;
+images1[0] = "assets/Pic3.jpg";
+images1[1] = "assets/Pic4.jpg";
+images1[2] = "assets/Pic3.jpg";
+
 var images = [],
    x = -1;
 images[0] = "assets/700x600.png";
