@@ -27,6 +27,15 @@ images[4] = "assets/Panel_07x600.png";
 images[5] = "assets/Panel_04x600.png";
 images[6] = "assets/Panel_08x600.png";
 
+var links = [];
+links[0] = "features/position-props";
+links[1] = "features/tick-chart";
+links[2] = "features/fibonacci";
+links[3] = "features/fibonacci";
+links[4] = "features/position-props";
+links[5] = "features/fibonacci";
+links[6] = "features/fibonacci";
+
 var point = 0;
 var point1 = 0;
 
@@ -38,7 +47,17 @@ function changeHeaderText() {
          $(this).fadeIn("slow");
       });
 	  
-	  document.getElementById("pic2").src = images[point];
+	  
+	$("#learn-more").fadeOut("slow", function () {
+         document.getElementById("learn-more").href = links[point], target="_blank";
+         $(this).fadeIn("slow");
+      });
+	
+	$("#pic2").fadeOut("slow", function () {
+         document.getElementById("pic-box").src = images[point];
+         $(this).fadeIn("slow");
+      });	
+
 	  
    $("#refresh-headertext").fadeOut("slow", function () {
          $(this).html(texts[point]);

@@ -111,6 +111,7 @@ nav:
   - Home: 
     - Overview: index.md
   - Features: 
+    - Fibonacci: features/fibonacci.md
     - Tick Chart: features/tick-chart.md
     - Position Properties: features/position-props.md      
   - So funktiert es:
