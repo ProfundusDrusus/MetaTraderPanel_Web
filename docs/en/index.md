@@ -27,7 +27,7 @@ hide:
 	<div class="col-61 " >
 		<div class="section-heading" >
 		<picture >
-			<img id="pic-box" src="assets/700x600.png" alt="">
+			<img id="pic-box" src="assets/Panel_04.png" alt="">
 		</picture>
 		</div>
 	</div>

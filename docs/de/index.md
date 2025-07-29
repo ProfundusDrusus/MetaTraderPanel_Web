@@ -28,7 +28,7 @@ hide:
 	<div class="col-61 " >
 		<div class="section-heading" >
 		<picture >
-			<img id="pic-box" src="assets/700x600.png" alt="">
+			<img id="pic-box" src="assets/TickPanel_01.png" alt="">
 		</picture>
 		</div>
 	</div>
@@ -38,7 +38,7 @@ hide:
 <div id="content">
 
 	<!--Introduction-->
-	<section id="about" class="introduction scrollto">
+	<section id="about" class="introduction ">
 
 		<div class="row clearfix">
 
@@ -130,7 +130,7 @@ hide:
 	<!--End of Introduction-->
 
 	<!--Content Section-->
-	<div id="services" class="scrollto clearfix">
+	<div id="services" class=" clearfix">
 
 		<div class="row no-padding-bottom clearfix">
 
@@ -180,7 +180,7 @@ hide:
         
 	 
 	<!--Pricing Tables-->
-        <section id="pricing" class="secondary-color text-center scrollto clearfix ">
+        <section id="pricing" class="secondary-color text-center clearfix ">
             <div class="row clearfix">
                 <div id="go-pricing" class="section-heading">
                     <h3>DEINE ENTSCHEIDUNG</h3>
@@ -258,7 +258,7 @@ hide:
         <!--End of Pricing Tables-->
 
 	<!--Testimonials-->
-	<aside id="testimonials" class="scrollto text-center" data-enllax-ratio=".2">
+	<aside id="testimonials" class="text-center" data-enllax-ratio=".2">
 
 		<div class="row clearfix">
 
@@ -268,7 +268,7 @@ hide:
 			</div>
 
 			<!--User Testimonial-->
-			<blockquote class="col-4 testimonial classic">
+			<blockquote class="col-3 testimonial classic">
 				
 				<q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
 					labore
@@ -278,7 +278,7 @@ hide:
 			<!-- End of Testimonial-->
 
 			<!--User Testimonial-->
-			<blockquote class="col-4 testimonial classic">
+			<blockquote class="col-3 testimonial classic">
 				 
 				<q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
 					labore
@@ -288,7 +288,7 @@ hide:
 			<!-- End of Testimonial-->
 
 			<!--User Testimonial-->
-			<blockquote class="col-4 testimonial classic">
+			<blockquote class="col-3 testimonial classic">
 				
 				<q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
 					labore
@@ -297,15 +297,7 @@ hide:
 			</blockquote>
 			<!-- End of Testimonial-->
 			
-			<!--User Testimonial-->
-			<blockquote class="col-4 testimonial classic">
-				 
-				<q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-					labore
-					et dolore magna aliqua</q>
-				<footer>Roslyn Doe - Happy Customer</footer>
-			</blockquote>
-			<!-- End of Testimonial-->
+			
 
 		</div>
 
