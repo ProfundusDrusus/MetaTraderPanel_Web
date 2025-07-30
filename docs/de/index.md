@@ -44,7 +44,7 @@ hide:
                <h2 class="section-title">Wir helfen bessere Trading Ergebnisse zu erzielen</h2>
                <p class="section-subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                   eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!
-				  <br><br><h3><a href="features/tick-chart" style="color: #5494DA;"><strong>Alle Features ansehen</strong> </a></h3><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+				  <br><br><h3><a href="features/tick-chart" style="color: red"><strong>Alle Features ansehen</strong> </a></h3><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
                </p>
             </div>
          </div>
