@@ -28,7 +28,7 @@ hide:
    <div class="col-61 " >
       <div class="section-heading" >
          <picture >
-            <img id="pic-box" src="assets/TickPanel_01.png" alt="">
+            <img id="pic-box" src="assets/Panel_07x600.png" alt="">
          </picture>
       </div>
    </div>
@@ -44,7 +44,7 @@ hide:
                <h2 class="section-title">Wir helfen bessere Trading Ergebnisse zu erzielen</h2>
                <p class="section-subtitle">Durchdachte Features, entwickelt von Profi-Tradern mit jahrzehntelanger Erfahrung, die sich nahtlos in MT5 einfügen
 				  und deinen Alltag als Trader leichter machen. Mit ein, zwei Klicks hast du immer die Funktionalität zur Hand, die du gerade brauchst. Kompakt und auf das Wesentliche konzentriert. 
-				  <br><br><h3><a href="features/tick-chart" style="color: #5494DA"><strong>Alle Features ansehen</strong> </a></h3><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+				  <br><br><p><a href="features/tick-chart" style="color: #5494DA"><strong>Alle Features ansehen</strong> </a></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
                </p>
             </div>
          </div>
@@ -88,8 +88,7 @@ hide:
                <!--Icon Block Description-->
                <div class="icon-block-description">
                   <h4>Orders per Doppelklick</h4>
-                  <p>Has ne tritani atomorum conclusionemque, in dolorum volumus cotidieque eum. At vis choro
-                     neglegentur iudico
+                  <p>Setze, lösche oder ändere eine Order mit 1 Klick. Das Geheiminis eines erfolgreichen Einstiegs ist zur rechten Zeit am rechten Platz zu sein.
                   </p>
                </div>
             </div>
@@ -103,8 +102,7 @@ hide:
                <!--Icon Block Description-->
                <div class="icon-block-description">
                   <h4>Bitzschnell Stops setzen</h4>
-                  <p>Cu vero ipsum vim, doctus facilisi sea in. Eam ex falli honestatis repudiandae, sit
-                     detracto mediocrem disputationi
+                  <p>Sichere dich mit 1 Klick gegen Verluste ab sobald eine Position profitabel wird. Ändere den Stop per Maus-Klick
                   </p>
                </div>
             </div>
@@ -164,7 +162,7 @@ hide:
                <h2 class="section-title">Konzentration auf das Wesentliche</h2>
                <p >Du kümmerst dich um das Spiel  - wir kümmern uns um die Anzeigetafel.</p>
             </div>
-            <p>Beim aktiven Trading kommt es oft auf Sekunden an. Die richtige Information zur richtigen Zeit zur Hand zu haben ist entscheidend für deinen Erfolg als Trader.
+            <p>Beim aktiven Trading kommt es heutzutage oft auf Millisekunden an. Die richtige Information zur richtigen Zeit zur Hand zu haben ist entscheidend für deinen Erfolg als Trader. Den Rest erledigen wir für dich.
             </p>
             <p>
                Mit intelligenten Algorithmen, paralleler Datenverarbeitung, leistungsstarken Servern, die auf dem neuesten Stand sind und einem Handels-Pult das du für seine Klarheit und Einfachheit lieben wirst,
