@@ -42,9 +42,9 @@ hide:
             <div class="section-heading">
                <h3>ERFOLG</h3>
                <h2 class="section-title">Wir helfen bessere Trading Ergebnisse zu erzielen</h2>
-               <p class="section-subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!
-				  <br><br><h3><a href="features/tick-chart" style="color: red"><strong>Alle Features ansehen</strong> </a></h3><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+               <p class="section-subtitle">Durchdachte Features, entwickelt von Profi-Tradern mit jahrzehntelanger Erfahrung, die sich nahtlos in MT5 einfügen
+				  und deinen Alltag als Trader leichter machen. Mit ein, zwei Klicks hast du immer die Funktionalität zur Hand, die du gerade brauchst. Kompakt und auf das Wesentliche konzentriert. 
+				  <br><br><h3><a href="features/tick-chart" style="color: #5494DA"><strong>Alle Features ansehen</strong> </a></h3><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
                </p>
             </div>
          </div>
@@ -57,9 +57,8 @@ hide:
                </div>
                <!--Icon Block Description-->
                <div class="icon-block-description">
-                  <h4>Einfache Bedienung</h4>
-                  <p>Immer die Funktionalität zur Hand, die du gerade brauchst.
-				     Kompakt und auf das Wesentliche konzentriert.
+                  <h4></i>Wirtschaftsdaten-Wecker</h4>
+                  <p>Keine wichtigen Wirtschaftsdaten mehr verpassen. Einfach 1x Land, Kategorien und Uhrzeit konfigurieren und du wirst immer zuverlässig informiert.
                   </p>
                </div>
             </div>
@@ -73,7 +72,7 @@ hide:
                <!--Icon Block Description-->
                <div class="icon-block-description">
                   <h4>Teilverkäufe</h4>
-                  <p>Verkaufe eine Position in prozentualen Schritten. Kombiniere die Teilverkäufe mit deinem Stop Loss oder deinem Taget Point.
+                  <p>Erhöhe deinen Profit und verkaufe eine Position in prozentualen Schritten. Kombiniere die Teilverkäufe mit deinem Stop Loss oder deinem Target Point.
                   </p>
                </div>
             </div>
@@ -163,17 +162,15 @@ hide:
             <div class="section-heading">
                <h3>FOKUSIERUNG</h3>
                <h2 class="section-title">Konzentration auf das Wesentliche</h2>
-               <p >Und hier kommt dann die ganz dolle Erklärung wie wir das machen, unterstützt von wechselnden Bildchen vom Panel in Action</p>
+               <p >Du kümmerst dich um das Spiel  - wir kümmern uns um die Anzeigetafel.</p>
             </div>
-            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-               totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-               dicta sunt explicabo.
+            <p>Beim aktiven Trading kommt es oft auf Sekunden an. Die richtige Information zur richtigen Zeit zur Hand zu haben ist entscheidend für deinen Erfolg als Trader.
             </p>
             <p>
-               Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-               consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-               Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet!
+               Mit intelligenten Algorithmen, paralleler Datenverarbeitung, leistungsstarken Servern, die auf dem neuesten Stand sind und einem Handels-Pult das du für seine Klarheit und Einfachheit lieben wirst,
+			   halten wir dir den Rücken frei.
             </p>
+			<p><a href="features/tick-chart" style="color: #5494DA"><strong>Alle Features ansehen</strong> </a></p>
          </div>
          <!--End Content Right Side-->
          <div id="pic2-wrap" class="col-3 wow fadeInUp" data-wow-delay="0.4s">
