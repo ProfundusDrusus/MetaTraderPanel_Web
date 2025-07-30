@@ -42,44 +42,51 @@ var point1 = 0;
 
 function changeHeaderText() {
 
-   $("#banner-content").fadeOut("slow", function () {
+	/* change picture*/
+    $("#banner-content").fadeOut("slow", function () {
          document.getElementById("pic-box").src = images[point];
          $(this).fadeIn("slow");
       });
+
+	/* change pic 2*/  
+	$("#pic2-wrap").fadeOut("slow", function () {
+         document.getElementById("pic2").src = images[point];
+         $(this).fadeIn("slow");
+      });
 	  
-	  
+	/* change button link*/  
 	$("#learn-more").fadeOut("slow", function () {
          document.getElementById("learn-more").href = links[point], target="_blank";
          $(this).fadeIn("slow");
       });
-	
-	$("#pic2").fadeOut("slow", function () {
-         document.getElementById("pic-box").src = images[point];
-         $(this).fadeIn("slow");
-      });	
-
 	  
-   $("#refresh-headertext").fadeOut("slow", function () {
+	/* change header text*/    
+	$("#refresh-headertext").fadeOut("slow", function () {
          $(this).html(texts[point]);
          $(this).fadeIn("slow");
       });
-	  
-   if (point < texts.length - 1) {
-      point++;
-   } else {
-      point = 0;
-   }
-   $("#refresh-subtext").fadeOut("slow", function () {
+	 
+	/* change sub text*/   
+	$("#refresh-subtext").fadeOut("slow", function () {
          $(this).html(sub_texts[point1]);
          $(this).fadeIn("slow");
       });
-   if (point1 < sub_texts.length - 1) {
-      point1++;
-   } else {
-      point1 = 0;
-   }
+	  
 
-   setTimeout(changeHeaderText, 10000)
+	  
+	if (point < texts.length - 1) {
+	  point++;
+	} else {
+	  point = 0;
+	}
+	
+	if (point1 < sub_texts.length - 1) {
+      point1++;
+	} else {
+      point1 = 0;
+	}
+
+	setTimeout(changeHeaderText, 10000)
 }
 
 changeHeaderText();
