@@ -1447,6 +1447,7 @@ blockquote {
 
 .pricing-sub {
     font-style: italic;
+	font-weight: bold;
     color:#5494DA;
     margin:0 0 25px 0;
 }

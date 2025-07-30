@@ -205,7 +205,7 @@ hide:
                   <li style="color: #333333;">Beschränkt auf Demo-Konten</li>
                   <li style="color: #333333;">Eingeschränkter Support</li>
                </ul>
-               <a href="#" class="button" style="background-color: #5494DA;color:white;">AUSPROBIEREN</a>
+               <a href="#" class="button" style="background-color: #5494DA;color:white;font-weight: bold;">AUSPROBIEREN</a>
             </div>
          </div>
          <!--End Pricing Block-->
@@ -221,11 +221,11 @@ hide:
                <ul>
                   <li>Day-Trader / Scalper</li>
                   <li>Unlimierte Panel Anzahl</li>
-                  <li>Freie Trading Kurse</li>
+                  <li>Trading Knowledgebase</li>
                   <li>Inklusiv 1 Jahr Updates</li>
                   <li>Uneingeschränkter Support</li>
                </ul>
-               <a href="#" class="button" style="background-color: #5494DA;color:white;">JETZT KAUFEN </a>
+               <a href="#" class="button" style="background-color: #5494DA;color:white;font-weight: bold;">JETZT KAUFEN </a>
             </div>
          </div>
          <!--End Pricing Block-->
@@ -236,16 +236,16 @@ hide:
                <p class="pricing-sub">Day-Trader incl. Signale</p>
                <div class="pricing">
                   <div class="price"><span>€</span>299</div>
-                  <p style="color: #333333;">Erhalte zusätzlich Handelssignale unserer KI Jeannie</p>
+                  <p style="color: #333333;">Erhalte zusätzlich Handelssignale unserer AI "Jeannie"</p>
                </div>
                <ul>
                   <li>KI Handels-Signale</li>
                   <li>Unlimierte Panel Anzahl</li>
-                  <li>Freie Trading Kurse</li>
+                  <li>Trading Knowledgebase</li>
                   <li>Inklusiv 1 Jahr Updates</li>
                   <li>Uneingeschränkter Support</li>
                </ul>
-               <a href="#" class="button" style="background-color: #5494DA;color:white;">JETZT KAUFEN </a>
+               <a href="#" class="button" style="background-color: #5494DA;color:white;font-weight: bold;">JETZT KAUFEN </a>
             </div>
          </div>
          <!--End Pricing Block-->
