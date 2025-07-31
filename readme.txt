@@ -23,3 +23,5 @@ Games are won by players who focus on the playing field –- not by those whose 
 https://pepperstone.com/en-eu/learn-to-trade/trading-guides/a-list-of-famous-forex-trading-quotes/
 https://www.brainyquote.com/authors/warren-buffett-quotes
 https://www.godocm.com/powerful-trading-quotes-to-transform-your-trading-approach/
+https://www.quantifiedstrategies.com/trading-quotes/
+https://fontmeme.com/3d-rotation/
