@@ -88,7 +88,7 @@ hide:
                <!--Icon Block Description-->
                <div class="icon-block-description">
                   <h4>Orders per Doppelklick</h4>
-                  <p class="font-16">Setze, lösche oder ändere eine Order mit 1 Klick. Das Geheiminis eines erfolgreichen Einstiegs ist zur rechten Zeit am rechten Platz zu sein.
+                  <p class="font-16">Setze, lösche oder ändere eine Order mit einem Klick. Das Geheiminis eines erfolgreichen Einstiegs ist zur rechten Zeit am rechten Platz zu sein.
                   </p>
                </div>
             </div>
@@ -102,7 +102,7 @@ hide:
                <!--Icon Block Description-->
                <div class="icon-block-description">
                   <h4>Bitzschnell Stops setzen</h4>
-                  <p class="font-16">Sichere dich mit 1 Klick gegen Verluste ab sobald eine Position profitabel wird. Ändere den Stop per Maus-Klick
+                  <p class="font-16">Sichere dich mit einem Klick gegen Verluste ab sobald eine Position profitabel wird. Ändere den Stop per Maus-Klick
                   </p>
                </div>
             </div>
