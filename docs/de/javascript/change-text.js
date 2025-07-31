@@ -1,4 +1,43 @@
 
+var ttmq1 = new Array();
+ttmq1.push("This is such a wonderful tool shared with generosity. Thank you! Wonderful job. I aim at going full version, using this one for training.");
+ttmq1.push("Ich mag dieses Panel, es hat viele Probleme auf einmal gelöst. Alles ist an einem Ort, ich bin sehr zufrieden.");
+ttmq1.push("Ein Muss für jeden Trader, der seinen Alltag vereinfachen möchte. Die Möglichkeit, Orders visuell zu platzieren ist sehr praktisch.");
+
+var ttmf1 = new Array();
+ttmf1.push("John Doe, UK");
+ttmf1.push("Peter Steiner, GER");
+ttmf1.push("Jussuf Habock, GR");
+
+
+
+var ttmsCnt = 0;
+
+function changeTestimonials() {
+	
+	$("#ttmq-1").fadeOut("slow", function () {
+         $(this).html(ttmq1[ttmsCnt]);
+		 document.getElementById("ttmf-1").innerHTML= ttmf1[ttmsCnt];
+         $(this).fadeIn("slow");
+      });
+	$("#ttm-2").fadeOut("slow", function () {
+         
+         $(this).fadeIn("slow");
+      });
+	$("#ttm-3").fadeOut("slow", function () {
+         
+         $(this).fadeIn("slow");
+      });
+	  
+	if (ttmsCnt < ttmq1.length - 1) {
+	  ttmsCnt++;
+	} else {
+	  ttmsCnt = 0;
+	}
+
+	setTimeout(changeTestimonials, 10000)	
+}
+
 var sub_texts = new Array();
 sub_texts.push("Schluss mit Stop-Loss Fischen. MetaTrader-Panel benutzt einen Stealth-Modus und dein Stop Loss ist für deinen Broker unsichtbar");
 sub_texts.push("Erfolgreich traden ist schwierig genug. Du solltest dich nicht mit banalen Dingen ablenken. Wir helfen dein Trading besser zu machen.");
@@ -11,10 +50,10 @@ sub_texts.push("Natürlich nicht - wie denn auch? MetaTrader-Panel verfügt übe
 
 var texts = new Array();
 texts.push("WARUM VERRÄTST DU DEINEM BROKER DEIN STOP LOSS?");
-texts.push("DU TRADEST, WIR KÜMMERN UNS UM DEN REST");
+texts.push("DU TRADEST UND WIR KÜMMERN UNS UM DEN REST");
 texts.push("WARUM VERFÜGT MT5 ÜBER KEINEN GUTEN TICK-CHART?");
 texts.push("DEIN BROKER IST NICHT DEIN FREUND. ER IST DEIN HANDELS-PARTNER");
-texts.push("KONZENTRATION AUF DAS WESENTLICHE");
+texts.push("KONZENTRATION AUF DAS WESENTLICHE IST ENTSCHEIDEND");
 texts.push("WARUM KENNT DEIN HANDELS-PARTNER DEINEN TARGET POINT?");
 texts.push("INTELLIGENTER CODE, BLITZSCHNELL UND NEUESTE TECHNOLOGIE");
 texts.push("KANN MT5 FIBONACCI LEVELS OHNE DATEN ZEICHNEN?");
@@ -44,7 +83,10 @@ var point = 0;
 var point1 = 0;
 
 
+
 function changeHeaderText() {
+	
+	
 
 	/* change picture*/
     $("#banner-content").fadeOut("slow", function () {
@@ -89,8 +131,11 @@ function changeHeaderText() {
 	} else {
       point1 = 0;
 	}
-
+	
 	setTimeout(changeHeaderText, 12000)
+	
 }
 
 changeHeaderText();
+
+changeTestimonials();

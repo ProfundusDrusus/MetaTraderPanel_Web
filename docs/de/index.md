@@ -58,7 +58,7 @@ hide:
                <!--Icon Block Description-->
                <div class="icon-block-description">
                   <h4></i>Wirtschaftsdaten-Wecker</h4>
-                  <p>Keine wichtigen Wirtschaftsdaten mehr verpassen. Einfach 1x Land, Kategorien und Uhrzeit konfigurieren und du wirst immer zuverlässig informiert.
+                  <p class="font-16">Keine wichtigen Wirtschaftsdaten mehr verpassen. Einfach 1x Land, Kategorien und Uhrzeit konfigurieren und du wirst immer zuverlässig informiert.
                   </p>
                </div>
             </div>
@@ -72,7 +72,7 @@ hide:
                <!--Icon Block Description-->
                <div class="icon-block-description">
                   <h4>Teilverkäufe</h4>
-                  <p>Erhöhe deinen Profit und verkaufe eine Position in prozentualen Schritten. Kombiniere die Teilverkäufe mit deinem Stop Loss oder deinem Target Point.
+                  <p class="font-16">Erhöhe deinen Profit und verkaufe eine Position in prozentualen Schritten. Kombiniere die Teilverkäufe mit deinem Stop Loss oder deinem Target Point.
                   </p>
                </div>
             </div>
@@ -88,7 +88,7 @@ hide:
                <!--Icon Block Description-->
                <div class="icon-block-description">
                   <h4>Orders per Doppelklick</h4>
-                  <p>Setze, lösche oder ändere eine Order mit 1 Klick. Das Geheiminis eines erfolgreichen Einstiegs ist zur rechten Zeit am rechten Platz zu sein.
+                  <p class="font-16">Setze, lösche oder ändere eine Order mit 1 Klick. Das Geheiminis eines erfolgreichen Einstiegs ist zur rechten Zeit am rechten Platz zu sein.
                   </p>
                </div>
             </div>
@@ -102,7 +102,7 @@ hide:
                <!--Icon Block Description-->
                <div class="icon-block-description">
                   <h4>Bitzschnell Stops setzen</h4>
-                  <p>Sichere dich mit 1 Klick gegen Verluste ab sobald eine Position profitabel wird. Ändere den Stop per Maus-Klick
+                  <p class="font-16">Sichere dich mit 1 Klick gegen Verluste ab sobald eine Position profitabel wird. Ändere den Stop per Maus-Klick
                   </p>
                </div>
             </div>
@@ -118,8 +118,7 @@ hide:
                <!--Icon Block Description-->
                <div class="icon-block-description">
                   <h4>Tick-Chart Trading</h4>
-                  <p>Immer die Funktionalität zur Hand, die du gerade brauchst.
-				     Kompakt und auf das Wesentliche konzentriert.
+                  <p class="font-16">Ob du Profi-Scalper, Swing-Trader oder Retail-Trader bist, der nur den Moment nutzen will. Du wirst den Tick-Chart lieben.
                   </p>
                </div>
             </div>
@@ -133,7 +132,7 @@ hide:
                <!--Icon Block Description-->
                <div class="icon-block-description">
                   <h4>Fibonacci-Power</h4>
-                  <p>Verkaufe eine Position in przentualen Schritten. Kombiniere die Teilverküfe mit Stop Loss oder Taget Point.
+                  <p class="font-16">Rechne hunderte Fibonacci Marken, über lange Zeitraume und lasse immer nur die anzeigen, die für dein Trading relevant sind.
                   </p>
                </div>
             </div>
@@ -149,7 +148,7 @@ hide:
          <div class="col-3 wow fadeInLeft" data-wow-delay="0.1s">
             <!--User Testimonial-->
             <blockquote class="testimonial text-right bigtest">
-               <q>Spiele werden von denen gewonnen, die sich auf das Spiel konzentrieren – nicht von denen, die nur die ganze Zeit auf die Anzeigetafel schauen.</q>
+               <q class="font-16">Spiele werden von denen gewonnen, die sich auf das Spiel konzentrieren – nicht von denen, die nur die ganze Zeit auf die Anzeigetafel schauen.</q>
                <footer>— Warren Buffet —</footer>
             </blockquote>
             <!-- End of Testimonial-->
@@ -160,7 +159,7 @@ hide:
             <div class="section-heading">
                <h3>FOKUSIERUNG</h3>
                <h2 class="section-title">Konzentration auf das Wesentliche</h2>
-               <p >Du kümmerst dich um das Spiel  - wir kümmern uns um die Anzeigetafel.</p>
+               <p >Du kümmerst dich um das Spiel  - Und wir kümmern uns um die Anzeigetafel.</p>
             </div>
             <p>Beim aktiven Trading kommt es heutzutage oft auf Millisekunden an. Die richtige Information zur richtigen Zeit zur Hand zu haben ist entscheidend für deinen Erfolg als Trader. Den Rest erledigen wir für dich.
             </p>
@@ -190,7 +189,7 @@ hide:
          <!--Pricing Block-->
          <div class="pricing-block col-3" >
             <div id="priceHover" class="pricing-block-content">
-               <h3>FREE</h3>
+               <h3>STARTER</h3>
                <p class="pricing-sub">Risikofrei testen</p>
                <div class="pricing">
                   <div class="price"><span>€</span>0</div>
@@ -210,7 +209,7 @@ hide:
          <!--Pricing Block-->
          <div class="pricing-block col-3" >
             <div id="priceHover" class="pricing-block-content">
-               <h3>STANDALONE</h3>
+               <h3>ADVANCED</h3>
                <p class="pricing-sub">Day-Trading</p>
                <div class="pricing">
                   <div class="price"><span>€</span>99</div>
@@ -258,24 +257,22 @@ hide:
             <h2 class="section-title">Was unsere Kunden sagen</h2>
          </div>
          <!--User Testimonial-->
-         <blockquote class="col-3 testimonial classic">
-            <q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-            labore
-            et dolore magna aliqua</q>
-            <footer>John Doe - Happy Customer</footer>
+         <blockquote  id="ttm-1" class="col-3 testimonial classic">
+            <q id="ttmq-1">This is such a wonderful tool shared with generosity. Thank you! Wonderful job. I aim at going full version, using this one for training.</q>
+            <footer id="ttmf-1" style="color: gray; font-size;50%">John Doe - Happy Customer</footer>
          </blockquote>
          <!-- End of Testimonial-->
          <!--User Testimonial-->
-         <blockquote class="col-3 testimonial classic">
-            <q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+         <blockquote  id="ttm-2" class="col-3 testimonial classic">
+            <q >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
             labore
             et dolore magna aliqua</q>
             <footer>Oma Drusus - Happy Customer</footer>
          </blockquote>
          <!-- End of Testimonial-->
          <!--User Testimonial-->
-         <blockquote class="col-3 testimonial classic">
-            <q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+         <blockquote id="ttm-3" class="col-3 testimonial classic">
+            <q >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
             labore
             et dolore magna aliqua</q>
             <footer>Thomas Doe - Happy Customer</footer>
