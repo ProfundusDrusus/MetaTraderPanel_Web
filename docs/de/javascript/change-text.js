@@ -67,7 +67,7 @@ texts.push("KANN MT5 FIBONACCI LEVELS OHNE DATEN ZEICHNEN?");
 
 var images = [];
 images[0] = "assets/Panel_07x600.png";
-images[1] = "assets/Panel_07x600.png";
+images[1] = "assets/Panel_04x600.png";
 images[1] = "assets/TickPanel_01.png";
 images[2] = "assets/Panel_04x600.png";
 images[3] = "assets/TickPanel_01.png";

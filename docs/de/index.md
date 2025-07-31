@@ -22,13 +22,13 @@ hide:
          <h3 style="color: #808080;">Probiere es aus, kostenlos und ohne Risiko.</h3>
       </div>
       <!--Call to Action-->
-      <a id="learn-more" href="#" class="button" style="background-color: #5494DA;color:white;">Mehr erfahren <i class="fa fa-play" aria-hidden="true"></i></a>
+      <a id="learn-more" href="#" class="button" background-color: #5494DA;color:white;">Mehr erfahren <iclass="fa fa-play" aria-hidden="true"></i></a>
       <!--End Call to Action-->
    </div>
    <div class="col-61 " >
       <div class="section-heading" >
          <picture >
-            <img id="pic-box" src="assets/Panel_07x600.png" alt="">
+            <img id="pic-box" src="assets/Panel_04x600.png" alt="">
          </picture>
       </div>
    </div>
@@ -180,11 +180,11 @@ hide:
       <p style="padding-top: 50px; margin-bottom: 50px"> </p>
    </div>
    <!--Pricing Tables-->
-   <section id="pricing" class="secondary-color text-center clearfix ">
+   <section id="pricing" class="secondary-color text-center clearfix wow fadeInRight" data-wow-delay="0.1s"">
       <div class="row clearfix">
          <div id="go-pricing" class="section-heading">
             <h3>DEINE ENTSCHEIDUNG</h3>
-            <h2 class="section-title">Wir haben das richtige Angebot für dich</h2>
+            <h2 class="section-title" >Wir haben das richtige Angebot für dich</h2>
          </div>
          <!--Pricing Block-->
          <div class="pricing-block col-3" >
@@ -250,7 +250,7 @@ hide:
    </section>
    <!--End of Pricing Tables-->
    <!--Testimonials-->
-   <aside id="testimonials" class="text-center" data-enllax-ratio=".2">
+   <aside id="testimonials" class="text-center wow fadeInUp" data-wow-delay="0.1s"">
       <div class="row clearfix">
          <div class="section-heading">
             <h3>FEEDBACK</h3>
