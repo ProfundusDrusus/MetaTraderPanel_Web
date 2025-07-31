@@ -157,7 +157,7 @@ hide:
          <!--Content of the Right Side-->
          <div class="col-3  wow fadeInUp" data-wow-delay="0.2s">
             <div class="section-heading">
-               <h3>FOKUSIERUNG</h3>
+               <h3>FOKUSSIERUNG</h3>
                <h2 class="section-title">Konzentration auf das Wesentliche</h2>
                <p class="font-16">Du kümmerst dich um das Spiel  - Und wir kümmern uns um die Anzeigetafel.</p>
             </div>
