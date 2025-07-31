@@ -15,15 +15,22 @@ var ttmsCnt = 0;
 
 function changeTestimonials() {
 	
+	/* change testimonial 1*/
 	$("#ttmq-1").fadeOut("slow", function () {
          $(this).html(ttmq1[ttmsCnt]);
 		 document.getElementById("ttmf-1").innerHTML= ttmf1[ttmsCnt];
          $(this).fadeIn("slow");
       });
+	$("#ttmf-1").fadeOut("slow", function () {
+         $(this).html(ttmf1[ttmsCnt]);
+         $(this).fadeIn("slow");
+      });  
+	/* change testimonial 2*/
 	$("#ttm-2").fadeOut("slow", function () {
          
          $(this).fadeIn("slow");
       });
+	/* change testimonial 3*/
 	$("#ttm-3").fadeOut("slow", function () {
          
          $(this).fadeIn("slow");

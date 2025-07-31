@@ -37,14 +37,14 @@ hide:
 <div id="content">
    <!--Introduction-->
    <section id="about" class="introduction ">
-      <div class="row clearfix">
+      <div class="row">
          <div class="col-3 wow fadeInLeft" data-wow-delay="0.1s">
             <div class="section-heading">
                <h3>ERFOLG</h3>
                <h2 class="section-title">Wir helfen bessere Trading Ergebnisse zu erzielen</h2>
                <p class="section-subtitle">Durchdachte Features, entwickelt von Profi-Tradern mit jahrzehntelanger Erfahrung, die sich nahtlos in MT5 einfügen
 				  und deinen Alltag als Trader leichter machen. Mit ein, zwei Klicks hast du immer die Funktionalität zur Hand, die du gerade brauchst. Kompakt und auf das Wesentliche konzentriert. 
-				  <br><br><p><a href="features/tick-chart" style="color: #5494DA"><strong>Alle Features ansehen</strong> </a></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+				  <br><br><p><a href="features/" style="color: #5494DA"><strong>Alle Features ansehen</strong> </a></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
                </p>
             </div>
          </div>
@@ -147,9 +147,9 @@ hide:
          <!--Content Left Side-->
          <div class="col-3 wow fadeInLeft" data-wow-delay="0.1s">
             <!--User Testimonial-->
-            <blockquote class="testimonial text-right bigtest">
-               <q class="font-16">Spiele werden von denen gewonnen, die sich auf das Spiel konzentrieren – nicht von denen, die nur die ganze Zeit auf die Anzeigetafel schauen.</q>
-               <footer>— Warren Buffet —</footer>
+            <blockquote class="testimonial text-right font-19">
+               <q >Spiele werden von denen gewonnen, die sich auf das Spiel konzentrieren – nicht von denen, die nur die ganze Zeit auf die Anzeigetafel schauen.</q>
+               <footer class="font-18">— Warren Buffet —</footer>
             </blockquote>
             <!-- End of Testimonial-->
          </div>
@@ -159,15 +159,15 @@ hide:
             <div class="section-heading">
                <h3>FOKUSIERUNG</h3>
                <h2 class="section-title">Konzentration auf das Wesentliche</h2>
-               <p >Du kümmerst dich um das Spiel  - Und wir kümmern uns um die Anzeigetafel.</p>
+               <p class="font-16">Du kümmerst dich um das Spiel  - Und wir kümmern uns um die Anzeigetafel.</p>
             </div>
-            <p>Beim aktiven Trading kommt es heutzutage oft auf Millisekunden an. Die richtige Information zur richtigen Zeit zur Hand zu haben ist entscheidend für deinen Erfolg als Trader. Den Rest erledigen wir für dich.
+            <p class="font-16">Beim aktiven Trading kommt es heutzutage oft auf Millisekunden an. Die richtige Information zur richtigen Zeit zur Hand zu haben ist entscheidend für deinen Erfolg als Trader. Den Rest erledigen wir für dich.
             </p>
-            <p>
+            <p class="font-16">
                Mit intelligenten Algorithmen, paralleler Datenverarbeitung, leistungsstarken Servern, die auf dem neuesten Stand sind und einem Handels-Pult das du für seine Klarheit und Einfachheit lieben wirst,
 			   halten wir dir den Rücken frei.
             </p>
-			<p><a href="features/tick-chart" style="color: #5494DA"><strong>Alle Features ansehen</strong> </a></p>
+			<p><a href="features/" style="color: #5494DA"><strong>Alle Features ansehen</strong> </a></p>
          </div>
          <!--End Content Right Side-->
          <div id="pic2-wrap" class="col-3 wow fadeInUp" data-wow-delay="0.4s">
@@ -259,7 +259,7 @@ hide:
          <!--User Testimonial-->
          <blockquote  id="ttm-1" class="col-3 testimonial classic">
             <q id="ttmq-1">This is such a wonderful tool shared with generosity. Thank you! Wonderful job. I aim at going full version, using this one for training.</q>
-            <footer id="ttmf-1" style="color: gray; font-size;50%">John Doe - Happy Customer</footer>
+            <footer id="ttmf-1" style="color: gray;" class="font-16">John Doe - Happy Customer</footer>
          </blockquote>
          <!-- End of Testimonial-->
          <!--User Testimonial-->
@@ -267,7 +267,7 @@ hide:
             <q >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
             labore
             et dolore magna aliqua</q>
-            <footer>Oma Drusus - Happy Customer</footer>
+            <footer class="font-16" style="color: gray;">Oma Drusus - Happy Customer</footer>
          </blockquote>
          <!-- End of Testimonial-->
          <!--User Testimonial-->
@@ -275,7 +275,7 @@ hide:
             <q >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
             labore
             et dolore magna aliqua</q>
-            <footer>Thomas Doe - Happy Customer</footer>
+            <footer class="font-16" style="color: gray;">Thomas Doe - Happy Customer</footer>
          </blockquote>
          <!-- End of Testimonial-->
       </div>
