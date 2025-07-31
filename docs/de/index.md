@@ -147,9 +147,9 @@ hide:
          <!--Content Left Side-->
          <div class="col-3 wow fadeInLeft" data-wow-delay="0.1s">
             <!--User Testimonial-->
-            <blockquote class="testimonial text-right font-19">
-               <q >Spiele werden von denen gewonnen, die sich auf das Spiel konzentrieren – nicht von denen, die nur die ganze Zeit auf die Anzeigetafel schauen.</q>
-               <footer class="font-18">— Warren Buffet —</footer>
+            <blockquote class="testimonial text-right font-18">
+               <q class="font-18">Spiele werden von denen gewonnen, die sich auf das Spiel konzentrieren – nicht von denen, die nur die ganze Zeit auf die Anzeigetafel schauen.</q>
+               <footer class="font-17">— Warren Buffet —</footer>
             </blockquote>
             <!-- End of Testimonial-->
          </div>

@@ -61,7 +61,7 @@ extra:
     - text: "Datenschutz"
       href: "https://anter.dev/privacy"
     - text: "Impressum"
-      href: "https://anter.dev/imprint"
+      href: "https://metatrader-panel.com/legal/imprint"
   generator: false
   #social:
     #- icon: fontawesome/solid/envelope
@@ -125,7 +125,8 @@ nav:
     - Latest version: download/download.md 
   - Preise:
     - Order: https://doc.metatrader-panel.com/de/#go-pricing
-  - FollowMe: https://client.metatrader-panel.com/
+    - FollowMe: https://client.metatrader-panel.com/
   - Mehr:
     - Release Notes: about/release-notes.md
-    - License: about/license.md    
+    - License: about/license.md 
+    - Impressum: legal/imprint    
