@@ -193,9 +193,9 @@ hide:
                <p class="pricing-sub">Risikofrei testen</p>
                <div class="pricing">
                   <div class="price"><span>€</span>0</div>
-                  <p style="color: #333333;">Teste MetaTrader-Panel ganz in Ruhe und solange du willst</p>
+                  <p class="font-18" style="color: #333333;">Teste MetaTrader-Panel ganz in Ruhe und solange du willst</p>
                </div>
-               <ul>
+               <ul class="font-17">
                   <li style="color: #333333;">Ideal für Anfänger</li>
                   <li style="color: #333333;">1 Trading Panel</li>
                   <li style="color: #333333;">Keine versteckten Gebühren</li>
@@ -213,9 +213,9 @@ hide:
                <p class="pricing-sub">Day-Trading</p>
                <div class="pricing">
                   <div class="price"><span>€</span>99</div>
-                  <p style="color: #333333;">Alles was du brauchst um erfolgreich Intraday zu handeln</p>
+                  <p  class="font-18" style="color: #333333;">Alles was du brauchst um erfolgreich Intraday zu handeln</p>
                </div>
-               <ul>
+               <ul  class="font-17">
                   <li>Day-Trader / Scalper</li>
                   <li>Unlimierte Panel Anzahl</li>
                   <li>Trading Knowledgebase</li>
@@ -233,9 +233,9 @@ hide:
                <p class="pricing-sub">Day-Trader incl. Signale</p>
                <div class="pricing">
                   <div class="price"><span>€</span>299</div>
-                  <p style="color: #333333;">Erhalte zusätzlich Handelssignale unserer AI "Jeannie"</p>
+                  <p  class="font-18" style="color: #333333;">Erhalte zusätzlich Handelssignale unserer AI "Jeannie"</p>
                </div>
-               <ul>
+               <ul  class="font-17">
                   <li>KI Handels-Signale</li>
                   <li>Unlimierte Panel Anzahl</li>
                   <li>Trading Knowledgebase</li>
