@@ -29,14 +29,14 @@ theme:
     - navigation.tracking
     - search.highlight
     - navigation.indexes #important!
-    - navigation.footer
+    #- navigation.footer
     - navigation.tabs
     - navigation.sections
     - navigation.tabs.sticky
     - navigation.path
     - navigation.top
     - toc.follow
-    - toc.integrate 
+    #- toc.integrate 
 
 copyright: Copyright &copy; 1996 - 2025 Profundus Drusus Maior
 
@@ -59,9 +59,6 @@ extra:
     - text: "Impressum"
       href: "https://doc.metatrader-panel.com/de/legal/imprint"
   generator: false
-  #social:
-    #- icon: fontawesome/solid/envelope
-      #link: mailto:<info@metatrader-panel.com>
   alternate:
     - name: English
       link: /en/
@@ -92,7 +89,7 @@ extra_css:
 extra_javascript:
   - javascript/jquery.1.8.3.min.js
   - javascript/wow.min.js
-  - javascript/jquery.enllax.js
+  #- javascript/jquery.enllax.js
   - javascript/jquery.easing.min.js
   - javascript/jquery.waypoints.min.js
   - javascript/site.js
@@ -128,8 +125,7 @@ nav:
     - Latest version: download/download.md 
   - Preise:
     - Order: https://doc.metatrader-panel.com/de/#go-pricing
-    - FollowMe: https://client.metatrader-panel.com/
+  - FollowMe: https://client.metatrader-panel.com/
   - Mehr:
-    - Release Notes: about/release-notes.md
     - Datenschutz: legal/privacy-policy.md
     - Impressum: legal/imprint.md   
