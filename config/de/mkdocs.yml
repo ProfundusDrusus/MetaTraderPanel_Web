@@ -54,10 +54,6 @@ plugins:
        lang: de
 extra:
   footer_links:
-    - text: "Über uns"
-      href: "https://anter.dev/privacy"
-    - text: "Produkte"
-      href: "https://anter.dev/privacy"
     - text: "Datenschutz"
       href: "https://doc.metatrader-panel.com/de/legal/privacy-policy"
     - text: "Impressum"
@@ -109,9 +105,9 @@ extra_javascript:
   
 nav:
   - Home: 
-    - Overview: index.md
+    - Übersicht: index.md
   - Features: 
-    - Overview: features/index.md
+    - Übersicht: features/index.md
     - Fibonacci: features/fibonacci.md
     - Tick Chart: features/tick-chart.md
     - Position Properties: features/position-props.md      
@@ -119,8 +115,11 @@ nav:
     - Set up in 3 steps: signup/set-up-in-3-steps.md
     - Auth0: signup/auth0.md
   - FAQ:
-    - Stop questions: faq/stops.md
-    - Tick chart questions: faq/tick-chart.md     
+    - Übersicht: faq/index.md
+    - Allgemein: faq/common-faq.md
+    - Tick Chart Fragen: faq/tick-chart-faq.md  
+    - Stop Fragen: faq/stops-faq.md
+    - Fibonacci Fragen: faq/fibonacci-faq.md
   - Download:
     - Latest version: download/download.md 
   - Preise:

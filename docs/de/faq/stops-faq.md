@@ -1,9 +1,5 @@
 # Stop Questions
-??? question "Your question is not listed?"
-	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec.   
-	[Send us your question :material-email:](mailto:faq@metatrader-panel.com?subject=NewFAQ){.md-button}
+
 
 
 ## Stop Loss

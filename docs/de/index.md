@@ -22,7 +22,7 @@ hide:
          <h3 style="color: #808080;">Probiere es aus, kostenlos und ohne Risiko.</h3>
       </div>
       <!--Call to Action-->
-      <a id="learn-more" href="#" class="button" background-color: #5494DA;color:white;">Mehr erfahren <iclass="fa fa-play" aria-hidden="true"></i></a>
+      <a id="learn-more" href="#" class="button" style="background-color: #5494DA;color:white;">Mehr erfahren <iclass="fa fa-play" aria-hidden="true"></i></a>
       <!--End Call to Action-->
    </div>
    <div class="col-61 " >
