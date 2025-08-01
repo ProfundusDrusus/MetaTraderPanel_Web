@@ -61,7 +61,7 @@ extra:
     - text: "Datenschutz"
       href: "https://anter.dev/privacy"
     - text: "Impressum"
-      href: "https://doc.metatrader-panel.com/legal/imprint"
+      href: "https://doc.metatrader-panel.com/de/legal/imprint"
   generator: false
   #social:
     #- icon: fontawesome/solid/envelope
