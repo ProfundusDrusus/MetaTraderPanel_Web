@@ -59,7 +59,7 @@ extra:
     - text: "Produkte"
       href: "https://anter.dev/privacy"
     - text: "Datenschutz"
-      href: "https://anter.dev/privacy"
+      href: "https://doc.metatrader-panel.com/dee/legal/privacy-policy"
     - text: "Impressum"
       href: "https://doc.metatrader-panel.com/de/legal/imprint"
   generator: false
@@ -128,5 +128,5 @@ nav:
     - FollowMe: https://client.metatrader-panel.com/
   - Mehr:
     - Release Notes: about/release-notes.md
-    - License: about/license.md 
+    - Datenschutz: legal/privacy-policy.md
     - Impressum: legal/imprint.md   
