@@ -127,5 +127,6 @@ nav:
     - Order: https://doc.metatrader-panel.com/de/#go-pricing
   - FollowMe: https://client.metatrader-panel.com/
   - Mehr:
+    - Jobs: misc/job-offers.md
     - Datenschutz: legal/privacy-policy.md
     - Impressum: legal/imprint.md   

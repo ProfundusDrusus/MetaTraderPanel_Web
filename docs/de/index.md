@@ -4,7 +4,7 @@ hide:
 ---
 <div id="banner-content" class="clearfix wow fadeInDown" data-wow-delay="0.1s">
    <div class="col-38">
-      <div class="section-heading">
+      <div class="section-heading section-heading-top">
          <svg class="mobile_only" width="60" height="60" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
             <circle cx="20" cy="20" fill="none" r="12" stroke="#1750AC" stroke-width="3">
                <animate attributeName="r" from="8" to="20" dur="1.5s" begin="0s" repeatCount="indefinite"/>
@@ -39,7 +39,7 @@ hide:
    <section id="about" class="introduction ">
       <div class="row">
          <div class="col-3 wow fadeInLeft" data-wow-delay="0.1s">
-            <div class="section-heading">
+			<div class="section-heading">
                <h3>ERFOLG</h3>
                <h2 class="section-title">Wir helfen bessere Trading Ergebnisse zu erzielen</h2>
                <p class="section-subtitle">Durchdachte Features, entwickelt von Profi-Tradern mit jahrzehntelanger Erfahrung, die sich nahtlos in MT5 einfügen
