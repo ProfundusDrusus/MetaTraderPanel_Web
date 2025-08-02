@@ -1,14 +1,16 @@
+
+<div class="wow fadeInDown" data-wow-delay="0.1s" markdown>
 <div class="blue-line"></div>
 #Wie können wir helfen?
 <h3 style="margin-top:-50px;color:rgb(51,51,51)">Eingeteilt in verschiedene Themenbereiche, findest du hier Antworten auf die am häufigsten gestellten Fragen.</h3>
-<div class="blue-line">
+<div class="blue-line"></div>
 </div>
 
 
 
-<div class="grid cards" style="margin-top:50px;" markdown>
+<div class="grid cards wow fadeInLeft" data-wow-delay="0.1s"" style="margin-top:50px;" markdown>
 
--   __Allgemeine Fragen__
+-   ___Allgemeine Fragen___
 
     ---
 
@@ -17,7 +19,7 @@
 
     [:octicons-arrow-right-24: `Fragen ansehen`](common-faq)
 
--    __Fragen zum Trade Panel__
+-    ___Fragen zum Trade Panel___
 
     ---
 
@@ -27,59 +29,58 @@
 
 
 </div>
-<div class="grid cards" markdown>
+<div class="grid cards wow fadeInRight" data-wow-delay="0.1s"" markdown>
 
 
--   __Fragen zum Tick Chart__
+-   ___Fragen zum Tick Chart___
 
     ---
 
-    Change the colors, fonts, language, icons, logo and more with a few lines
+    Wie trade ich aus dem Tick Chart, wie setze ich eine Order, einen Stop oder close eine Position
 
     [:octicons-arrow-right-24: `Fragen ansehen`](tick-chart-faq)
 
--   __Fragen zu Stops__
+-   ___Fragen zu Stops___
 
     ---
 
-    Material for MkDocs is licensed under MIT and available on [GitHub]
+    Stop Loss, Target Point, Group Stop, Bailout und Schutzengel
 
     [:octicons-arrow-right-24: `Fragen ansehen`](stops-faq)
 	
 </div>
-<div class="grid cards" markdown>
+<div class="grid cards wow fadeInLeft" data-wow-delay="0.1s"" markdown>
 
--   __Fragen zu Orders__
+-   ___Fragen zu Orders___
 
     ---
 
-    Install [`mkdocs-material`](#) with [`pip`](#) and get up
-    and running in minutes
+    Limitierte Käufe und Verkäufe  setzen, ändern löschen und Gültigkeit von Kaufaufträgen 
 
     [:octicons-arrow-right-24: `Fragen ansehen`](orders-faq)
 
--    __Fibonacci Fragen__
+-    ___Fibonacci Fragen___
 
     ---
 
-    Focus on your content and generate a responsive and searchable static site
+    Anlegen, ändern, zeichnen und Unterschiede der zur Verfügung stehenden Typen
 
     [:octicons-arrow-right-24: `Fragen ansehen`](fibonacci-faq)
 
 
 </div>
-<div class="grid cards" markdown>
+<div class="grid cards wow fadeInRight" data-wow-delay="0.1s"" markdown>
 
 
--   __Fragen zu Auth0__
+-   ___Fragen zu Auth0___
 
     ---
 
-    Change the colors, fonts, language, icons, logo and more with a few lines
+    Allgemeine Fragen zu Auth0, Passwort und Gründen warum dein Login nicht funktioniert
 
     [:octicons-arrow-right-24: `Fragen ansehen`](auth0-faq)
 
--   __Profit & Loss Fragen__
+-   ___Profit & Loss Fragen___
 
     ---
 
@@ -90,11 +91,12 @@
 </div>
 
 <br>
+<div class="wow fadeInUp" data-wow-delay="0.3s" markdown>
+
 ???+ note "Und was, wenn deine Frage nicht dabei ist?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
+    Auch kein Problem. Bitte bemühe noch einmal die Such-Funktion und wenn du dann immer noch keine passende Antwort gefunden hast, schreibe uns einfach deine Frage. Wir helfen gerne weiter.
 	
 	[Frage stellen :material-email:](mailto:faq@metatrader-panel.com?subject=NewFAQ){.md-button .mtp-button}
+</div>
 <br><br>	<br><br>	
