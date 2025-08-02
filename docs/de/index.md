@@ -44,7 +44,7 @@ hide:
                <h2 class="section-title">Wir helfen bessere Trading Ergebnisse zu erzielen</h2>
                <p class="section-subtitle">Durchdachte Features, entwickelt von Profi-Tradern mit jahrzehntelanger Erfahrung, die sich nahtlos in MT5 einfügen
 				  und deinen Alltag als Trader leichter machen. Mit ein, zwei Klicks hast du immer die Funktionalität zur Hand, die du gerade brauchst. Kompakt und auf das Wesentliche konzentriert. 
-				  <br><br><p><a href="features/" style="color: #5494DA"><strong>Alle Features ansehen</strong> </a></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+				  <br><br><p><a href="features/" style="color: #5494DA"><strong>Alle Features ansehen</strong> </a></p> <p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
                </p>
             </div>
          </div>
