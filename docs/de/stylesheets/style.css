@@ -1477,7 +1477,7 @@ blockquote {
 
 .price:after {
 	margin-left:10px;
-    content: 'Jahr';
+    content:'Monat';
     font-size: 14px;
 }
 

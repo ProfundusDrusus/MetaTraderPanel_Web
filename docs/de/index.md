@@ -192,13 +192,13 @@ hide:
                <h3>STARTER</h3>
                <p class="pricing-sub">Risikofrei testen</p>
                <div class="pricing">
-                  <div class="price"><span>€</span>0</div>
+                  <div class="price"><span>€</span>0.0</div>
                   <p class="font-18" style="color: #333333;">Teste MetaTrader-Panel ganz in Ruhe und solange du willst</p>
                </div>
                <ul class="font-17">
                   <li style="color: #333333;">Ideal für Anfänger</li>
                   <li style="color: #333333;">1 Trading Panel</li>
-                  <li style="color: #333333;">Keine versteckten Gebühren</li>
+                  <li style="color: #333333;">3 Monate gültig</li>
                   <li style="color: #333333;">Beschränkt auf Demo-Konten</li>
                   <li style="color: #333333;">Eingeschränkter Support</li>
                </ul>
@@ -212,14 +212,14 @@ hide:
                <h3>ADVANCED</h3>
                <p class="pricing-sub">Day-Trading</p>
                <div class="pricing">
-                  <div class="price"><span>€</span>99</div>
+                  <div class="price"><span>€</span>9.90</div>
                   <p  class="font-18" style="color: #333333;">Alles was du brauchst um erfolgreich Intraday zu handeln</p>
                </div>
                <ul  class="font-17">
                   <li>Day-Trader / Scalper</li>
                   <li>Unlimierte Panel Anzahl</li>
                   <li>Trading Knowledgebase</li>
-                  <li>Inklusiv 1 Jahr Updates</li>
+                  <li>Inklusiv 12 Monate Updates</li>
                   <li>Uneingeschränkter Support</li>
                </ul>
                <a href="#" class="button" style="background-color: #5494DA;color:white;font-weight: bold;">JETZT KAUFEN </a>
@@ -232,14 +232,14 @@ hide:
                <h3>PROFESSIONAL</h3>
                <p class="pricing-sub">Day-Trader incl. Signale</p>
                <div class="pricing">
-                  <div class="price"><span>€</span>299</div>
+                  <div class="price"><span>€</span>29.90</div>
                   <p  class="font-18" style="color: #333333;">Erhalte zusätzlich Handelssignale unserer AI "Jeannie"</p>
                </div>
                <ul  class="font-17">
                   <li>KI Handels-Signale</li>
                   <li>Unlimierte Panel Anzahl</li>
                   <li>Trading Knowledgebase</li>
-                  <li>Inklusiv 1 Jahr Updates</li>
+                  <li>Inklusiv 12 Monate Updates</li>
                   <li>Uneingeschränkter Support</li>
                </ul>
                <a href="#" class="button" style="background-color: #5494DA;color:white;font-weight: bold;">JETZT KAUFEN </a>
