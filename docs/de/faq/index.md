@@ -1,8 +1,20 @@
 
 <div class="wow fadeInDown" data-wow-delay="0.1s" markdown>
-<div class="blue-line"></div>
+<svg class="mobile_only" width="60" height="60" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" >
+            <circle cx="20" cy="20" fill="none" r="12" stroke="#1750AC" stroke-width="3">
+               <animate attributeName="r" from="8" to="20" dur="1.5s" begin="0s" repeatCount="indefinite"/>
+               <animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="20" cy="20" fill="#3373C4" r="13"/>
+            <circle cx="20" cy="20" fill="#5494DA" r="12"/>
+            <circle cx="20" cy="20" fill="#1750AC" r="8"/>
+            <circle cx="20" cy="20" fill="#F5F5F5" r="7"/>
+            How we help to achieve better trading results
+            <circle cx="20" cy="20" fill="#F5F5F5" r="7"/>
+         </svg>	 
 #Wie können wir helfen?
-<h3 style="margin-top:-50px;color:rgb(51,51,51)">Eingeteilt in verschiedene Themenbereiche, findest du hier Antworten auf die am häufigsten gestellten Fragen.</h3>
+<div class="blue-line"></div>	
+<h3 style="margin-top:0px;color:rgb(51,51,51)">Eingeteilt in verschiedene Themenbereiche, findest du hier Antworten auf die am häufigsten gestellten Fragen.</h3>
 <div class="blue-line"></div>
 </div>
 
@@ -44,7 +56,7 @@
 
     ---
 
-    Stop Loss, Target Point, Group Stop, Bailout und Schutzengel
+    Stop Loss, Target Point, Group Stop, Bailout, Longrunner und Gurdian Angel
 
     [:octicons-arrow-right-24: `Fragen ansehen`](stops-faq)
 	
@@ -76,7 +88,7 @@
 
     ---
 
-    Allgemeine Fragen zu Auth0, Passwort und Gründen warum dein Login nicht funktioniert
+    Fragen zu Auth0, deinem Passwort und Gründen warum dein Login eventuell nicht funktioniert
 
     [:octicons-arrow-right-24: `Fragen ansehen`](auth0-faq)
 
@@ -84,7 +96,7 @@
 
     ---
 
-    Material for MkDocs is licensed under MIT and available on [GitHub]
+    Fragen zur täglichen Gewinn und Verlust-Auswertung
 
     [:octicons-arrow-right-24: `Fragen ansehen`](pl-faq)
 	
