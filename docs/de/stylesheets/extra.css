@@ -25,17 +25,41 @@
 :root  > * {
   --md-primary-bg-color:        #111111;
   --md-primary-fg-color:        #F5F5F5;
-  #--md-primary-bg-color--light: #ECB7B7;
+  #--md-primary-bg-color--light: red;
   #--md-primary-ng-color--dark:  #90030C;
   --md-accent-fg-color: #5494DA;
 
 }
+.md-typeset {
+  color-adjust: exact;
+  font-size: .7rem;
+  line-height: 1.6;
+  overflow-wrap: break-word;
+}
+.md-typeset h1 {
+  color: var(--md-default-fg-color--light);
+  font-size: 1.8em;
+  line-height: 1.3;
+  margin: 0 0 1.25em;
+}
 
+.grid-cards{
+  background-color: red;
+}
 .mtp-button{
   background-color: #5494DA;
   color:white;
 }
 
+.blue-line:after {
+    background:#5494DA;
+    content:"";
+    display:block;
+    width:30px;
+    height:5px;
+    margin-top:30px;
+	margin-bottom:30px;
+}
 
 html {
   scroll-behavior: smooth;
