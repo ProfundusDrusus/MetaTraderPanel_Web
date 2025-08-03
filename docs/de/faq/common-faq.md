@@ -12,6 +12,36 @@
 </svg>	 
 # ALLGEMEINE FRAGEN
 <p id="com-faq"></p>
+### Verschiedenes	 	 
+
+??? note "Was ist eigentlich eine VPS und warum ist sie sinnvoll?"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
+??? note "Ich trade viel über mein Handy, macht MetaTrader-Panel Sinn für mich?"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.	 
+	 
+	 
+
+??? note "Warum nutzt MetaTrader-Panel externe Bibliotheken?"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.	 
+	 
+	 
+
+??? note "Wie stelle ich das Benutzer-Interface auf Deutsch um?"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+<br>
 ### Installation
 
 ??? note "Kann ich MetaTrader-Panel in Verbindung mit einer VPS nutzen?"
@@ -69,68 +99,54 @@
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.	
+	
+??? note "Für welche Instrumente sendet Jeannie Signale?"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+	
 <br>	
 ### MT5 Berechtigungen	 	 
 
-??? note "Phasellus posuere in sem ut cursus"
+??? note "Warum kann ich den MetaTrader-Panel EA nicht auf den Chart ziehen?"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
-??? note "Phasellus posuere in sem ut cursus2"
+??? note "Der MetaTrader-Panel EA startet, aber ich kann nicht traden"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.	 
 	 
-	 
+??? note "Kann ich das Timframe wechseln während MetaTrader-Panel läuft?"
 
-??? note "Phasellus posuere in sem ut cursus3"
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.	 
+	
+??? note "Warum schliesst sich MetaTrader-Panel, wenn ich das Konto wechsle?"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.	 
 	 
-	 
+??? note "Kann ich das Symbol wechseln während MetaTrader-Panel läuft?"
 
-??? note "Phasellus posuere in sem ut cursus4"
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.	 	 
+
+??? note "Muss ich Web-Requests setzen?"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
 <br>
-### Verschiedenes	 	 
 
-??? note "Phasellus posuere in sem ut cursus"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
-
-??? note "Phasellus posuere in sem ut cursus2"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
-	 
-	 
-
-??? note "Phasellus posuere in sem ut cursus3"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
-	 
-	 
-
-??? note "Phasellus posuere in sem ut cursus4"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
-<br>
 <br>
 <br>	
 <br>
