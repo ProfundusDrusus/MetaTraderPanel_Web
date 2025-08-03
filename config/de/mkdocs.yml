@@ -114,13 +114,14 @@ nav:
   - FAQ:
     - Übersicht: faq/index.md
     - Allgemein: faq/common-faq.md
+    - Interface: faq/panel-faq.md
     - Auth0: faq/auth0-faq.md
     - Fibonacci: faq/fibonacci-faq.md
     - Orders: faq/order-faq.md    
     - Profit & Loss: faq/pl-faq.md    
     - Stops: faq/stops-faq.md   
     - Tick Chart: faq/tick-chart-faq.md  
-    - Trade Panel: faq/panel-faq.md
+    
   - Download:
     - Latest version: download/download.md 
   - Preise:
