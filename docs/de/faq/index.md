@@ -29,7 +29,7 @@
     Alles zur Installation, deiner Lizenz, dem lokalem Server und MT5 Berechtigungen 
 	<br>
 
-    [:octicons-arrow-right-24: `Fragen ansehen`](common-faq)
+    [:octicons-arrow-right-24: `Fragen ansehen`](common-faq.md)
 
 -    ___Trade Panel___
 
@@ -37,7 +37,7 @@
 
     Fragen zur Bedienung des Panels, Kurzbefehlen und den zur Verfügung stehenden Modulen
 
-    [:octicons-arrow-right-24: `Fragen ansehen`](panel-faq)
+    [:octicons-arrow-right-24: `Fragen ansehen`](panel-faq.md)
 
 
 
@@ -51,7 +51,7 @@
 
     Wie trade ich aus dem Tick Chart, wie setze ich eine Order, einen Stop oder close eine Position
 
-    [:octicons-arrow-right-24: `Fragen ansehen`](tick-chart-faq)
+    [:octicons-arrow-right-24: `Fragen ansehen`](tick-chart-faq.md)
 
 -   ___Stops___
 
@@ -59,7 +59,7 @@
 
     Stop Loss, Target Point, Group Stop, Bailout, Longrunner und Gurdian Angel
 
-    [:octicons-arrow-right-24: `Fragen ansehen`](stops-faq)
+    [:octicons-arrow-right-24: `Fragen ansehen`](stops-faq.md)
 	
 </div>
 <div class="grid cards wow fadeInLeft" data-wow-delay="0.1s"" markdown>
@@ -70,7 +70,7 @@
 
     Limitierte Käufe und Verkäufe  setzen, ändern löschen und Gültigkeit von Kaufaufträgen 
 
-    [:octicons-arrow-right-24: `Fragen ansehen`](orders-faq)
+    [:octicons-arrow-right-24: `Fragen ansehen`](order-faq.md)
 
 -    ___Fibonacci___
 
@@ -78,7 +78,7 @@
 
     Anlegen, ändern, zeichnen und Unterschiede der zur Verfügung stehenden Typen
 
-    [:octicons-arrow-right-24: `Fragen ansehen`](fibonacci-faq)
+    [:octicons-arrow-right-24: `Fragen ansehen`](fibonacci-faq.md)
 
 
 </div>
@@ -91,7 +91,7 @@
 
     Fragen zu Auth0, deinem Passwort und Gründen warum dein Login eventuell nicht funktioniert
 
-    [:octicons-arrow-right-24: `Fragen ansehen`](auth0-faq)
+    [:octicons-arrow-right-24: `Fragen ansehen`](auth0-faq.md)
 
 -   ___Profit & Loss___
 
@@ -99,7 +99,7 @@
 
     Fragen zur täglichen Gewinn und Verlust-Auswertung
 
-    [:octicons-arrow-right-24: `Fragen ansehen`](pl-faq)
+    [:octicons-arrow-right-24: `Fragen ansehen`](pl-faq.md)
 	
 </div>
 
