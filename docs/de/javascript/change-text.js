@@ -45,15 +45,6 @@ function changeTestimonials() {
 	setTimeout(changeTestimonials, 10000)	
 }
 
-var sub_texts = new Array();
-sub_texts[0]=("Schluss mit Stop-Loss Fischen. MetaTrader-Panel benutzt einen Stealth-Modus und dein Stop Loss ist für deinen Broker unsichtbar");
-sub_texts[1]=("Das haben wir uns auch gefragt. Dann haben wir einfach einen Tick-Chart gebaut, aus dem man auch wirklich traden kann");
-sub_texts[2]=("Keine Sorge, du bist nicht allein. MetaTrader-Panel wurde mit der Idee entwickelt, den CFD-Handel für Endkunden fairer zu machen.");
-sub_texts[3]=("Erfahrung zählt. Unser Team vereint mehr als 120 Jahre professioneller Trading Erfahrung und wir wissen genau, was wir tun");
-sub_texts[4]=("Dein Broker ist auch dein Handelspartner. Verrätst du ihm deinen Target Point gibst du ihm einen entscheidenden Vorsprung");
-sub_texts[5]=("Profi-Trader mit jahrzehntelanger Handelserfahrung kombiniert mit jungen, erfolgshungrigen Talenten, das ist unser Geheimnis.");
-sub_texts[6]=("Natürlich nicht - wie denn auch? MetaTrader-Panel verfügt über eine eigene Datenbank und kann das. Kein Problem für uns");
-sub_texts[7]=("Erfolgreich traden ist schwierig genug. Du solltest dich nicht mit banalen Dingen ablenken. Mit uns wird dein Trading erfolgreicher.");
 
 var texts = new Array();
 texts[0]=("WARUM VERRÄTST DU DEINEM BROKER DEIN STOP LOSS?");
@@ -64,6 +55,18 @@ texts[4]=("WARUM KENNT DEIN HANDELS-PARTNER DEINEN TARGET POINT?");
 texts[5]=("INTELLIGENTER CODE, BLITZSCHNELL UND NEUESTE TECHNOLOGIE");
 texts[6]=("KANN MT5 FIBONACCI LEVELS OHNE DATEN ZEICHNEN?");
 texts[7]=("DU TRADEST UND WIR KÜMMERN UNS UM DEN REST");
+
+
+var sub_texts = new Array();
+sub_texts[0]=("Schluss mit Stop-Loss Fischen. MetaTrader-Panel benutzt einen Stealth-Modus und dein Stop Loss ist für deinen Broker unsichtbar");
+sub_texts[1]=("Das haben wir uns auch gefragt. Dann haben wir einfach einen Tick-Chart gebaut, aus dem man auch wirklich traden kann");
+sub_texts[2]=("Keine Sorge, du bist nicht allein. MetaTrader-Panel wurde mit der Idee entwickelt, den CFD-Handel für Endkunden fairer zu machen.");
+sub_texts[3]=("Erfahrung zählt. Unser Team vereint mehr als 120 Jahre professioneller Trading Erfahrung und wir wissen genau, was wir tun");
+sub_texts[4]=("Dein Broker ist auch dein Handelspartner. Verrätst du ihm deinen Target Point gibst du ihm einen entscheidenden Vorsprung");
+sub_texts[5]=("Profi-Trader mit jahrzehntelanger Handelserfahrung kombiniert mit jungen, erfolgshungrigen Talenten, das ist unser Geheimnis.");
+sub_texts[6]=("Natürlich nicht - wie denn auch? MetaTrader-Panel verfügt über eine eigene Datenbank und kann das. Kein Problem für uns");
+sub_texts[7]=("Erfolgreich traden ist schwierig genug. Du solltest dich nicht mit banalen Dingen ablenken. Mit uns wird dein Trading erfolgreicher.");
+
 
 var images = [];
 images[0] = "assets/Panel_07x600.png";
@@ -92,7 +95,6 @@ var point = -1;
 
 function changeHeaderText() {
 	
-	console.log('Run ' + point);
 	if (point == -1) {
 		point++;
       setTimeout(changeHeaderText, 12000);
