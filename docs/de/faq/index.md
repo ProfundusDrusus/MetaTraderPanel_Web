@@ -12,7 +12,7 @@
             How we help to achieve better trading results
             <circle cx="20" cy="20" fill="#F5F5F5" r="7"/>
          </svg>	 
-#Wie können wir helfen?
+#Du hast eine Frage, wie können wir helfen?
 <div class="blue-line"></div>	
 <h3 style="margin-top:0px;color:rgb(51,51,51)">Eingeteilt in verschiedene Themenbereiche, findest du hier Antworten auf die am häufigsten gestellten Fragen.</h3>
 <div class="blue-line"></div>
@@ -22,7 +22,7 @@
 
 <div class="grid cards wow fadeInLeft" data-wow-delay="0.1s"" style="margin-top:50px;" markdown>
 
--   ___Allgemeine Fragen___
+-   ___Allgemein___
 
     ---
 
@@ -31,7 +31,7 @@
 
     [:octicons-arrow-right-24: `Fragen ansehen`](common-faq)
 
--    ___Fragen zum Trade Panel___
+-    ___Trade Panel___
 
     ---
 
@@ -45,7 +45,7 @@
 <div class="grid cards wow fadeInRight" data-wow-delay="0.1s"" markdown>
 
 
--   ___Fragen zum Tick Chart___
+-   ___Tick Chart___
 
     ---
 
@@ -53,7 +53,7 @@
 
     [:octicons-arrow-right-24: `Fragen ansehen`](tick-chart-faq)
 
--   ___Fragen zu Stops___
+-   ___Stops___
 
     ---
 
@@ -64,7 +64,7 @@
 </div>
 <div class="grid cards wow fadeInLeft" data-wow-delay="0.1s"" markdown>
 
--   ___Fragen zu Orders___
+-   ___Orders___
 
     ---
 
@@ -72,7 +72,7 @@
 
     [:octicons-arrow-right-24: `Fragen ansehen`](orders-faq)
 
--    ___Fibonacci Fragen___
+-    ___Fibonacci___
 
     ---
 
@@ -85,7 +85,7 @@
 <div class="grid cards wow fadeInRight" data-wow-delay="0.1s"" markdown>
 
 
--   ___Fragen zu Auth0___
+-   ___Auth0___
 
     ---
 
@@ -93,7 +93,7 @@
 
     [:octicons-arrow-right-24: `Fragen ansehen`](auth0-faq)
 
--   ___Profit & Loss Fragen___
+-   ___Profit & Loss___
 
     ---
 
@@ -106,10 +106,10 @@
 <br>
 <div class="wow fadeInUp" data-wow-delay="0.3s" markdown>
 
-???+ note "Und was, wenn deine Frage nicht dabei ist?"
+!!! note "Und was, wenn deine Frage nicht dabei ist?"
 
     Auch kein Problem. Bitte bemühe noch einmal die Such-Funktion und wenn du dann immer noch keine passende Antwort gefunden hast, schreibe uns einfach deine Frage. Wir helfen gerne weiter.
 	
-	[Frage stellen :material-email:](mailto:faq@metatrader-panel.com?subject=NewFAQ){.md-button .mtp-button}
+	[Frage stellen :material-email:](mailto:faq@metatrader-panel.com?subject=Anfrage){.md-button .mtp-button}
 </div>
 <br><br>	<br><br>	
