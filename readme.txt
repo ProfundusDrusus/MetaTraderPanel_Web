@@ -25,3 +25,4 @@ https://www.brainyquote.com/authors/warren-buffett-quotes
 https://www.godocm.com/powerful-trading-quotes-to-transform-your-trading-approach/
 https://www.quantifiedstrategies.com/trading-quotes/
 https://fontmeme.com/3d-rotation/
+https://www.sharepointdiary.com/2022/08/powershell-replace-string-in-text-file.html
