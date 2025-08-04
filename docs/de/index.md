@@ -14,8 +14,6 @@ hide:
             <circle cx="20" cy="20" fill="#5494DA" r="12"/>
             <circle cx="20" cy="20" fill="#1750AC" r="8"/>
             <circle cx="20" cy="20" fill="#F5F5F5" r="7"/>
-            How we help to achieve better trading results
-            <circle cx="20" cy="20" fill="#F5F5F5" r="7"/>
          </svg>
          <h1 id="refresh-headertext" style="font-size:30px;">DU TRADEST UND WIR KÜMMERN UNS UM DEN REST</h1>
          <h2 id="refresh-subtext" style="color: #333333;font-size:25px;">Erfolgreich traden ist schwierig genug. Du solltest dich nicht mit banalen Dingen ablenken. Mit uns wird dein Trading erfolgreicher.</h2>

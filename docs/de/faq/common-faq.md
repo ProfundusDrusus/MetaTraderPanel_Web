@@ -1,15 +1,17 @@
+<a href="../.." title="MetaTrader-Panel" aria-label="MetaTrader-Panel">
 <svg class="mobile_only" width="60" height="60" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" >
-            <circle cx="20" cy="20" fill="none" r="12" stroke="#1750AC" stroke-width="3">
-               <animate attributeName="r" from="8" to="20" dur="1.5s" begin="0s" repeatCount="indefinite"/>
-               <animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0s" repeatCount="indefinite"/>
-            </circle>
-            <circle cx="20" cy="20" fill="#3373C4" r="13"/>
-            <circle cx="20" cy="20" fill="#5494DA" r="12"/>
-            <circle cx="20" cy="20" fill="#1750AC" r="8"/>
-            <circle cx="20" cy="20" fill="#F5F5F5" r="7"/>
-            How we help to achieve better trading results
-            <circle cx="20" cy="20" fill="#F5F5F5" r="7"/>
-</svg>	 
+	<circle cx="20" cy="20" fill="none" r="12" stroke="#1750AC" stroke-width="3">
+	   <animate attributeName="r" from="8" to="20" dur="1.5s" begin="0s" repeatCount="indefinite"/>
+	   <animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0s" repeatCount="indefinite"/>
+	</circle>
+	<circle cx="20" cy="20" fill="#3373C4" r="13"/>
+	<circle cx="20" cy="20" fill="#5494DA" r="12"/>
+	<circle cx="20" cy="20" fill="#1750AC" r="8"/>
+	<circle cx="20" cy="20" fill="#F5F5F5" r="7"/>
+</svg>	
+</a>
+	
+
 # ALLGEMEINE FRAGEN
 <p id="com-faq"></p>
 ### Verschiedenes	 	 
@@ -19,6 +21,7 @@
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
+	![MT5 EA Dialog](../assets/MT5_EA_Dialog.jpg){ align=left }
 
 ??? note "Ich trade viel über mein Handy, macht MetaTrader-Panel Sinn für mich?"
 
@@ -114,12 +117,16 @@
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
+	![MT5 EA Dialog](../assets/MT5_EA_Dialog2.png){ align=left }
+
 
 ??? note "Der MetaTrader-Panel EA startet, aber ich kann nicht traden"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.	 
+	
+	![MT5 EA Dialog](../assets/MT5_EA_Dialog3.png){ align=left }
 	 
 ??? note "Kann ich das Timframe wechseln während MetaTrader-Panel läuft?"
 
