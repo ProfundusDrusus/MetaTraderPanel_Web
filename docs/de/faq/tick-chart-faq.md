@@ -7,7 +7,6 @@
             <circle cx="20" cy="20" fill="#5494DA" r="12"/>
             <circle cx="20" cy="20" fill="#1750AC" r="8"/>
             <circle cx="20" cy="20" fill="#F5F5F5" r="7"/>
-            How we help to achieve better trading results
             <circle cx="20" cy="20" fill="#F5F5F5" r="7"/>
 </svg>	 
 # TICK CHART FRAGEN
