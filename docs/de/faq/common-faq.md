@@ -1,4 +1,4 @@
-<a href="../../de" title="MetaTrader-Panel" aria-label="MetaTrader-Panel">
+<a href="../.." title="MetaTrader-Panel" aria-label="MetaTrader-Panel">
 <svg class="mobile_only" width="60" height="60" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" >
 	<circle cx="20" cy="20" fill="none" r="12" stroke="#1750AC" stroke-width="3">
 	   <animate attributeName="r" from="8" to="20" dur="1.5s" begin="0s" repeatCount="indefinite"/>
