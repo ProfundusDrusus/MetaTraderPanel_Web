@@ -12,6 +12,34 @@
 </svg>	 
 # STOP FRAGEN
 <p id="com-faq"></p>
+## Allgemein
+
+??? note "Was gnau sind die Unterschiede der verschiedenen Stops?"
+
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+	
+??? note "Ich will einen Stop setzen, wie mache ich das?"
+
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
+??? note "Kann ich schon vor Eröffnung einer Position einen Stop festlegen?"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.	 
+	
+??? note "Muss ich für jede Position den Stop einzeln festlegen?"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.	 
+<br>	
 ## Stop Loss
 
 ??? note "Was ist eigentlich eine VPS und warum ist sie sinnvoll?"
@@ -42,7 +70,7 @@
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 <br>
-### Target Point	 	 
+## Target Point	 	 
 
 ??? note "Was ist eigentlich eine VPS und warum ist sie sinnvoll?"
 
