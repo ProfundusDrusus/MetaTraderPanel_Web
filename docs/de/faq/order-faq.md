@@ -3,7 +3,7 @@
 <p id="com-faq"></p>
 ### Allgemein	 	 
 
-??? note "Warum überhaupt Orders verweenden?"
+??? note "Warum überhaupt Orders verwenden?"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor

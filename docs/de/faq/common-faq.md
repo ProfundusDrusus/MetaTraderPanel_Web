@@ -101,10 +101,21 @@
 
 ??? note "Warum kann ich den MetaTrader-Panel EA nicht auf den Chart ziehen?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+	<div>
+    
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
-	![MT5 EA Dialog](../assets/MT5_EA_Dialog2.png){ align=left }
+    massa, nec semper lorem quam in massa.  
+	
+	<picture >
+            <img src="../../assets/MT5_EA_Dialog2.png" alt="">
+    <picture>
+		  
+	</div>
+	<div>
+	blabla
+	</div>
+
 
 
 ??? note "Der MetaTrader-Panel EA startet, aber ich kann nicht traden"

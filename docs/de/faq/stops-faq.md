@@ -14,41 +14,76 @@
 <p id="com-faq"></p>
 ## Allgemein
 
-??? note "Was gnau sind die Unterschiede der verschiedenen Stops?"
+??? note "Was genau sind die Unterschiede der verschiedenen Stops?"
+    
+	<div style="text-align:left;" markdown>
+	
+	 <p style="text-align:left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod</p>
 
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    | Method      | Description                          |
+	| :---------- | :----------------------------------- |
+	| `GET`       | :material-check:     Fetch resource  |
+	| `PUT`       | :material-check-all: Update resource |
+	| `DELETE`    | :material-close:     Delete resource |
+	
+	</div>
+	<p style="text-align:left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod</p>
 	
 ??? note "Ich will einen Stop setzen, wie mache ich das?"
 
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+	<div class="grid " markdown>
+
+	- :fontawesome-brands-html5: __HTML__ for content and structure
+	- bla
+	- :fontawesome-brands-js: __JavaScript__ for interactivity
+	- :fontawesome-brands-css3: __CSS__ for text running out of boxes
+	- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
+
+	</div>
 
 ??? note "Kann ich schon vor Eröffnung einer Position einen Stop festlegen?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
+	<div class="grid cards" markdown>
+
+	- :fontawesome-brands-html5: __HTML__ for content and structure
+	- :fontawesome-brands-js: __JavaScript__ for interactivity
+	- :fontawesome-brands-css3: __CSS__ for text running out of boxes
+	- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
+
+	</div>
+    
 	
 ??? note "Muss ich für jede Position den Stop einzeln festlegen?"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+	
+	Lorem ipsum dolor sit amet,  
+	
+	consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.	 
+     
 <br>	
 ## Stop Loss
 
-??? note "Was ist eigentlich eine VPS und warum ist sie sinnvoll?"
+??? note "Wie setze ich ein Stop Loss?"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
+	
+??? note "Kann mein Broker mein Stop Loss sehen?"
 
-??? note "Ich trade viel über mein Handy, macht MetaTrader-Panel Sinn für mich?"
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+	
+??? note "Wie sichere ich eine Position am schnellsten, sobald sie ins Geld läuft?"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.	 
+
+??? note "Wie ändere ich ein Stop Loss am schnellsten?"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
@@ -56,7 +91,7 @@
 	 
 	 
 
-??? note "Warum nutzt MetaTrader-Panel externe Bibliotheken?"
+??? note "Ich möchte für alle Positionen das gleich Stop Loss setzen"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
@@ -64,21 +99,27 @@
 	 
 	 
 
-??? note "Wie stelle ich das Benutzer-Interface auf Deutsch um?"
+??? note "Kann ich das Stop Loss im Chart anzeigen?"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
+	
+??? note "Kann ich das Stop Loss mit einem Teilverkauf kombinieren?"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.	
 <br>
 ## Target Point	 	 
 
-??? note "Was ist eigentlich eine VPS und warum ist sie sinnvoll?"
+??? note "Wie setze ich einen Target Point?"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
-??? note "Ich trade viel über mein Handy, macht MetaTrader-Panel Sinn für mich?"
+??? note "Kann mein Broker meinen Target Point sehen?"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
@@ -86,7 +127,7 @@
 	 
 	 
 
-??? note "Warum nutzt MetaTrader-Panel externe Bibliotheken?"
+??? note "Wie ändere ich einen Target Point am schnellsten?"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
@@ -94,43 +135,55 @@
 	 
 	 
 
-??? note "Wie stelle ich das Benutzer-Interface auf Deutsch um?"
+??? note "Ich möchte für alle Positionen das gleich Stop Loss setzen"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+	
+??? note "Kann ich den Target Point im Chart anzeigen?"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.	
+	
+??? note "Kann ich den Target Point mit einem Teilverkauf kombinieren?"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.		
+<br>
+## Bailout
+
+??? note "Was ist eigentlich ein Bailout und wie nutze ich ihn?"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
+??? note "Wie aktiviere ich den Bailout?"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.	 
+	 
+	 
+
+??? note "Warum kann ich den Bailout nicht aktivieren?"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.	 
+	 
+	 
+
+??? note "Kann ich den Bailout gleichzeitig für alle offenen Positionen setzen?"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 <br>
-## Group Stop 
-
-??? note "Was ist eigentlich eine VPS und warum ist sie sinnvoll?"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
-
-??? note "Ich trade viel über mein Handy, macht MetaTrader-Panel Sinn für mich?"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
-	 
-	 
-
-??? note "Warum nutzt MetaTrader-Panel externe Bibliotheken?"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
-	 
-	 
-
-??? note "Wie stelle ich das Benutzer-Interface auf Deutsch um?"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
-<br>
-## Bailout	 
+## Group Stop 	 
 
 ??? note "Was ist eigentlich eine VPS und warum ist sie sinnvoll?"
 
@@ -189,6 +242,36 @@
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
+	
+## Longrunner
+
+??? note "Was ist eigentlich eine VPS und warum ist sie sinnvoll?"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
+??? note "Ich trade viel über mein Handy, macht MetaTrader-Panel Sinn für mich?"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.	 
+	 
+	 
+
+??? note "Warum nutzt MetaTrader-Panel externe Bibliotheken?"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.	 
+	 
+	 
+
+??? note "Wie stelle ich das Benutzer-Interface auf Deutsch um?"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.	
 <br>
 <br>
 <br>	

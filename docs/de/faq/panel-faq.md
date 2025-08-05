@@ -41,7 +41,7 @@
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.	 	
 	
-??? note "Wie kann ein detailiertes Handeslergebnis für einen Tag ansehen?"
+??? note "Wie kann ich ein detailiertes Handeslsergebnis für einen Tag ansehen?"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
