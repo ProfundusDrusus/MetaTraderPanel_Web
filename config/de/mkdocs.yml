@@ -5,6 +5,8 @@ site_dir: '../../generated/de'
 #use_directory_urls: false
 
 theme:
+  icon:
+    annotation: material/plus-circle 
   custom_dir: overrides
   auto_themed: true
   language: de
@@ -107,6 +109,7 @@ nav:
     - Übersicht: features/index.md
     - Fibonacci: features/fibonacci.md
     - Tick Chart: features/tick-chart.md
+    - Stops: features/stops.md
     - Position Properties: features/position-props.md      
   - So funktiert es:
     - Set up in 3 steps: signup/set-up-in-3-steps.md

@@ -16,51 +16,84 @@
 
 ??? note "Was genau sind die Unterschiede der verschiedenen Stops?"
     
-	<div style="text-align:left;" markdown>
-	
-	 <p style="text-align:left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod</p>
 
-    | Method      | Description                          |
-	| :---------- | :----------------------------------- |
-	| `GET`       | :material-check:     Fetch resource  |
-	| `PUT`       | :material-check-all: Update resource |
-	| `DELETE`    | :material-close:     Delete resource |
+	
+	<div style="text-align:left;" class="annotate" markdown>
+	
+	MetaTrader-Panel stellt dir spezialisierte Stops zur Verfügung die alle im <a href="../../features/stops#stealth-modus"><strong>Stealth Modus</strong></a> arbeiten.
+	Nachfolgend findest du eine Übersicht, welchen Stop du wofür verwendest. (1)
+	
+	
+
+
+
+    | TYP            | VERWENDUNG                           | UNSICHTBAR                          |
+	| :----------     | :----------------------------------- |:-----------------------------------: |
+	| `STOP LOSS`     | Standard Verlustbegrenzung  |:material-check:  |
+	| `TARGET POINT`       | Standard Gewinnsicherung |:material-check:  |
+	| `BAILOUT`    		   | Schnelles closen schlechter Einstiege |:material-check:  |
+	| `GROUP STOP`         | Verlustbegrenzung für alle Positionen eines Instrumentes |:material-check: |
+	| `GUARDIAN ANGEL`     | Verlustbegrenzung für alle Positionen über alle Instrumente |:material-check:  |
+	| `LONGRUNNER`         | Definiert Ausnahmeregeln |:material-check:  |
 	
 	</div>
-	<p style="text-align:left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod</p>
+	
+	1.  I'm an annotation!
+	
+	
+	<p style="text-align:left;">Mehr Informationen zu den unterschiedlichen Stops findest du <a href="../../features/stops/"><strong>hier</strong></a></p>
+    
+	
+		
+		
+??? note "Was ist der Stealth Modus?"
+
+	<div>
+	<picture >
+            <img src="../../assets/Settings1.jpg" alt="">
+    <picture>
+    
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.  
+		  
+	</div>
 	
 ??? note "Ich will einen Stop setzen, wie mache ich das?"
 
 
-	<div class="grid " markdown>
-
-	- :fontawesome-brands-html5: __HTML__ for content and structure
-	- bla
-	- :fontawesome-brands-js: __JavaScript__ for interactivity
-	- :fontawesome-brands-css3: __CSS__ for text running out of boxes
-	- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
-
+	<div>
+	<picture >
+            <img src="../../assets/Pic2.jpg" alt="">
+    <picture>
+    
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.  
+	
+	<picture >
+            <img src="../../assets/Pic3.jpg" alt="">
+    <picture>
+		  
 	</div>
+	<div>
+	blabla
+	</div>
+
 
 ??? note "Kann ich schon vor Eröffnung einer Position einen Stop festlegen?"
 
-	<div class="grid cards" markdown>
-
-	- :fontawesome-brands-html5: __HTML__ for content and structure
-	- :fontawesome-brands-js: __JavaScript__ for interactivity
-	- :fontawesome-brands-css3: __CSS__ for text running out of boxes
-	- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
-
-	</div>
+	<div>
+	<picture >
+            <img src="../../assets/Settings1.jpg" alt="">
+    <picture>
     
-	
-??? note "Muss ich für jede Position den Stop einzeln festlegen?"
-	
-	Lorem ipsum dolor sit amet,  
-	
-	consectetur adipiscing elit. Nulla et euismod
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
+    massa, nec semper lorem quam in massa.  
+		  
+	</div>
+ 
      
 <br>	
 ## Stop Loss
@@ -242,7 +275,7 @@
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
-	
+<br>	
 ## Longrunner
 
 ??? note "Was ist eigentlich eine VPS und warum ist sie sinnvoll?"
