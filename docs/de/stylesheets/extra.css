@@ -172,7 +172,13 @@ span.c {
 .desktop_only {
   display: block;
 }
+/*-------------------------COLOR----------------------------------------*/
 
+.lightbulb {
+  color: #FFAE0D;
+}
+
+/*-------------------------FAQ----------------------------------------*/
 .md-typeset .admonition,
 .md-typeset details {
   border-width: 0;

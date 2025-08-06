@@ -1,15 +1,17 @@
-<svg class="mobile_only" width="60" height="60" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" >
-            <circle cx="20" cy="20" fill="none" r="12" stroke="#1750AC" stroke-width="3">
-               <animate attributeName="r" from="8" to="20" dur="1.5s" begin="0s" repeatCount="indefinite"/>
-               <animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0s" repeatCount="indefinite"/>
-            </circle>
-            <circle cx="20" cy="20" fill="#3373C4" r="13"/>
-            <circle cx="20" cy="20" fill="#5494DA" r="12"/>
-            <circle cx="20" cy="20" fill="#1750AC" r="8"/>
-            <circle cx="20" cy="20" fill="#F5F5F5" r="7"/>
-            How we help to achieve better trading results
-            <circle cx="20" cy="20" fill="#F5F5F5" r="7"/>
-</svg>	 
+
+<a href="../.." title="MetaTrader-Panel" aria-label="MetaTrader-Panel">
+<svg class="mobile_only" width="60" height="60" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+	<circle cx="20" cy="20" fill="none" r="12" stroke="#1750AC" stroke-width="3">
+	   <animate attributeName="r" from="8" to="20" dur="1.5s" begin="0s" repeatCount="indefinite"/>
+	   <animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0s" repeatCount="indefinite"/>
+	</circle>
+	<circle cx="20" cy="20" fill="#3373C4" r="13"/>
+	<circle cx="20" cy="20" fill="#5494DA" r="12"/>
+	<circle cx="20" cy="20" fill="#1750AC" r="8"/>
+	<circle cx="20" cy="20" fill="#F5F5F5" r="7"/>
+</svg>
+</a>
+
 # STOP FRAGEN
 <p id="com-faq"></p>
 ## Allgemein
@@ -41,56 +43,50 @@
 	1.  I'm an annotation!
 	
 	
-	<p style="text-align:left;">Mehr Informationen zu den unterschiedlichen Stops findest du <a href="../../features/stops/"><strong>hier</strong></a></p>
+	<p style="text-align:left;">Detailierte Informationen zu den unterschiedlichen Stops findest du <a href="../../features/stops/"><strong>hier</strong></a></p>
     
 	
 		
 		
 ??? note "Was ist der Stealth Modus?"
 
-	<div>
-	<picture >
-            <img src="../../assets/Settings1.jpg" alt="">
-    <picture>
-    
-	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.  
+    <p style="text-align:left;">Im Stealth Modus sind deine Stops deinem Broker gegenüber verborgen und nur du kannst sie sehen. Mehr Informationen zum Steahlt Modus und warum er so wichtig ist, findest du <a href="../../features/stops/"><strong>hier</strong></a></p>
+	
 		  
-	</div>
 	
 ??? note "Ich will einen Stop setzen, wie mache ich das?"
 
+	Mit einem Doppelklick auf die Position deren Eigenschaften du ändern möchtest, rufst du ganz einfach den Eigenschaften Dialog auf.  
+	
+	
+    :material-lightbulb-on:{ .lightbulb }  Tipp: Achte darauf, dass das Schloss geöffnet ist
 
 	<div>
 	<picture >
-            <img src="../../assets/Pic2.jpg" alt="">
-    <picture>
-    
-	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.  
+            <img src="../../assets/Positions2.jpg" alt="">
+    <picture>  
 	
+	Im Eigenschaften Dialog kannst du nun deine Stops wi gewünscht setzen.
+    
+
 	<picture >
             <img src="../../assets/Pic3.jpg" alt="">
     <picture>
 		  
 	</div>
-	<div>
-	blabla
-	</div>
+	<p style="text-align:left;">Weitere Informationen zu den unterschiedlichen Stops findest du <a href="../../features/stops/"><strong>hier</strong></a></p>
 
 
-??? note "Kann ich schon vor Eröffnung einer Position einen Stop festlegen?"
-
+??? note "Kann ich schon vor Eröffnung einer Position Stops festlegen?"
+	
+	Ja klar, das ist kein Problem. In den MetaTrader-Panel Einstellungen kannst du für das jeweilige Instrument sowohl einen Stop Loss als auch Target Point Wert festlegen, die ab Eröffnung der Position sofort gültig sind.
+	
 	<div>
 	<picture >
             <img src="../../assets/Settings1.jpg" alt="">
     <picture>
     
-	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.  
+	<p style="text-align:left;">Weitere Informationen zu vordefinierten Stops findest du <a href="../../features/stops/"><strong>hier</strong></a></p>
 		  
 	</div>
  
