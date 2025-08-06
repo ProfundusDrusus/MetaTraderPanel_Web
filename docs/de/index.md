@@ -169,7 +169,7 @@ hide:
          </div>
          <!--End Content Right Side-->
          <div id="pic2-wrap" class="col-3 wow fadeInUp" data-wow-delay="0.4s">
-            <img id="pic2"  style="margin-top: 35%" src="assets/Panel_04.png" alt="Panel"/>
+            <img id="pic2"  style="margin-top: 35%" src="assets/Panel_04x600.png" alt="Panel"/>
          </div>
       </div>
    </div>
