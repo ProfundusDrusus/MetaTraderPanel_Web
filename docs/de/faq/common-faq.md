@@ -18,11 +18,9 @@
 
 ??? note "Wie stelle ich das Benutzer-Interface auf Deutsch um?"
 	
-
     Für die Beschriftung der Steuerelemte nutzen wir grundsätzlich  ausschließlich Englisch.  
 	
 	__Warum tun wir das?__  
-	
 	
     Genau wie im internationalen Flugverkehr ist im Trading Englisch der gesetzte Standard
     mit dem sich Begriffe kurz und knapp beschreiben lassen. Wie sperrig die deutsche Sprache
@@ -41,21 +39,13 @@
 	
 	
 	
-??? note "Warum nutzt MetaTrader-Panel externe Bibliotheken?"
+??? note "Warum nutzt der MetaTrader-Panel EA externe Bibliotheken?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
-	 
+    Durch die Verwendung externer Bibliotheken (sogenannter DLL's) ist MetaTrader-Panel modularer, effizienter und wartungsfreundlicher.
+	Dies erlaubt es uns Aufgaben parallel zu prozessieren und dadurch einen Zeitvorsprung 
+	für dein Trading zu gewinnen, hoch spezialisierte Steuerelemte einzubinden und vieles mehr. 
+	Der wichtigste Grund aber ist, dass wir MetaTrader-Panel so für dich immer auf dem neuesten Stand der Technik halten können.
 	
-??? note "Ich trade viel über mein Handy, macht MetaTrader-Panel Sinn für mich?"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
-	 
-	 
-	 
 ??? note "Was ist eigentlich ein VPS und warum ist er sinnvoll?"
 
     VPS ist die Abkürzung für Virtueller Privater Server. Das bedeutet, du mietest bei einem Anbieter
@@ -205,7 +195,7 @@
 
 ??? note "Muss ich Web-Requests setzen?"
 
-    Nei, keine Sorge du musst keinerlei Web-Requests setzen.
+    Nein, keine Sorge du musst keinerlei Web-Requests setzen.
 
 <br>
 
