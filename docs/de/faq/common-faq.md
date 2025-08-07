@@ -71,9 +71,8 @@
 	
 ??? note "Was bedeutet mobile Installation?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    MT5 bietet erfahrenen Benutzern die Möglich die Anwendung unter einem beliebigen Pfad zu installieren.
+	Das Feature __`Mobile Installation`__ gibt dir die Möglichkeit MetaTrader-Panel unter einem benutzerdefinierten Pfad zu installieren.
 
 ??? note "Kann ich MetaTrader-Panel auch mit MT4 nutzen?"
 
