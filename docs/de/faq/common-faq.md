@@ -17,8 +17,9 @@
 ### Verschiedenes	 	 
 
 ??? note "Wie stelle ich das Benutzer-Interface auf Deutsch um?"
+	
 
-    Für die Beschriftung der Steuerelemte dnutzen wir grundsätzlich  ausschließlich Englisch.  
+    Für die Beschriftung der Steuerelemte nutzen wir grundsätzlich  ausschließlich Englisch.  
 	
 	__Warum tun wir das?__  
 	
@@ -99,37 +100,70 @@
 
 ??? note "Hat die kostenfreie Lizenz Beschränkungen?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Nachfolgend findest du eine Tabelle die die Unterschiede der verschiedenen Preis Modelle zeigt.
+	
+	| MODUL            | KOSTENFREI                           | KOSTENPFLICHTIG                          |
+	| :----------     | :----------------------------------- |:----------------------------------- |
+	| `Alle Features`     | Ja  |Ja  |
+	| `Laufzeit`     | 3 Monate  |12 Monate  |
+	| `Panels`       | 2 |Unbeschränkt  |
+	| `Demo Positionen`         | Ja |Ja |
+	| `Echtgeld Positionen`         | Nein |Ja |
+	| `Support`    		   | Beschränkt |Voller Support  |  
+	
+	Wir glauben, das ist ein sehr faires Angebot. Du kannst 3 Monate lang in aller Ruhe MetaTrader-Panel annähernd ohne jede Einschränkungen testen
+	und dich ganz in Ruhe entscheiden,   
+	
+	Und falls du doch noch Fragen hast, wir helfen gerne weiter unter __<info@metatrader-panel.com>__
+
 
 ??? note "Wie lange ist eine Lizenz gültig?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
+    Die kostenfreie Lizenz ist 3 Monate gültig, die kostenpflichtige Version ist 12 Monate gültig.
 	 
 	 
 
 ??? note "Kann ich die Lizenz Kosten steuerlich absetzen?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
+    Ja selbstverständlich. Die jährliche Lizenz Gebühren sind sogenannte Werbungskosten und steurlich voll vortragbar.
 	 
 	 
 
 ??? note "Ist die Lizenz übertragbar?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	
+    Nein, die Lizenz ist an dein persönliches Handelskonto gebunden und daher nicht übertragbar.
 	
 ??? note "Für welche Instrumente sendet Jeannie Signale?"
+	
+	Nachfolgend aufgeführte Instrumente überwacht Jeannie und sendet bei Erreichen der jeweiligen Kriterien ein Signal zur Eröffnung/Schlisesen der Position.  
+	
+	| INDEX            |                             |                      |
+	| :----------     | :-------------------------- |:---------------------------|
+	| __`Dow Jones`__     |    							|USA  					 |
+	| __`SP500`__         |    							|USA  					     |
+	| __`Nasdaq-100`__         |    							|USA  					     |
+	| __`Nikkei-225`__         |    							|Japan  					     |
+	| __`DAX-40`__         |    |Deutschland  |
+	| __`CAC-40`__         |    |Frankreich  |
+	| __`EURO STOXX 50`__         |    |Europa  |
+	__WÄHRUNG__  
+    | __`JPYUSD`__         |    |Global  |
+	| __`EURUSD`__         |    |Global  |
+	| __`GBPUSD`__         |    |Global  |
+	__ROHSTOFF__  
+    | __`Gold`__         |    |Global  |
+	| __`Silber`__         |    |Global  |
+	| __`Brent Öl`__         |    |Global  |		
+	__KRYPTO__  	
+	| __`BTCUSD`__         |    |Global  |
+	| __`ETHUSD`__         |    |Global  |			
+	__AKTIE__  
+	| __`Apple`__         |    |USA  |
+	| __`Amazon`__         |    |USA  |	
+	| __`Alphabet`__         |    |USA  |
+	| __`Meta`__         |    |USA  |	
+	| __`Tesla`__         |    |USA  |		
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
 	
 <br>	
 ### MT5 Berechtigungen	 	 
@@ -138,52 +172,40 @@
 
 	<div>
     
-	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.  
+	Vergewissere dich, dass -  wie im Bild dargestellt, die Option __`DLL Import erlauben`__ aktiviert ist.  
 	
 	<picture >
             <img src="../../assets/MT5_EA_Dialog2.png" alt="">
     <picture>
 		  
-	</div>
-	<div>
-	blabla
-	</div>
-
-
-
+	</div>  
+	:material-lightbulb-on:{ .lightbulb }  Tipp: Setze den Haken in den Optionen von MT5.
+	
 ??? note "Der MetaTrader-Panel EA startet, aber ich kann nicht traden"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
+    Vergewissere dich, dass -  wie im Bild dargestellt, die Option __`Algorithmischen Handel erlauben`__ aktiviert ist.  	 
 	
 	![MT5 EA Dialog](../assets/MT5_EA_Dialog3.png){ align=left }
 	 
 ??? note "Kann ich das Timframe wechseln während MetaTrader-Panel läuft?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
+    Aber selbstverständlich. Du kannst zu jeder Zeit jedes beliebige, vorhandene Timeframe wählen, 
+	das du möchtest	denn MetaTrader-Panel arbeitet Tick-basiert.	 
 	
 ??? note "Warum schliesst sich MetaTrader-Panel, wenn ich das Konto wechsle?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
+    Jede MetaTrader-Panel Lizenz ist an genau ein Konto gebunden.
+	Wechselst du das Konto, schließt sich MetaTrader-Panel sobald festgestellt wird, dass für das neue Konto
+	keine gültige Lizenz vorhanden ist.
 	 
-??? note "Kann ich das Symbol wechseln während MetaTrader-Panel läuft?"
+??? note "Kann ich das Symbol wechseln, während MetaTrader-Panel läuft?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 	 
+    Ja selbstverständlich. Sobald du ein neues Symbol auf den Chart ziehst, lädt MetaTrader-Panel
+	automatisch die Konfiguration für das neue Instrument sowie alle offenen Positionen und Orders.
 
 ??? note "Muss ich Web-Requests setzen?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Nei, keine Sorge du musst keinerlei Web-Requests setzen.
 
 <br>
 
