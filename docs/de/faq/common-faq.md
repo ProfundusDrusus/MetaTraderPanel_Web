@@ -52,8 +52,7 @@
     eine Windows Maschine  
 	
 	
-	__Was ist der Vorteil dieser Lösung?__  
-	
+	__Was ist der Vorteil dieser Lösung?__   
 	
     Der Handel läuft heutzutage 24 Stunden am Tag, 5 Tage in der Woche und bei Kryptowährungen 7 Tage.
 	Wenn du aktiv handelst, musst du deine Positionen auch 24 Stunden am Tag überwachen. Ein VPS ist dafür
@@ -61,8 +60,8 @@
 	Hinzu kommt eine bis zu 50-fach bessere Zugriffszeit auf den Trading Server deines Brokers.
 
 	<p style="text-align:left;">Einen Leitfaden wie man eine VPS richtiig auswählt findest du <a href="../../features/stops/"><strong>hier</strong></a></p>	
-	
 <br>
+
 ### Installation
 
 ??? note "Kann ich MetaTrader-Panel in Verbindung mit einem VPS nutzen?"
