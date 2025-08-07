@@ -92,13 +92,13 @@
     Nachfolgend findest du eine Tabelle die die Unterschiede der verschiedenen Preis Modelle zeigt.
 	
 	| MODUL            | KOSTENFREI                           | KOSTENPFLICHTIG                          |
-	| :----------     | :----------------------------------- |:----------------------------------- |
-	| `Alle Features`     | Ja  |Ja  |
-	| `Laufzeit`     | 3 Monate  |12 Monate  |
-	| `Panels`       | 2 |Unbeschränkt  |
-	| `Demo Positionen`         | Ja |Ja |
-	| `Echtgeld Positionen`         | Nein |Ja |
-	| `Support`    		   | Beschränkt |Voller Support  |  
+	| :----------     | :----------------------------------- :|:-----------------------------------: |
+	| __`Alle Features`__     | Ja  |Ja  |
+	| __`Laufzeit`__     | 3 Monate  |12 Monate  |
+	| __`Panels`__       | 2 |Unbeschränkt  |
+	| __`Demo Positionen`__         | Ja |Ja |
+	| __`Echtgeld Positionen`__         | Nein |Ja |
+	| __`Support`__    		   | Beschränkt |Voller Support  |  
 	
 	Wir glauben, das ist ein sehr faires Angebot. Du kannst 3 Monate lang in aller Ruhe MetaTrader-Panel annähernd ohne jede Einschränkungen testen
 	und dich ganz in Ruhe entscheiden,   
