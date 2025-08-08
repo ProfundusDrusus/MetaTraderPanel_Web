@@ -66,7 +66,7 @@
             <img src="../../assets/Positions2.jpg" alt="">
     <picture>  
 	
-	Im Eigenschaften Dialog kannst du nun deine Stops wi gewünscht setzen.
+	Im Eigenschaften Dialog kannst du nun deine Stops wie gewünscht setzen.
     
 
 	<picture >
