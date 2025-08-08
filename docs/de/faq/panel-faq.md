@@ -24,7 +24,7 @@
 	 
 	:material-lightbulb-on:{ .lightbulb }  Tipp: Mit einem Doppelklick in die Statuszeile kannst du das Interface blitzschnell verkleinern..
 	
-??? note "Warum gibt es mehr als einen close Button?"
+??? note "Warum gibt es mehr als einen Close Button?"
 
 	Damit du immer blitzschnell auf eine Situation im Markt reagieren kannst, verfügt MetaTrader-Panel über spezialisierte close buttons.
 	Nachfolgende Übersicht zeigt ihre Verwendung.
@@ -40,14 +40,13 @@
 	
     Der __`Revert Button`__ erlaubt es dir blitzschnell eine Position zu schließen und eine Position in die Gegenrichtung zu eröffnen.
 	Dabei kannst du entscheiden, ob die gleiche Positionsgröße oder nur eine Teilmenge verwendet werden soll. 
-	Eine ausführliche Anleitung zum Gebrauch des __`Revert Button`__  
+	Eine ausführliche Anleitung zum Gebrauch des __`Revert Button`__ findest du [__hier__](pl-faq.md)
 
 	
-??? note "Wieso gibt es mehr als eine Anzeige für die prozentuale Veränderung?"
+??? note "Wie schalte ich von der Profit & Loss Anzeige auf den Mini Chart?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	
+    Mit einem Doppelklick auf den Mini Chart wechselst du zur Profit & Loss Anzeige oder wieder rurück.
+	Du kannst natürlich auch den Tastaturkurzbefehl   __`Strg +  C`__  benutzen.
 	
 ??? note "Wie zeige ich die Eigenschaften einer Position an?"
 
@@ -65,6 +64,18 @@
 		  
 	</div>
 	
+??? note "Wie kann ich die Handelszeit für ein Instrument anzeigen?"
+
+	Das haben wir schon für dich erledigt.
+	
+	<picture >
+            <img src="../../assets/TradingSession1.jpg" alt="Handelszeit">
+    <picture>   
+	Die Anzeige ist aufgebaut wie ein Timer. Steht die Anzeige auf __`00:00:00`__ ist Handelsschluss.	Um dich zusätzlich zu unterstützen, bekommst  die   __`letzten 15 Minuten`__  vor Handelsschluss zusätzliche Warnungen angezeigt.
+
+		  
+
+	
 ??? note "Wie kann ich ein detailiertes Handeslsergebnis für einen Tag ansehen?"
 
     Das erklären wir [__hier__](pl-faq.md)		
@@ -73,6 +84,10 @@
 
     Du kannst das MetaTrader-Panel Interface entweder im Hauptfenster von MT5 laufen lassen, oder außerhalb; ganz wie du möchtest.
 	Im __`Docked Modus`__ ist das Interface Teil von MT5, ansonsten kannst du das Interface frei auf deinem Bildschirme positionieren.
+
+??? note "Was bedeueten die verschiedenen Icons in der Statuszeile?"
+
+    Die Bedeutung der unterschiedlichen Icons und ihre Verwendung erklären wir [__hier__](pl-faq.md).
 
 <br>
 ### Positionsgröße	 	 
