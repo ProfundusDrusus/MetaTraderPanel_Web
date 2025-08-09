@@ -1,7 +1,6 @@
 
-
-
-<svg width="60" height="60" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+<a href="../.." title="MetaTrader-Panel" aria-label="MetaTrader-Panel">
+<svg class="mobile_only" width="60" height="60" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
   <circle cx="20" cy="20" fill="none" r="12" stroke="#1750AC" stroke-width="3">
 	<animate attributeName="r" from="8" to="20" dur="1.5s" begin="0s" repeatCount="indefinite"/>
 	<animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0s" repeatCount="indefinite"/>
@@ -11,7 +10,7 @@
   <circle cx="20" cy="20" fill="#1750AC" r="8"/>
   <circle cx="20" cy="20" fill="#F5F5F5" r="7"/>
 </svg>
-
+</a>
 
 # ALLGEMEINE FRAGEN
 <p id="com-faq"></p>
@@ -60,7 +59,7 @@
 	aufgrund seiner Ausfallsicherheit, Internetanbindung und Kostengünstigkeit hervorragend geeignet. 
 	Hinzu kommt eine bis zu 50-fach bessere Zugriffszeit auf den Trading Server deines Brokers.
 
-	<p style="text-align:left;">Einen Leitfaden wie man eine VPS richtiig auswählt findest du <a href="../../features/stops/"><strong>hier</strong></a></p>	
+	<p style="text-align:left;">Einen Leitfaden wie man eine VPS richtig auswählt findest du <a href="../../features/stops/"><strong>hier</strong></a></p>	
 <br>
 
 ### Installation
@@ -71,7 +70,7 @@
 	
 ??? note "Was bedeutet mobile Installation?"
 
-    MT5 bietet erfahrenen Benutzern die Möglich die Anwendung unter einem beliebigen Pfad zu installieren.
+    MT5 bietet erfahrenen Benutzern die Möglichkeit die Anwendung unter einem beliebigen Pfad zu installieren.
 	Das Feature __`Mobile Installation`__ gibt dir die Möglichkeit MetaTrader-Panel unter einem benutzerdefinierten Pfad zu installieren.
 
 ??? note "Kann ich MetaTrader-Panel auch mit MT4 nutzen?"
@@ -85,6 +84,24 @@
 	 
 
 <br>	 
+### Lokaler Server
+
+??? note "Was sind die Aufgaben des lokale Servers?"
+
+    Der lokale Server ist das zentrale Verbindungsglied zwischen allen offenen Panels.
+	Zu seinen Aufgaben gehören die Prüfung der Lizenz, das Anzeigen von Benachrichtigungen, 
+	Datenbank-Management, Sprachverwaltung, statistische Auswertungen deiner Trades und vieles mehr.
+	
+??? note "Muss der Server die ganze Zeit geöffnet sein?"
+
+    Ja, der Server muss die gganze Zeit geöffnet sein, aber du musst ihn nicht die ganze Zeit sehen.
+	Minimiere den Server einfach und er legt sich in das Windows Benachrichtigungsfeld.
+	![System Tray](../assets/Tray1.jpg)  
+	Und falls du ihn einmal brauchst, kannst du mit einem Rechtsklick die Befehlsleiste aufrufen  
+	![System Tray](../assets/Tray2.jpg)  
+	 
+
+<br>	
 ### Lizenz
 
 ??? note "Hat die kostenfreie Lizenz Beschränkungen?"
@@ -114,7 +131,7 @@
 
 ??? note "Kann ich die Lizenz Kosten steuerlich absetzen?"
 
-    Ja selbstverständlich. Die jährliche Lizenz Gebühren sind sogenannte Werbungskosten und steurlich voll vortragbar.
+    Ja selbstverständlich. Die jährliche Lizenz Gebühren sind sogenannte Werbungskosten und steuerlich voll vortragbar.
 	 
 	 
 
@@ -124,7 +141,7 @@
 	
 ??? note "Für welche Instrumente sendet Jeannie Signale?"
 	
-	Nachfolgend aufgeführte Instrumente überwacht Jeannie und sendet bei Erreichen der jeweiligen Kriterien ein Signal zur Eröffnung/Schlisesen der Position.  
+	Nachfolgend aufgeführte Instrumente überwacht Jeannie und sendet bei Erreichen der jeweiligen Kriterien ein Signal zur Eröffnung/Schließen der Position.  
 	
 	| INDEX            |                             |                      |
 	| :----------     | :-------------------------- |:---------------------------|
@@ -176,7 +193,7 @@
 	
 	![MT5 EA Dialog](../assets/MT5_EA_Dialog3.png){ align=left }
 	 
-??? note "Kann ich das Timframe wechseln während MetaTrader-Panel läuft?"
+??? note "Kann ich das Timeframe wechseln während MetaTrader-Panel läuft?"
 
     Aber selbstverständlich. Du kannst zu jeder Zeit jedes beliebige, vorhandene Timeframe wählen, 
 	das du möchtest	denn MetaTrader-Panel arbeitet Tick-basiert.	 

@@ -1,4 +1,18 @@
-# INTERFACE FRAGEN {#test-anchor}
+
+<a href="../.." title="MetaTrader-Panel" aria-label="MetaTrader-Panel">
+<svg class="mobile_only" width="60" height="60" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="20" cy="20" fill="none" r="12" stroke="#1750AC" stroke-width="3">
+	<animate attributeName="r" from="8" to="20" dur="1.5s" begin="0s" repeatCount="indefinite"/>
+	<animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="20" cy="20" fill="#3373C4" r="13"/>
+  <circle cx="20" cy="20" fill="#5494DA" r="12"/>
+  <circle cx="20" cy="20" fill="#1750AC" r="8"/>
+  <circle cx="20" cy="20" fill="#F5F5F5" r="7"/>
+</svg>
+</a>
+
+# INTERFACE FRAGEN 
 <p id="com-faq"></p>
 ### Verschiedenes	 	 
 ??? note "Warum passiert nichts, wenn ich auf kaufen oder verkaufen klicke?" 
@@ -16,11 +30,10 @@
 	
 	Du kannst die Höhe des Interfaces mit der Maus stufenlos andern. 
 	
-    ![Interface min size](../../assets/GuiMinSize.jpg)  
+    ![Interface min size](../assets/GuiMinSize.jpg)  
 	Minimal Größe  
-	
-	![Interface min size](../../assets/ProfitLoss1.jpg)  
-	Angepasste Größe 
+	![Interface min size](../assets/ProfitLoss1.jpg)  
+	Benutzerdefinierte Größe 
 	 
 	:material-lightbulb-on:{ .lightbulb }  Tipp: Mit einem Doppelklick in die Statuszeile kannst du das Interface blitzschnell verkleinern..
 	
@@ -95,7 +108,7 @@
 
     Du kannst beides nehmen. Deine Eingabe wird automatisch geprüft und das Dezimalzeichen gegebenenfalls ersetzt.
 
-??? note "Und wenn ich mich beider Eingabe vertippe?"
+??? note "Und wenn ich mich bei der Eingabe vertippe?"
 
     Solltest du einen ungültigen Wert eingeben, wird das erkannt und stattdessen die kleinste mögliche Lotsize des Instrumentes vorgeschlagen.	 
 
@@ -106,12 +119,9 @@
 
 ??? note "Kann ich eine maximale Positionsgröße setzen?"
 
-    Um dich vor sogenannten __`fat finger trades`__ zu schützen kannst du in den MetaTrader-Panel Optionen, unabhängig von den Vorgaben deines Brokers, sowohl eine Warnschwelle als auch eine maximale Positionsgröße setzen.
+    Ja klar. Um dich vor sogenannten __`fat finger trades`__ zu schützen kannst du in den MetaTrader-Panel Optionen, unabhängig von den Vorgaben deines Brokers, sowohl eine Warnschwelle als auch eine maximale Positionsgröße setzen.
 	Weitere Informationen zum Thema findest du [__hier__](pl-faq.md)
 
-??? note "Was passiert wenn ich einen ungültigen Wert eingebe?"
-
-    Solltest du einen ungültigen Wert eingeben, wird das erkannt und stattdessen die kleinste mögliche Lotsize des Instrumentes vorgeschlagen.	 
 <br>
 
 <br>
