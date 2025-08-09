@@ -95,9 +95,12 @@
 ??? note "Muss der Server die ganze Zeit geöffnet sein?"
 
     Ja, der Server muss die gganze Zeit geöffnet sein, aber du musst ihn nicht die ganze Zeit sehen.
-	Minimiere den Server einfach und er legt sich in das Windows Benachrichtigungsfeld.
+	Minimiere den Server einfach und er legt sich in das Windows Benachrichtigungsfeld.  
+	
 	![System Tray](../assets/Tray1.jpg)  
+	
 	Und falls du ihn einmal brauchst, kannst du mit einem Rechtsklick die Befehlsleiste aufrufen  
+		
 	![System Tray](../assets/Tray2.jpg)  
 	 
 
