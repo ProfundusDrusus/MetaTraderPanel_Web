@@ -32,6 +32,7 @@
 	
     ![Interface min size](../assets/GuiMinSize.jpg)  
 	Minimal Größe  
+	
 	![Interface min size](../assets/ProfitLoss1.jpg)  
 	Benutzerdefinierte Größe 
 	 
