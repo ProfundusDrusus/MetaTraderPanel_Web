@@ -25,7 +25,9 @@
 	| :----------     | :-------------------------- |:---------------------------|
 	| __`MetaTrader-Panel Limit Order`__     | |2-5 Millisekunden|
 	| __`Market Order MT5`__ | |3-5 Sekunden  |
-	| __`Telefonische Order`__  ||7-15 Sekunden |
+	| __`Telefonische Order`__  ||7-15 Sekunden |  
+	
+	Verglichen mit einer Market Order beträgt dein Geschwindigkeitsvorteil bei einer Limit Order, bis zum Faktor 1000.
 
     
 	
