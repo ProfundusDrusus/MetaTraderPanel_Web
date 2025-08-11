@@ -22,17 +22,12 @@
 ## Allgemein
 
 ??? note "Was genau sind die Unterschiede der verschiedenen Stops?"
-    
-
-	
+    	
 	<div style="text-align:left;" class="annotate" markdown>
 	
 	MetaTrader-Panel stellt dir spezialisierte Stops zur Verfügung die alle im <a href="../../features/stops#stealth-modus"><strong>Stealth Modus</strong></a> arbeiten.
 	Nachfolgend findest du eine Übersicht, welchen Stop du wofür verwendest. (1)
 	
-	
-
-
 
     | TYP            | VERWENDUNG                           | UNSICHTBAR                          |
 	| :----------     | :----------------------------------- |:-----------------------------------: |
@@ -50,9 +45,6 @@
 	
 	<p style="text-align:left;">Detailierte Informationen zu den unterschiedlichen Stops findest du <a href="../../features/stops/"><strong>hier</strong></a></p>
     
-	
-		
-		
 ??? note "Was ist der Stealth Modus?"
 
     <p style="text-align:left;">Im Stealth Modus sind deine Stops deinem Broker gegenüber verborgen und nur du kannst sie sehen. Mehr Informationen zum Steahlt Modus und warum er so wichtig ist, findest du <a href="../../features/stops/"><strong>hier</strong></a></p>
@@ -107,43 +99,33 @@
 	
 ??? note "Kann mein Broker mein Stop Loss sehen?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Nein kein Sorge. MetaTrader-Panel arbeitet im sogenannten __`Steahlth Modus`__.
+	Alle Stops sind dabei für deinen Broker verborgen und nur du weißt wo sie sind.
 	
 ??? note "Wie sichere ich eine Position am schnellsten, sobald sie ins Geld läuft?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
+    Einfach bei gedrückter __`Strg Taste`__  auf die Position im Interface doppelklicken
+	und es wird ein Stop Loss im Geld gesetzt. Wie weit im Geld der Stop Loss gesetzt wird, 
+	kannst du du in den Optionen des Instrumentes individuell festlegen.
 
 ??? note "Wie ändere ich ein Stop Loss am schnellsten?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
-	 
-	 
+    Die mit Abstand schnellste Art dein Stop Loss zu ändern ist es im MT5 Chart einfach dahin zu ziehen wo du es haben möchtest.
+	Du kannst das Stop Loss natürlich auch über die Positions Eigenschaften ändern.
 
 ??? note "Ich möchte für alle Positionen das gleich Stop Loss setzen"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
-	 
+    Kein Problem, aktiviere einfach in den Positions Eigenschaften den Schalter __`All`__ .	Der Algorithmus übernimmt dann für alle offenen Position für die das gleiche Stop Loss möglich ist den Vorschlagswert.
+	Positionen bei denen der Vorschlagswert zu einem sofortigen Schließen der Position führen würde werden ignoriert.
 	 
 
 ??? note "Kann ich das Stop Loss im Chart anzeigen?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Natürlich. Aktiviere einfach in den Positions Eigenschaften den Schalter __`Paint`__ .	 
 	
 ??? note "Kann ich das Stop Loss mit einem Teilverkauf kombinieren?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	
+    Kein Problem für MetaTrader-Panel. Aktiviere einfach den __`Teilverkauf`__ mit dem gewünschten Prozentsatz. Zusätzlich setzt du dein Stop Loss wie gewohnt.	 .	
 <br>
 ## Target Point	 	 
 

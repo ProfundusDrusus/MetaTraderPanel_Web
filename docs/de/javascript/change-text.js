@@ -47,7 +47,7 @@ function changeTestimonials2() {
 	
 function changeTestimonials3() {
   
-	/* change testimonial 2*/
+	/* change testimonial 3*/
     $("#ttm3").fadeOut("slow", function () {
          $(this).html(ttmq3[ttmsCnt]);
          $(this).fadeIn("slow");
