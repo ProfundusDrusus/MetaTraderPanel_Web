@@ -1,16 +1,16 @@
 var ttmq3 = new Array();
 ttmq3.push("Sehr freundlicher, kompetententer und vor allem schneller Support.<br><br><br>Mary Steiner, Österreich");
-ttmq3.push("Ich war überrascht wie ertragreich die Signale sind, die ich bekomme. Die Gebühr empfinde ich als äußerst günstig.<br><br>John Doe,  Somewhere"); 
-ttmq3.push("Ich mag dieses Panel, es hat viele Probleme auf einmal gelöst. Alles ist an einem Ort, ich bin sehr zufrieden.<br><br>Peter Steiner, GER");
+ttmq3.push("Ich war überrascht wie ertragreich die Signale sind, die ich bekomme. Die Gebühr empfinde ich als äußerst günstig.<br><br>Sven Geizkragen,  Norderstedt"); 
+ttmq3.push("Jeannie hat echt die geilsten Titten weit und breit, ich bin sehr zufrieden.<br><br>><br>Johan Notgeil, GER");
 
 var ttmq2 = new Array();
 ttmq2.push("Ein Muss für jeden Trader, der seinen Alltag vereinfachen möchte. Die Möglichkeit, Orders visuell zu platzieren ist sehr praktisch.<br><br>Jussuf Habock, GR");
-ttmq2.push("Kein Schnick-Schnack sondern die Funktionen die ich brauche. Ich möchte nicht mehr tauschen.<br><br>John Doe,  Somewhere"); 
-ttmq2.push("Die Möglichkeit direkt aus dem Tick Chart zu Positionen zu öffnen oder zu schließen hat meine Gewinn Marge deutlich verbessert.<br><br>John Doe,  Somewhere"); 
+ttmq2.push("Kein Schnick-Schnack sondern nur die Funktionen die ich wirklich brauche. Ich möchte nicht mehr tauschen.<br><br>Gerhard Schreck, GER"); 
+ttmq2.push("Die Möglichkeit direkt aus dem Tick Chart zu Positionen zu öffnen oder zu schließen hat meine Gewinn Marge deutlich verbessert.<br><br>Peter Talentlos, KiTa"); 
 
 
 var ttmq1 = new Array();
-ttmq1.push("This is such a wonderful tool shared with generosity. Thank you! Wonderful job. I aim at going full version, using this one for training.<br><br>John Doe, Somewhere");
+ttmq1.push("This is such a wonderful tool shared with generosity. Thank you! Wonderful job. I aim at going full version, using this one for training.<br><br>Farhad Douzduzani, GER");
 ttmq1.push("Ich mag dieses Panel, es hat viele Probleme auf einmal gelöst. Alles ist an einem Ort, ich bin sehr zufrieden.<br><br>Peter Steiner, GER");
 ttmq1.push("Ein Muss für jeden Trader, der seinen Alltag vereinfachen möchte. Die Möglichkeit, Orders visuell zu platzieren ist sehr praktisch.<br><br>Jussuf Habock, GR");
 
@@ -19,24 +19,10 @@ ttmq1.push("Ein Muss für jeden Trader, der seinen Alltag vereinfachen möchte. 
 
 var ttmsCnt = 0;
 
-function changeTestimonials() {
+function changeTestimonials1() {
 	
 	$("#ttm1").fadeOut("slow", function () {
          $(this).html(ttmq1[ttmsCnt]);
-         $(this).fadeIn("slow");
-      });
-
-  
-	/* change testimonial 2*/
-    $("#ttm2").fadeOut("slow", function () {
-         $(this).html(ttmq2[ttmsCnt]);
-         $(this).fadeIn("slow");
-      });
-  
-	  
-	/* change testimonial 3*/
-	$("#ttm3").fadeOut("slow", function () {
-         $(this).html(ttmq3[ttmsCnt]);
          $(this).fadeIn("slow");
       });
 	  
@@ -46,7 +32,28 @@ function changeTestimonials() {
 	  ttmsCnt = 0;
 	}
 
-	setTimeout(changeTestimonials, 10000)	
+	setTimeout(changeTestimonials1, 10000)	
+}
+function changeTestimonials2() {
+  
+	/* change testimonial 2*/
+    $("#ttm2").fadeOut("slow", function () {
+         $(this).html(ttmq2[ttmsCnt]);
+         $(this).fadeIn("slow");
+      });
+
+	setTimeout(changeTestimonials2, 11000)
+}
+	
+function changeTestimonials3() {
+  
+	/* change testimonial 2*/
+    $("#ttm3").fadeOut("slow", function () {
+         $(this).html(ttmq3[ttmsCnt]);
+         $(this).fadeIn("slow");
+      });
+
+	setTimeout(changeTestimonials3, 12000)
 }
 
 
@@ -149,4 +156,6 @@ function changeHeaderText() {
 
 changeHeaderText();
 
-changeTestimonials();
+changeTestimonials1();
+changeTestimonials2();
+changeTestimonials3();
