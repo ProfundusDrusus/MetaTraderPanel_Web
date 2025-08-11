@@ -53,7 +53,7 @@
 ??? note "Ich habe mein Passwort vergessen, könnt ihr es mir zusenden?"
 
     Nein das können wir nicht.  Wir kennen dein Passwort nicht und es ist auch nicht auf unseren Servern gespeichert.
-	Bitte nutze die __`Passort vergessen`__ Funktion des Auth0 Login Dialoges um dein Passort zurückzusetzen.
+	Bitte nutze die __`Passwort vergessen`__ Funktion des Auth0 Login Dialoges um dein Passwort zurückzusetzen.
 	 
 
 <br>	 

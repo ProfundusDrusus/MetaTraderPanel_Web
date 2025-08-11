@@ -231,7 +231,7 @@ hide:
                <p class="pricing-sub">Day-Trader incl. Signale</p>
                <div class="pricing">
                   <div class="price"><span>€</span>29.90</div>
-                  <p  class="font-18" style="color: #333333;">Erhalte zusätzlich Handelssignale unserer AI "Jeannie"</p>
+                  <p  class="font-18" style="color: #333333;">Zusätzliche Handelssignale unserer AI "Jeannie"</p>
                </div>
                <ul  class="font-17">
                   <li>KI Handels-Signale</li>
@@ -255,25 +255,25 @@ hide:
             <h2 class="section-title">Was unsere Kunden sagen</h2>
          </div>
          <!--User Testimonial-->
-         <blockquote  id="ttm-1" class="col-3 testimonial classic">
-            <q id="ttmq-1">This is such a wonderful tool shared with generosity. Thank you! Wonderful job. I aim at going full version, using this one for training.</q>
-            <footer id="ttmf-1" style="color: gray;" class="font-16">John Doe - Happy Customer</footer>
+         <blockquote  id="ttm1" class="col-3 testimonial classic">
+            <q id="ttm1">This is such a wonderful tool shared with generosity. Thank you! Wonderful job. I aim at going full version, using this one for training.</q>
+            <footer id="ttmf1" style="color: gray;" class="font-16">John Doe - Happy Customer</footer>
          </blockquote>
          <!-- End of Testimonial-->
          <!--User Testimonial-->
-         <blockquote  id="ttm-2" class="col-3 testimonial classic">
+         <blockquote  id="ttm2" class="col-3 testimonial classic">
             <q >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
             labore
             et dolore magna aliqua</q>
-            <footer class="font-16" style="color: gray;">Oma Drusus - Happy Customer</footer>
+            
          </blockquote>
          <!-- End of Testimonial-->
          <!--User Testimonial-->
-         <blockquote id="ttm-3" class="col-3 testimonial classic">
+         <blockquote id="ttm3" class="col-3 testimonial classic">
             <q >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
             labore
             et dolore magna aliqua</q>
-            <footer class="font-16" style="color: gray;">Thomas Doe - Happy Customer</footer>
+            <footer id="ttmf3" class="font-16" style="color: gray;">Thomas Doe - Happy Customer</footer>
          </blockquote>
          <!-- End of Testimonial-->
       </div>

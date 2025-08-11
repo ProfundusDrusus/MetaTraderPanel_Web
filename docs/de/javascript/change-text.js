@@ -1,13 +1,14 @@
+var ttmq2 = new Array();
+ttmq2.push("Die Möglichkeit direkt aus dem Tick Chart zu Positionen zu öffnen oder zu schließen hat meine Gewinn Marge deutlich verbessert.<br><br>John Doe,  Somewhere"); 
+ttmq2.push("Die Möglichkeit direkt aus dem Tick Chart zu Positionen zu öffnen oder zu schließen hat meine Gewinn Marge deutlich verbessert.<br><br>John Doe,  Somewhere"); 
+ttmq2.push("Die Möglichkeit direkt aus dem Tick Chart zu Positionen zu öffnen oder zu schließen hat meine Gewinn Marge deutlich verbessert.<br><br>John Doe,  Somewhere"); 
+
 
 var ttmq1 = new Array();
-ttmq1.push("This is such a wonderful tool shared with generosity. Thank you! Wonderful job. I aim at going full version, using this one for training.");
-ttmq1.push("Ich mag dieses Panel, es hat viele Probleme auf einmal gelöst. Alles ist an einem Ort, ich bin sehr zufrieden.");
-ttmq1.push("Ein Muss für jeden Trader, der seinen Alltag vereinfachen möchte. Die Möglichkeit, Orders visuell zu platzieren ist sehr praktisch.");
+ttmq1.push("This is such a wonderful tool shared with generosity. Thank you! Wonderful job. I aim at going full version, using this one for training.<br><br>John Doe, Somewhere");
+ttmq1.push("Ich mag dieses Panel, es hat viele Probleme auf einmal gelöst. Alles ist an einem Ort, ich bin sehr zufrieden.<br><br>Peter Steiner, GER");
+ttmq1.push("Ein Muss für jeden Trader, der seinen Alltag vereinfachen möchte. Die Möglichkeit, Orders visuell zu platzieren ist sehr praktisch.<br><br>Jussuf Habock, GR");
 
-var ttmf1 = new Array();
-ttmf1.push("John Doe, UK");
-ttmf1.push("Peter Steiner, GER");
-ttmf1.push("Jussuf Habock, GR");
 
 
 
@@ -15,23 +16,21 @@ var ttmsCnt = 0;
 
 function changeTestimonials() {
 	
-	/* change testimonial 1*/
-	$("#ttmq-1").fadeOut("slow", function () {
+	$("#ttm1").fadeOut("slow", function () {
          $(this).html(ttmq1[ttmsCnt]);
-		 document.getElementById("ttmf-1").innerHTML= ttmf1[ttmsCnt];
          $(this).fadeIn("slow");
       });
-	$("#ttmf-1").fadeOut("slow", function () {
-         $(this).html(ttmf1[ttmsCnt]);
-         $(this).fadeIn("slow");
-      });  
+
+  
 	/* change testimonial 2*/
-	$("#ttm-2").fadeOut("slow", function () {
-         
+    $("#ttm2").fadeOut("slow", function () {
+         $(this).html(ttmq2[ttmsCnt]);
          $(this).fadeIn("slow");
       });
+  
+	  
 	/* change testimonial 3*/
-	$("#ttm-3").fadeOut("slow", function () {
+	$("#ttm3").fadeOut("slow", function () {
          
          $(this).fadeIn("slow");
       });

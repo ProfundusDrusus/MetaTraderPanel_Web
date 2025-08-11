@@ -36,7 +36,7 @@
 	| __`Fehlerfrei`__         | Nein |Ja |
 	| __`Smart Levels`__         | Nein |Ja |  
 	
-	Mehr Informationen wie du das Fibonaccci Modul konfigurierst, findest du [__hier__](../../features/fibonacci.md)
+	Mehr Informationen wie du das Fibonaccci Modul konfigurierst, findest du [__hier__](../features/fibonacci.md)
 
 <br>
 	
