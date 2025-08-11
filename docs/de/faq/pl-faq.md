@@ -10,6 +10,13 @@
             How we help to achieve better trading results
             <circle cx="20" cy="20" fill="#F5F5F5" r="7"/>
 </svg>	 
+
+<figure markdown="span">
+  ![oops](../assets/UnderConstruction.png){ width="150" }
+  <figcaption>Working on it...</figcaption>
+</figure>
+
+
 # PROFIT & LOSS FRAGEN
 <p id="com-faq"></p>
 ### Verschiedenes	 	 
