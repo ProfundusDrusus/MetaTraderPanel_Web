@@ -1,6 +1,11 @@
+var ttmq3 = new Array();
+ttmq3.push("Sehr freundlicher, kompetententer und vor allem schneller Support.<br><br><br>Mary Steiner, Österreich");
+ttmq3.push("Ich war überrascht wie ertragreich die Signale sind, die ich bekomme. Die Gebühr empfinde ich als äußerst günstig.<br><br>John Doe,  Somewhere"); 
+ttmq3.push("Ich mag dieses Panel, es hat viele Probleme auf einmal gelöst. Alles ist an einem Ort, ich bin sehr zufrieden.<br><br>Peter Steiner, GER");
+
 var ttmq2 = new Array();
-ttmq2.push("Die Möglichkeit direkt aus dem Tick Chart zu Positionen zu öffnen oder zu schließen hat meine Gewinn Marge deutlich verbessert.<br><br>John Doe,  Somewhere"); 
-ttmq2.push("Die Möglichkeit direkt aus dem Tick Chart zu Positionen zu öffnen oder zu schließen hat meine Gewinn Marge deutlich verbessert.<br><br>John Doe,  Somewhere"); 
+ttmq2.push("Ein Muss für jeden Trader, der seinen Alltag vereinfachen möchte. Die Möglichkeit, Orders visuell zu platzieren ist sehr praktisch.<br><br>Jussuf Habock, GR");
+ttmq2.push("Kein Schnick-Schnack sondern die Funktionen die ich brauche. Ich möchte nicht mehr tauschen.<br><br>John Doe,  Somewhere"); 
 ttmq2.push("Die Möglichkeit direkt aus dem Tick Chart zu Positionen zu öffnen oder zu schließen hat meine Gewinn Marge deutlich verbessert.<br><br>John Doe,  Somewhere"); 
 
 
@@ -31,7 +36,7 @@ function changeTestimonials() {
 	  
 	/* change testimonial 3*/
 	$("#ttm3").fadeOut("slow", function () {
-         
+         $(this).html(ttmq3[ttmsCnt]);
          $(this).fadeIn("slow");
       });
 	  

@@ -257,15 +257,12 @@ hide:
          <!--User Testimonial-->
          <blockquote  id="ttm1" class="col-3 testimonial classic">
             <q id="ttm1">This is such a wonderful tool shared with generosity. Thank you! Wonderful job. I aim at going full version, using this one for training.</q>
-            <footer id="ttmf1" style="color: gray;" class="font-16">John Doe - Happy Customer</footer>
          </blockquote>
          <!-- End of Testimonial-->
          <!--User Testimonial-->
          <blockquote  id="ttm2" class="col-3 testimonial classic">
             <q >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-            labore
-            et dolore magna aliqua</q>
-            
+            labore et dolore magna aliqua</q>
          </blockquote>
          <!-- End of Testimonial-->
          <!--User Testimonial-->
@@ -273,7 +270,6 @@ hide:
             <q >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
             labore
             et dolore magna aliqua</q>
-            <footer id="ttmf3" class="font-16" style="color: gray;">Thomas Doe - Happy Customer</footer>
          </blockquote>
          <!-- End of Testimonial-->
       </div>
