@@ -92,10 +92,10 @@
 ## Stop Loss
 
 ??? note "Wie setze ich ein Stop Loss?"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+	
+	Ein Doppelklick auf eine Position im Interface zeigt dir ihre Eigenschaften an.  
+	
+    ![Position Prperties](../assets/Pic3.jpg)  
 	
 ??? note "Kann mein Broker mein Stop Loss sehen?"
 
@@ -130,43 +130,32 @@
 
 ??? note "Wie setze ich einen Target Point?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Ein Doppelklick auf eine Position im Interface zeigt dir ihre Eigenschaften an.  
+	
+    ![Position Prperties](../assets/Pic3.jpg)  .
 
 ??? note "Kann mein Broker meinen Target Point sehen?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
+    Nein keine Sorge. MetaTrader-Panel arbeitet im sogenannten __`Steahlth Modus`__.
+	Alle Stops sind dabei für deinen Broker verborgen und nur du weißt wo sie liegen.
 	 
 	 
-
 ??? note "Wie ändere ich einen Target Point am schnellsten?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
+    Wenn du den Target Point im MT5 Chart hast zeichnen lassen, kannst du die Linie einfach mit der Maus auf den neuen Wert vrschieben.
 	 
-	 
-
 ??? note "Ich möchte für alle Positionen das gleich Stop Loss setzen"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Kein Problem, aktiviere einfach in den Positions Eigenschaften den Schalter __`All`__ .	Der Algorithmus übernimmt dann für alle offenen Position für die das gleiche Stop Loss möglich ist den Vorschlagswert.
+	Positionen bei denen der Vorschlagswert zu einem sofortigen Schließen der Position führen würde, werden ignoriert.
 	
 ??? note "Kann ich den Target Point im Chart anzeigen?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	
+    Aktiviere in den Positions Eigenschaften einfach den Schalter __`Paint`__  und dein Target Point wird im Chart gezeichnet.	
 	
 ??? note "Kann ich den Target Point mit einem Teilverkauf kombinieren?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.		
+    Kein Problem für MetaTrader-Panel. Aktiviere einfach den __`Teilverkauf`__ mit dem gewünschten Prozentsatz. Zusätzlich setzt du deinen Target Point wie gewohnt.	 .			
 <br>
 ## Bailout
 
