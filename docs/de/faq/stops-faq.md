@@ -13,8 +13,8 @@
 </a>
 
 <figure markdown="span">
-  ![oops](../assets/UnderConstruction.png){ width="150" }
-  <figcaption>Working on it...</figcaption>
+  ![oops](../assets/UnderConstruction.png){ width="75" }
+  <figcaption>Almost done...</figcaption>
 </figure>
 
 # STOP FRAGEN
@@ -142,7 +142,7 @@
 	 
 ??? note "Wie ändere ich einen Target Point am schnellsten?"
 
-    Wenn du den Target Point im MT5 Chart hast zeichnen lassen, kannst du die Linie einfach mit der Maus auf den neuen Wert vrschieben.
+    Wenn du den Target Point im MT5 Chart hast zeichnen lassen, kannst du die Linie einfach mit der Maus auf den neuen Wert verschieben.
 	 
 ??? note "Ich möchte für alle Positionen das gleich Stop Loss setzen"
 
@@ -180,15 +180,17 @@
 
 ## Group Stop 	 
 
-??? note "Was ist ein Group Stop?"
+??? note "Was ist eigentlich ein Group Stop?"
 
-    Du kannst dir einen Group Stop ähnlich einem Stop Loss vorstellen nur dass der Group Stop alle Positionen eines Instrumentes berücksichtigt.
+    Du kannst dir einen Group Stop ähnlich einem Stop Loss vorstellen nur dass der Group Stop alle Positionen eines Instrumentes berücksichtigt.  
+	Mehr Informationen zu Stops findest du [__hier__](../features/stops.md)
+
 	
-
+	
 ??? note "Werden alle Positionen geshlossen, falls der Group Stop ausgelöst wird?"
 
-    Nein, wird der Group Stop ausgelöst sucht er die Position des Instrumentes mit dem größten Verlust und schließt diese.
-	Dieser Vorgang wiederholt sich jedes mal wenn die festgelegte Verlustgrenze überschritten wird.	
+    Nein, wird der Group Stop ausgelöst, sucht er die Position des Instrumentes mit dem größten Verlust und schließt diese.
+	Dieser Vorgang wiederholt sich jedes mal, wenn die festgelegte Verlustgrenze überschritten wird.	
 	 
 ??? note "Kann ich den Group Stop in Verbindung mit einem Positions Stop Loss nutzen?"
 
@@ -196,7 +198,7 @@
 	 
 ??? note "Kann ich den Group Stop in Verbindung mit einem Positions Target Point nutzen?"
 
-    Ja selbstverständlich, es gilt das gleiche Prinzip wie bei der Kombination mit einem Stop Loss.
+    Na klar, es gilt das gleiche Prinzip wie bei der Kombination mit einem Stop Loss.
 	 	 
 <br>
 ## Guardian Angel
@@ -207,49 +209,37 @@
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
-??? note "Werden gegebenfalls alle Positionen geshlossen?"
+??? note "Werden gegebenfalls alle Positionen geschlossen?"
 
-    Nein, wird der Schutzengel Stop ausgelöst sucht er über alle Instrumente für die du offene Position hast, die mit dem höchsten Verlust und schließt diese.
+    Nein, wird der Schutzengel Stop ausgelöst, sucht er über alle Instrumente für die du offene Position hast, die mit dem höchsten Verlust und schließt nur diese.
 	Dieser Vorgang wiederholt sich jedes mal wenn die festgelegte Verlustgrenze überschritten wird.		 
 
 ??? note "Kann ich den Schutzengel in Verbindung mit einem Group Stop nutzen?"
 
     Ja selbstverständlich, alle Stops bauen aufeinander auf und ergänzen sich.
+	Mehr Informationen dazu wie die Stops ineinder greifen, findest du [__hier__](../features/stops.md)
 
 ??? note "Kann ich den Schutzengel in Verbindung mit Stop Loss oder Target Point einer Position nutzen?"
 
     Ja klar, kein Problem, alle Stops sind miteinander kombinierbar.
+	[__Hier__](../features/stops.md) erklären wir, die unterschiedlichen Stops im Detail.
 		
 <br>	
 ## Longrunner
 
-??? note "Was ist eigentlich eine VPS und warum ist sie sinnvoll?"
+??? note "Was ist eigentlich ein Longrunner?"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
-??? note "Ich trade viel über mein Handy, macht MetaTrader-Panel Sinn für mich?"
+??? note "Wie verhält sich ein Longrunner genau?"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.	 
 	 
-	 
-
-??? note "Warum nutzt MetaTrader-Panel externe Bibliotheken?"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
-	 
-	 
-
-??? note "Wie stelle ich das Benutzer-Interface auf Deutsch um?"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	
+	
 <br>
 <br>
 <br>	
