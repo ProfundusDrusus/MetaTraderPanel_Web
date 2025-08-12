@@ -161,91 +161,65 @@
 
 ??? note "Was ist eigentlich ein Bailout und wie nutze ich ihn?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    ![Position Prperties](../assets/Pic3.jpg)  ..
 
 ??? note "Wie aktiviere ich den Bailout?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
-	 
+    ![Position Prperties](../assets/Pic3.jpg)  .
 	 
 
 ??? note "Warum kann ich den Bailout nicht aktivieren?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
-	 
-	 
+    Der Bailout kann nur aktiviert werden für Position die aus dem Geld sind.
+    Ist	deine Position profitabel, gibt es keinen Grund den Bailout zu nutzen.
 
 ??? note "Kann ich den Bailout gleichzeitig für alle offenen Positionen setzen?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Nein, das würde keinen Sinn ergeben. Der Bailout muss gezielt für jede Position aktiviert werden..
 <br>
+
 ## Group Stop 	 
 
-??? note "Was ist eigentlich eine VPS und warum ist sie sinnvoll?"
+??? note "Was ist ein Group Stop?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Du kannst dir einen Group Stop ähnlich einem Stop Loss vorstellen nur dass der Group Stop alle Positionen eines Instrumentes berücksichtigt.
+	
 
-??? note "Ich trade viel über mein Handy, macht MetaTrader-Panel Sinn für mich?"
+??? note "Werden alle Positionen geshlossen, falls der Group Stop ausgelöst wird?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
+    Nein, wird der Group Stop ausgelöst sucht er die Position des Instrumentes mit dem größten Verlust und schließt diese.
+	Dieser Vorgang wiederholt sich jedes mal wenn die festgelegte Verlustgrenze überschritten wird.	
 	 
+??? note "Kann ich den Group Stop in Verbindung mit einem Positions Stop Loss nutzen?"
+
+    Ja selbstverständlich, so bist du doppelt abgesichert.
 	 
+??? note "Kann ich den Group Stop in Verbindung mit einem Positions Target Point nutzen?"
 
-??? note "Warum nutzt MetaTrader-Panel externe Bibliotheken?"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
-	 
-	 
-
-??? note "Wie stelle ich das Benutzer-Interface auf Deutsch um?"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Ja selbstverständlich, es gilt das gleiche Prinzip wie bei der Kombination mit einem Stop Loss.
+	 	 
 <br>
 ## Guardian Angel
 
-??? note "Was ist eigentlich eine VPS und warum ist sie sinnvoll?"
+??? note "Was ist die Schutzengel Funktion und wie nutze ich sie?"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
-??? note "Ich trade viel über mein Handy, macht MetaTrader-Panel Sinn für mich?"
+??? note "Werden gegebenfalls alle Positionen geshlossen?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
-	 
-	 
+    Nein, wird der Schutzengel Stop ausgelöst sucht er über alle Instrumente für die du offene Position hast, die mit dem höchsten Verlust und schließt diese.
+	Dieser Vorgang wiederholt sich jedes mal wenn die festgelegte Verlustgrenze überschritten wird.		 
 
-??? note "Warum nutzt MetaTrader-Panel externe Bibliotheken?"
+??? note "Kann ich den Schutzengel in Verbindung mit einem Group Stop nutzen?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
-	 
-	 
+    Ja selbstverständlich, alle Stops bauen aufeinander auf und ergänzen sich.
 
-??? note "Wie stelle ich das Benutzer-Interface auf Deutsch um?"
+??? note "Kann ich den Schutzengel in Verbindung mit Stop Loss oder Target Point einer Position nutzen?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Ja klar, kein Problem, alle Stops sind miteinander kombinierbar.
+		
 <br>	
 ## Longrunner
 
