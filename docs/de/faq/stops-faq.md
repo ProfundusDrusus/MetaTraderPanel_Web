@@ -99,8 +99,8 @@
 	
 ??? note "Kann mein Broker mein Stop Loss sehen?"
 
-    Nein kein Sorge. MetaTrader-Panel arbeitet im sogenannten __`Steahlth Modus`__.
-	Alle Stops sind dabei für deinen Broker verborgen und nur du weißt wo sie sind.
+    Nein keine Sorge. MetaTrader-Panel arbeitet im sogenannten __`Steahlth Modus`__.
+	Alle Stops sind dabei für deinen Broker verborgen und nur du weißt wo sie liegen.
 	
 ??? note "Wie sichere ich eine Position am schnellsten, sobald sie ins Geld läuft?"
 
@@ -116,8 +116,7 @@
 ??? note "Ich möchte für alle Positionen das gleich Stop Loss setzen"
 
     Kein Problem, aktiviere einfach in den Positions Eigenschaften den Schalter __`All`__ .	Der Algorithmus übernimmt dann für alle offenen Position für die das gleiche Stop Loss möglich ist den Vorschlagswert.
-	Positionen bei denen der Vorschlagswert zu einem sofortigen Schließen der Position führen würde werden ignoriert.
-	 
+	Positionen bei denen der Vorschlagswert zu einem sofortigen Schließen der Position führen würde, werden ignoriert.
 
 ??? note "Kann ich das Stop Loss im Chart anzeigen?"
 
