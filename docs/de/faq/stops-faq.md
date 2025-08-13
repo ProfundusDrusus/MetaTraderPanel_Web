@@ -12,10 +12,6 @@
 </svg>
 </a>
 
-<figure markdown="span">
-  ![oops](../assets/UnderConstruction.png){ width="75" }
-  <figcaption>Almost done...</figcaption>
-</figure>
 
 # STOP FRAGEN
 <p id="com-faq"></p>
@@ -26,22 +22,20 @@
 	<div style="text-align:left;" class="annotate" markdown>
 	
 	MetaTrader-Panel stellt dir spezialisierte Stops zur Verfügung die alle im <a href="../../features/stops#stealth-modus"><strong>Stealth Modus</strong></a> arbeiten.
-	Nachfolgend findest du eine Übersicht, welchen Stop du wofür verwendest. (1)
+	Nachfolgend findest du eine Übersicht, welchen Stop du wofür verwendest. 
 	
 
     | TYP            | VERWENDUNG                           | UNSICHTBAR                          |
 	| :----------     | :----------------------------------- |:-----------------------------------: |
-	| `STOP LOSS`     | Standard Verlustbegrenzung  |:material-check:  |
-	| `TARGET POINT`       | Standard Gewinnsicherung |:material-check:  |
-	| `BAILOUT`    		   | Schnelles closen schlechter Einstiege |:material-check:  |
-	| `GROUP STOP`         | Verlustbegrenzung für alle Positionen eines Instrumentes |:material-check: |
-	| `GUARDIAN ANGEL`     | Verlustbegrenzung für alle Positionen über alle Instrumente |:material-check:  |
-	| `LONGRUNNER`         | Definiert Ausnahmeregeln |:material-check:  |
+	| __`STOP LOSS`__     | Standard Verlustbegrenzung  |:material-check:  |
+	| __`TARGET POINT`__       | Standard Gewinnsicherung |:material-check:  |
+	| __`BAILOUT`__    		   | Schnelles closen schlechter Einstiege |:material-check:  |
+	| __`GROUP STOP`__         | Verlustbegrenzung für alle Positionen eines Instrumentes |:material-check: |
+	| __`GUARDIAN ANGEL`__     | Verlustbegrenzung für alle Positionen über alle Instrumente |:material-check:  |
+	| __`LONGRUNNER`__         | Definiert Ausnahmeregeln |:material-check:  |
 	
 	</div>
-	
-	1.  I'm an annotation!
-	
+
 	
 	<p style="text-align:left;">Detailierte Informationen zu den unterschiedlichen Stops findest du <a href="../../features/stops/"><strong>hier</strong></a></p>
     
@@ -160,13 +154,16 @@
 ## Bailout
 
 ??? note "Was ist eigentlich ein Bailout und wie nutze ich ihn?"
-
-    ![Position Prperties](../assets/Pic3.jpg)  ..
+	
+	Manchmal lauft ein Trade nicht so wie man es geplant hat. In solchen Fällen ist es oft die beste Wahl die Position möglichst mit einer schwarzen Null zu closen.
+	Die __`Bailout`__ Funktion unterstüzt dich dabei. Du definierst einen Abstand zu deinem Einstiegspreis und die Bailout Funktion schließt die Position für dich sobald der Bereich erreicht wird.
+	Mehr Informationen findest du [__hier__](../features/stops.md)
 
 ??? note "Wie aktiviere ich den Bailout?"
-
-    ![Position Prperties](../assets/Pic3.jpg)  .
-	 
+	
+	Aktiviere den __`Bailout`__ Schalter und setze den gewünschten Spread Multiplikator. Das wars schon.
+	
+    ![Position Prperties](../assets/Bailout1.jpg)  .
 
 ??? note "Warum kann ich den Bailout nicht aktivieren?"
 
@@ -182,11 +179,9 @@
 
 ??? note "Was ist eigentlich ein Group Stop?"
 
-    Du kannst dir einen Group Stop ähnlich einem Stop Loss vorstellen nur dass der Group Stop alle Positionen eines Instrumentes berücksichtigt.  
+    Du kannst dir einen Group Stop ähnlich einem Stop Loss vorstellen nur dass der Group Stop alle Positionen eines Instrumentes berücksichtigt.
 	Mehr Informationen zu Stops findest du [__hier__](../features/stops.md)
 
-	
-	
 ??? note "Werden alle Positionen geshlossen, falls der Group Stop ausgelöst wird?"
 
     Nein, wird der Group Stop ausgelöst, sucht er die Position des Instrumentes mit dem größten Verlust und schließt diese.
@@ -199,15 +194,18 @@
 ??? note "Kann ich den Group Stop in Verbindung mit einem Positions Target Point nutzen?"
 
     Na klar, es gilt das gleiche Prinzip wie bei der Kombination mit einem Stop Loss.
+	
+??? note "Wird der Group Stop in in Punkten gesetzt?"
+
+    Nein, den Grop Stop Wert setzt du in der Währung deines Trading Kontos.
 	 	 
 <br>
 ## Guardian Angel
 
 ??? note "Was ist die Schutzengel Funktion und wie nutze ich sie?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Du kannst dir den Schutzengel Stop ähnlich einem Stop Loss vorstellen nur dass der Schutzengel Stop alle 
+	Positionen und alle Instrumentes berücksichtigt. Mehr Informationen zu Stops findest du hier.
 
 ??? note "Werden gegebenfalls alle Positionen geschlossen?"
 
@@ -223,21 +221,24 @@
 
     Ja klar, kein Problem, alle Stops sind miteinander kombinierbar.
 	[__Hier__](../features/stops.md) erklären wir, die unterschiedlichen Stops im Detail.
-		
+
+??? note "Wird der Schutzengel Stop in in Punkten gesetzt?"
+
+    Nein, den Grop Stop Wert setzt du in der Währung deines Trading Kontos.		
 <br>	
 ## Longrunner
 
 ??? note "Was ist eigentlich ein Longrunner?"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
-
-??? note "Wie verhält sich ein Longrunner genau?"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.	 
+    Der __`Longrunner`__ Status definiert Ausnahmeregeln für eine Position. Das erlaubt dir kurz- und mittelfristige Trades parallel zu handeln.
+	Nachfolgend findest du eine Übersicht der Regeln.  
+	
+	- Wird nicht bei __`Close all`__  berücksichtigt  
+	- Wird nicht in der  __`P&L Anzeige`__  berücksichtigt  
+	- Wird nicht bei __`Close marked`__  berücksichtigt
+	- Wird nicht bei __`Revert`__  berücksichtigt
+	- Wird bei Auslösen des __`Group Stop`__  als letztes geclosed
+	- Wird bei Auslösen des __`Guardian angel`__  als letztes geclosed
 	 
 	
 <br>
