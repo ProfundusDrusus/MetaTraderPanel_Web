@@ -42,7 +42,7 @@ hide:
                <h2 class="section-title">How we help to achieve better trading results</h2>
                <p class="section-subtitle">Well-thought-out features, developed by professional traders with decades of experience, integrate seamlessly into MT5
 				  making your everyday life as a trader easier. With just one or two clicks, you always have the functionality you need at your fingertips. Compact and focused on the essentials. 
-				  <br><br><p><a href="features/" style="color: #5494DA"><strong>Alle Features ansehen</strong> </a></p> <p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+				  <br><br><p><a href="features/" style="color: #5494DA"><strong>See all features</strong> </a></p> <p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
                </p>
             </div>
          </div>
@@ -181,7 +181,7 @@ hide:
       <div class="row clearfix">
          <div id="go-pricing" class="section-heading">
             <h3>YOUR DECISION</h3>
-            <h2 class="section-title" >Wgot the right package fpr you</h2>
+            <h2 class="section-title" >We got the right package for you</h2>
          </div>
          <!--Pricing Block-->
          <div class="pricing-block col-3" >
@@ -190,7 +190,7 @@ hide:
                <p class="pricing-sub">Risk-free trial</p>
                <div class="pricing">
                   <div class="price"><span>€</span>0.0</div>
-                  <p class="font-18" style="color: #333333;">Teste MetaTrader-Panel ganz in Ruhe und solange du willst</p>
+                  <p class="font-18" style="color: #333333;">Test MetaTrader Panel at your leisure and practice trading</p>
                </div>
                <ul class="font-17">
                   <li style="color: #333333;">Great for beginners</li>
@@ -199,7 +199,7 @@ hide:
                   <li style="color: #333333;">Demo account only</li>
                   <li style="color: #333333;">Restricted support</li>
                </ul>
-               <a href="#" class="button" style="background-color: #5494DA;color:white;font-weight: bold;">AUSPROBIEREN</a>
+               <a href="#" class="button" style="background-color: #5494DA;color:white;font-weight: bold;">FREE TRIAL</a>
             </div>
          </div>
          <!--End Pricing Block-->
