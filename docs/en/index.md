@@ -99,8 +99,8 @@ hide:
                </div>
                <!--Icon Block Description-->
                <div class="icon-block-description">
-                  <h4>Bitzschnell Stops setzen</h4>
-                  <p class="font-16">Sichere dich mit einem Klick gegen Verluste ab sobald eine Position profitabel wird. Ändere den Stop per Maus-Klick
+                  <h4>Stops in no time</h4>
+                  <p class="font-16">Secure your position against losses with a single click as soon as a position becomes profitable. Change the stop with a click of the mouse.
                   </p>
                </div>
             </div>
@@ -116,7 +116,7 @@ hide:
                <!--Icon Block Description-->
                <div class="icon-block-description">
                   <h4>Tick-Chart Trading</h4>
-                  <p class="font-16">Ob du Profi-Scalper, Swing-Trader oder Retail-Trader bist, der nur den Moment nutzen will. Du wirst den Tick-Chart lieben.
+                  <p class="font-16">Whether you are a professional scalper, swing trader, or retail trader who just wants to seize the moment, you will love the tick chart.
                   </p>
                </div>
             </div>
@@ -130,7 +130,7 @@ hide:
                <!--Icon Block Description-->
                <div class="icon-block-description">
                   <h4>Fibonacci-Power</h4>
-                  <p class="font-16">Rechne hunderte Fibonacci Marken, über lange Zeitraume und lasse immer nur die anzeigen, die für dein Trading relevant sind.
+                  <p class="font-16">Calculate hundreds of Fibonacci levels over long periods of time and only display those that are relevant to your trading.
                   </p>
                </div>
             </div>
