@@ -4,9 +4,9 @@
 
 	 
 	 
-#Du hast eine Frage, wie können wir helfen?
+#GOT A QUESTION? HOW CAN WE HELP?
 <div class="blue-line"></div>	
-<h3 style="margin-top:0px;color:rgb(51,51,51)">Eingeteilt in verschiedene Themenbereiche, findest du hier Antworten auf die am häufigsten gestellten Fragen.</h3>
+<h3 style="margin-top:0px;color:rgb(51,51,51)">Divided into different topics, you will find answers to the most frequently asked questions.</h3>
 <div class="blue-line"></div>
 </div>
 
@@ -14,22 +14,22 @@
 
 <div class="grid cards wow fadeInLeft" data-wow-delay="0.1s"" style="margin-top:50px;" markdown>
 
--   ___Allgemein___
+-   ___Common___
 
     ---
 
-    Alles zur Installation, deiner Lizenz, dem lokalem Server und MT5 Berechtigungen 
+    Questions about installation, your license, the local server, and MT5 permissions
 	<br>
 
-    [:octicons-arrow-right-24: `Fragen ansehen`](common-faq.md)
+    [:octicons-arrow-right-24: `See questions`](common-faq.md)
 
 -    ___Trade Panel___
 
     ---
 
-    Fragen zur Bedienung des Panels, Kurzbefehlen und den zur Verfügung stehenden Modulen
+    Questions about operating the panel, shortcut commands, and the available modules
 
-    [:octicons-arrow-right-24: `Fragen ansehen`](panel-faq.md)
+    [:octicons-arrow-right-24: `See questions`](panel-faq.md)
 
 
 
@@ -41,17 +41,17 @@
 
     ---
 
-    Wie trade ich aus dem Tick Chart, wie setze ich eine Order, einen Stop oder close eine Position
+    How do I trade from the tick chart, how do I place an order, set a stop, or close a position?
 
-    [:octicons-arrow-right-24: `Fragen ansehen`](tick-chart-faq.md)
+    [:octicons-arrow-right-24: `See questions`](tick-chart-faq.md)
 
 -   ___Stops___
 
     ---
 
-    Stop Loss, Target Point, Group Stop, Bailout, Longrunner und Gurdian Angel
+    Stop Loss, Target Point, Group Stop, Bailout, Longrunner and Gurdian Angel
 
-    [:octicons-arrow-right-24: `Fragen ansehen`](stops-faq.md)
+    [:octicons-arrow-right-24: `See questions`](stops-faq.md)
 	
 </div>
 <div class="grid cards wow fadeInLeft" data-wow-delay="0.1s"" markdown>
@@ -60,17 +60,17 @@
 
     ---
 
-    Limitierte Käufe und Verkäufe  setzen, ändern löschen und Gültigkeit von Kaufaufträgen 
+    Set, change, delete, and validate purchase orders
 
-    [:octicons-arrow-right-24: `Fragen ansehen`](order-faq.md)
+    [:octicons-arrow-right-24: `See questions`](order-faq.md)
 
 -    ___Fibonacci___
 
     ---
 
-    Anlegen, ändern, zeichnen und Unterschiede der zur Verfügung stehenden Typen
+    Create, modify, draw, and compare the available types
 
-    [:octicons-arrow-right-24: `Fragen ansehen`](fibonacci-faq.md)
+    [:octicons-arrow-right-24: `See questions`](fibonacci-faq.md)
 
 
 </div>
@@ -81,27 +81,29 @@
 
     ---
 
-    Fragen zu Auth0, deinem Passwort und Gründen warum dein Login eventuell nicht funktioniert
+    Questions about Auth0, your password, and reasons why your login may not be working
 
-    [:octicons-arrow-right-24: `Fragen ansehen`](auth0-faq.md)
+    [:octicons-arrow-right-24: `See questions`](auth0-faq.md)
 
 -   ___Profit & Loss___
 
     ---
 
-    Fragen zur täglichen Gewinn und Verlust-Auswertung
-
-    [:octicons-arrow-right-24: `Fragen ansehen`](pl-faq.md)
+    Questions about daily profit and loss analysis  
+	
+	  
+	  
+    [:octicons-arrow-right-24: `See questions`](pl-faq.md)
 	
 </div>
 
 <br>
 <div class="wow fadeInUp" data-wow-delay="0.3s" markdown>
 
-!!! note "Und was, wenn deine Frage nicht dabei ist?"
+!!! note "You didn't find your question?"
 
-    Auch kein Problem. Bitte bemühe noch einmal die Such-Funktion und wenn du dann immer noch keine passende Antwort gefunden hast, schreibe uns einfach deine Frage. Wir helfen gerne weiter.
+    Not to worry. Please try the search function again, and if you still can't find the answer you're looking for, just send us your question. We are happy to help.
 	
-	[Frage stellen :material-email:](mailto:faq@metatrader-panel.com?subject=Anfrage){.md-button .mtp-button}
+	[Ask a question :material-email:](mailto:faq@metatrader-panel.com?subject=Anfrage){.md-button .mtp-button}
 </div>
 <br><br>	<br><br>	
