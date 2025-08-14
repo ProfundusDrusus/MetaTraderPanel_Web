@@ -11,7 +11,7 @@ theme:
   auto_themed: true
   language: en
   name: material
-  favicon: images/LogoFullset.ico
+  favicon: assets/favicon.ico
   logo: images/LogoFullset.ico 
   palette:
     #- scheme: slate
