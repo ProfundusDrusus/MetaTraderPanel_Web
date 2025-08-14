@@ -5,14 +5,14 @@ site_dir: '../../generated/en'
 #use_directory_urls: false
 
 theme:
-  icon: assets/FM32.ico
+  icon: assets/LogoFullset.ico
   annotation: material/plus-circle 
   custom_dir: overrides
   auto_themed: true
-  language: de
+  language: en
   name: material
-  favicon: images/FM32.ico
-  logo: images/FM32.ico 
+  favicon: images/LogoFullset.ico
+  logo: images/LogoFullset.ico 
   palette:
     #- scheme: slate
       #primary: blue
@@ -55,9 +55,9 @@ plugins:
        lang: en
 extra:
   footer_links:
-    - text: "Datenschutz"
+    - text: "Privacy policy"
       href: "https://doc.metatrader-panel.com/en/legal/privacy-policy"
-    - text: "Impressum"
+    - text: "Imprint"
       href: "https://doc.metatrader-panel.com/dee/legal/imprint"
   generator: false
   alternate:
@@ -105,7 +105,7 @@ extra_javascript:
 nav:
   - Home: 
     - Overview: index.md
-  - Features: 
+  - Modules: 
     - Tick Chart: features/tick-chart.md
     - Position Properties: features/position-props.md      
   - How it works:

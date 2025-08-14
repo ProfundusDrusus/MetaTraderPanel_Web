@@ -42,7 +42,7 @@ function changeTestimonials2() {
          $(this).fadeIn("slow");
       });
 
-	setTimeout(changeTestimonials2, 11000)
+	setTimeout(changeTestimonials2, 10000)
 }
 	
 function changeTestimonials3() {
@@ -53,7 +53,7 @@ function changeTestimonials3() {
          $(this).fadeIn("slow");
       });
 
-	setTimeout(changeTestimonials3, 12000)
+	setTimeout(changeTestimonials3, 10000)
 }
 
 var texts = new Array();

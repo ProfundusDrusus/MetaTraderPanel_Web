@@ -155,8 +155,8 @@ hide:
          <!--Content of the Right Side-->
          <div class="col-3  wow fadeInUp" data-wow-delay="0.2s">
             <div class="section-heading">
-               <h3>FOCUS</h3>
-               <h2 class="section-title">Focus on whr's essential</h2>
+               <h3>FOCAL POINT</h3>
+               <h2 class="section-title">Focus on what's essential</h2>
                <p class="font-16">You take care of the game  - and we'll take care of the scoreboard.</p>
             </div>
             <p class="font-16">Nowadays in active trading milliseconds often make all the difference. Having the right information at the right time is crucial to your success as a trader. We take care of the rest for you.
@@ -207,19 +207,19 @@ hide:
          <div class="pricing-block col-3" >
             <div id="priceHover" class="pricing-block-content">
                <h3>ADVANCED</h3>
-               <p class="pricing-sub">Day-Trading</p>
+               <p class="pricing-sub">Day trading</p>
                <div class="pricing">
                   <div class="price"><span>€</span>9.90</div>
-                  <p  class="font-18" style="color: #333333;">Alles was du brauchst um erfolgreich Intraday zu handeln</p>
+                  <p  class="font-18" style="color: #333333;">Everything you need for successful intraday trading</p>
                </div>
                <ul  class="font-17">
-                  <li>Day-Trader / Scalper</li>
-                  <li>Unlimierte Panel Anzahl</li>
-                  <li>Trading Knowledgebase</li>
-                  <li>Inklusiv 12 Monate Updates</li>
-                  <li>Uneingeschränkter Support</li>
+                  <li>Day trader / scalper</li>
+                  <li>Unlimited panels</li>
+                  <li>Trading knowledgebase</li>
+                  <li>12 months of updates included</li>
+                  <li>Full support</li>
                </ul>
-               <a href="#" class="button" style="background-color: #5494DA;color:white;font-weight: bold;">JETZT KAUFEN </a>
+               <a href="#" class="button" style="background-color: #5494DA;color:white;font-weight: bold;">BUY NOW </a>
             </div>
          </div>
          <!--End Pricing Block-->
@@ -227,19 +227,19 @@ hide:
          <div class="pricing-block col-3" >
             <div id="priceHover" class="pricing-block-content">
                <h3>PROFESSIONAL</h3>
-               <p class="pricing-sub">Day-Trader incl. Signale</p>
+               <p class="pricing-sub">Day trading plus signals</p>
                <div class="pricing">
                   <div class="price"><span>€</span>29.90</div>
-                  <p  class="font-18" style="color: #333333;">Zusätzliche Handelssignale unserer AI "Jeannie"</p>
+                  <p  class="font-18" style="color: #333333;">Additional trading signals from our AI “Jeannie”"</p>
                </div>
                <ul  class="font-17">
-                  <li>KI Handels-Signale</li>
-                  <li>Unlimierte Panel Anzahl</li>
-                  <li>Trading Knowledgebase</li>
-                  <li>Inklusiv 12 Monate Updates</li>
-                  <li>Uneingeschränkter Support</li>
+                  <li>AI trading signals</li>
+                  <li>Unlimited panels</li>
+                  <li>Trading knowledgebase</li>
+                  <li>12 months of updates included</li>
+                  <li>Full support</li>
                </ul>
-               <a href="#" class="button" style="background-color: #5494DA;color:white;font-weight: bold;">JETZT KAUFEN </a>
+               <a href="#" class="button" style="background-color: #5494DA;color:white;font-weight: bold;">BUY NOW </a>
             </div>
          </div>
          <!--End Pricing Block-->
@@ -251,7 +251,7 @@ hide:
       <div class="row clearfix">
          <div class="section-heading">
             <h3>FEEDBACK</h3>
-            <h2 class="section-title">Was unsere Kunden sagen</h2>
+            <h2 class="section-title">What our customers say</h2>
          </div>
          <!--User Testimonial-->
          <blockquote  id="ttm1" class="col-3 testimonial classic">
