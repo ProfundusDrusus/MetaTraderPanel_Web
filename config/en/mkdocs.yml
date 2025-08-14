@@ -106,8 +106,11 @@ nav:
   - Home: 
     - Overview: index.md
   - Modules: 
+    - Overview: features/index.md
+    - Fibonacci: features/fibonacci.md
     - Tick Chart: features/tick-chart.md
-    - Position Properties: features/position-props.md      
+    - Stops: features/stops.md
+    - Position Properties: features/position-props.md    
   - How it works:
     - Set up in 3 steps: signup/set-up-in-3-steps.md
     - Auth0: signup/auth0.md

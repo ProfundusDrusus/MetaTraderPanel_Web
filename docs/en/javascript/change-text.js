@@ -1,18 +1,18 @@
 var ttmq3 = new Array();
-ttmq3.push("Sehr freundlicher, kompetententer und vor allem schneller Support.<br><br><br>Mary Steiner, Österreich");
-ttmq3.push("Ich war überrascht wie ertragreich die Signale sind, die ich bekomme. Die Gebühr empfinde ich als äußerst günstig.<br><br>Sven Geizkragen,  Norderstedt"); 
+ttmq3.push("Very friendly, competent, and above all fast support.<br><br><br>Mary Steiner, Österreich");
+ttmq3.push("I was surprised at how profitable the signals are. I find the fee extremely reasonable..<br><br>Sven Geizkragen,  Norderstedt"); 
 ttmq3.push("Jeannie hat echt die geilsten Titten weit und breit, ich bin sehr zufrieden.<br><br>><br>Johan Notgeil, GER");
 
 var ttmq2 = new Array();
-ttmq2.push("Ein Muss für jeden Trader, der seinen Alltag vereinfachen möchte. Die Möglichkeit, Orders visuell zu platzieren ist sehr praktisch.<br><br>Jussuf Habock, GR");
-ttmq2.push("Kein Schnick-Schnack sondern nur die Funktionen die ich wirklich brauche. Ich möchte nicht mehr tauschen.<br><br>Gerhard Schreck, GER"); 
-ttmq2.push("Die Möglichkeit direkt aus dem Tick Chart zu Positionen zu öffnen oder zu schließen hat meine Gewinn Marge deutlich verbessert.<br><br>Peter Talentlos, KiTa"); 
+ttmq2.push("A must-have for any trader who wants to simplify their daily routine. The ability to place orders visually is very convenient.<br><br>Jussuf Habock, GR");
+ttmq2.push("No frills, just the features I really need. I don't want to swap anymore..<br><br>Gerhard Schreck, GER"); 
+ttmq2.push("The ability to open or close positions directly from the tick chart has significantly improved my profit margin..<br><br>Peter Talentlos, KiTa"); 
 
 
 var ttmq1 = new Array();
 ttmq1.push("This is such a wonderful tool shared with generosity. Thank you! Wonderful job. I aim at going full version, using this one for training.<br><br>Farhad Douzduzani, GER");
-ttmq1.push("Ich mag dieses Panel, es hat viele Probleme auf einmal gelöst. Alles ist an einem Ort, ich bin sehr zufrieden.<br><br>Peter Steiner, GER");
-ttmq1.push("Ein Muss für jeden Trader, der seinen Alltag vereinfachen möchte. Die Möglichkeit, Orders visuell zu platzieren ist sehr praktisch.<br><br>Jussuf Habock, GR");
+ttmq1.push("I like this panel; it solved many problems at once. Everything is in one place, I can recommend it.<br><br>Peter Steiner, GER");
+ttmq1.push("A must-have for any trader who wants to simplify their daily routine. The ability to place orders visually is very convenient.<br><br>Jussuf Habock, GR");
 
 
 
