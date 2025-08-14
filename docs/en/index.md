@@ -55,8 +55,8 @@ hide:
                </div>
                <!--Icon Block Description-->
                <div class="icon-block-description">
-                  <h4></i>Wirtschaftsdaten-Wecker</h4>
-                  <p class="font-16">Keine wichtigen Wirtschaftsdaten mehr verpassen. Einfach 1x Land, Kategorien und Uhrzeit konfigurieren und du wirst immer zuverlässig informiert.
+                  <h4></i>Economic Calendar</h4>
+                  <p class="font-16">Never miss important economic data again. Simply configure countries, categories, and time once, and you will always be reliably informed.
                   </p>
                </div>
             </div>
@@ -69,8 +69,8 @@ hide:
                </div>
                <!--Icon Block Description-->
                <div class="icon-block-description">
-                  <h4>Teilverkäufe</h4>
-                  <p class="font-16">Erhöhe deinen Profit und verkaufe eine Position in prozentualen Schritten. Kombiniere die Teilverkäufe mit deinem Stop Loss oder deinem Target Point.
+                  <h4>Partial Sale</h4>
+                  <p class="font-16">Increase your profit and sell a position in percentage increments. Combine partial sales with your stop loss or target point.
                   </p>
                </div>
             </div>
@@ -85,8 +85,8 @@ hide:
                </div>
                <!--Icon Block Description-->
                <div class="icon-block-description">
-                  <h4>Orders per Doppelklick</h4>
-                  <p class="font-16">Setze, lösche oder ändere eine Order mit einem Klick. Das Geheiminis eines erfolgreichen Einstiegs ist zur rechten Zeit am rechten Platz zu sein.
+                  <h4>Double-click Orders </h4>
+                  <p class="font-16">Place, delete, or change an order with a single click. The secret to a successful entry is being in the right place at the right time.
                   </p>
                </div>
             </div>

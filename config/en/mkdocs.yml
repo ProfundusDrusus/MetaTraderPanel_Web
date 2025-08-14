@@ -40,7 +40,6 @@ theme:
     - toc.follow
     #- toc.integrate 
 
-copyright: Copyright &copy; 1996 - 2025 Profundus Drusus Maior
 
 plugins:
    - glightbox:
@@ -53,13 +52,13 @@ plugins:
        zoomable: false
        shadow: true
    - search:
-       lang: de
+       lang: en
 extra:
   footer_links:
     - text: "Datenschutz"
-      href: "https://doc.metatrader-panel.com/de/legal/privacy-policy"
+      href: "https://doc.metatrader-panel.com/en/legal/privacy-policy"
     - text: "Impressum"
-      href: "https://doc.metatrader-panel.com/de/legal/imprint"
+      href: "https://doc.metatrader-panel.com/dee/legal/imprint"
   generator: false
   alternate:
     - name: English
