@@ -187,17 +187,17 @@ hide:
          <div class="pricing-block col-3" >
             <div id="priceHover" class="pricing-block-content">
                <h3>STARTER</h3>
-               <p class="pricing-sub">Risikofrei testen</p>
+               <p class="pricing-sub">Risk-free trial</p>
                <div class="pricing">
                   <div class="price"><span>€</span>0.0</div>
                   <p class="font-18" style="color: #333333;">Teste MetaTrader-Panel ganz in Ruhe und solange du willst</p>
                </div>
                <ul class="font-17">
-                  <li style="color: #333333;">Ideal für Anfänger</li>
+                  <li style="color: #333333;">Great for beginners</li>
                   <li style="color: #333333;">1 Trading Panel</li>
-                  <li style="color: #333333;">3 Monate gültig</li>
-                  <li style="color: #333333;">Beschränkt auf Demo-Konten</li>
-                  <li style="color: #333333;">Eingeschränkter Support</li>
+                  <li style="color: #333333;">Valid for 3 Months</li>
+                  <li style="color: #333333;">Demo account only</li>
+                  <li style="color: #333333;">Restricted support</li>
                </ul>
                <a href="#" class="button" style="background-color: #5494DA;color:white;font-weight: bold;">AUSPROBIEREN</a>
             </div>
