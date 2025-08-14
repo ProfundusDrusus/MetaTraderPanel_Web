@@ -55,7 +55,7 @@ hide:
                </div>
                <!--Icon Block Description-->
                <div class="icon-block-description">
-                  <h4></i>Economic Calendar</h4>
+                  <h4></i>Economic calendar</h4>
                   <p class="font-16">Never miss important economic data again. Simply configure countries, categories, and time once, and you will always be reliably informed.
                   </p>
                </div>
@@ -69,7 +69,7 @@ hide:
                </div>
                <!--Icon Block Description-->
                <div class="icon-block-description">
-                  <h4>Partial Sale</h4>
+                  <h4>Partial sale</h4>
                   <p class="font-16">Increase your profit and sell a position in percentage increments. Combine partial sales with your stop loss or target point.
                   </p>
                </div>
@@ -85,7 +85,7 @@ hide:
                </div>
                <!--Icon Block Description-->
                <div class="icon-block-description">
-                  <h4>Double-click Orders </h4>
+                  <h4>Double-click orders </h4>
                   <p class="font-16">Place, delete, or change an order with a single click. The secret to a successful entry is being in the right place at the right time.
                   </p>
                </div>
@@ -115,7 +115,7 @@ hide:
                </div>
                <!--Icon Block Description-->
                <div class="icon-block-description">
-                  <h4>Tick-Chart Trading</h4>
+                  <h4>Tick chart trading</h4>
                   <p class="font-16">Whether you are a professional scalper, swing trader, or retail trader who just wants to seize the moment, you will love the tick chart.
                   </p>
                </div>
@@ -129,7 +129,7 @@ hide:
                </div>
                <!--Icon Block Description-->
                <div class="icon-block-description">
-                  <h4>Fibonacci-Power</h4>
+                  <h4>Fibonacci power</h4>
                   <p class="font-16">Calculate hundreds of Fibonacci levels over long periods of time and only display those that are relevant to your trading.
                   </p>
                </div>
@@ -155,17 +155,16 @@ hide:
          <!--Content of the Right Side-->
          <div class="col-3  wow fadeInUp" data-wow-delay="0.2s">
             <div class="section-heading">
-               <h3>FOKUSSIERUNG</h3>
-               <h2 class="section-title">Konzentration auf das Wesentliche</h2>
-               <p class="font-16">Du kümmerst dich um das Spiel  - Und wir kümmern uns um die Anzeigetafel.</p>
+               <h3>FOCUS</h3>
+               <h2 class="section-title">Focus on whr's essential</h2>
+               <p class="font-16">You take care of the game  - and we'll take care of the scoreboard.</p>
             </div>
-            <p class="font-16">Beim aktiven Trading kommt es heutzutage oft auf Millisekunden an. Die richtige Information zur richtigen Zeit zur Hand zu haben ist entscheidend für deinen Erfolg als Trader. Den Rest erledigen wir für dich.
+            <p class="font-16">Nowadays in active trading milliseconds often make all the difference. Having the right information at the right time is crucial to your success as a trader. We take care of the rest for you.
             </p>
             <p class="font-16">
-               Mit intelligenten Algorithmen, paralleler Datenverarbeitung, leistungsstarken Servern, die auf dem neuesten Stand sind und einem Handels-Pult das du für seine Klarheit und Einfachheit lieben wirst,
-			   halten wir dir den Rücken frei.
+               With intelligent algorithms, parallel data processing, powerful state-of-the-art servers, and a trading desk that you will love for its clarity and simplicity, we keep your back free.
             </p>
-			<p><a href="features/" style="color: #5494DA"><strong>Alle Features ansehen</strong> </a></p>
+			<p><a href="features/" style="color: #5494DA"><strong>See all features</strong> </a></p>
          </div>
          <!--End Content Right Side-->
          <div id="pic2-wrap" class="col-3 wow fadeInUp" data-wow-delay="0.4s">
@@ -181,8 +180,8 @@ hide:
    <section id="pricing" class="secondary-color text-center clearfix wow fadeInRight" data-wow-delay="0.1s"">
       <div class="row clearfix">
          <div id="go-pricing" class="section-heading">
-            <h3>DEINE ENTSCHEIDUNG</h3>
-            <h2 class="section-title" >Wir haben das richtige Angebot für dich</h2>
+            <h3>YOUR DECISION</h3>
+            <h2 class="section-title" >Wgot the right package fpr you</h2>
          </div>
          <!--Pricing Block-->
          <div class="pricing-block col-3" >
