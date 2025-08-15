@@ -94,7 +94,7 @@
 	
 ??? note "Muss der Server die ganze Zeit geöffnet sein?"
 
-    Ja, der Server muss die gganze Zeit geöffnet sein, aber du musst ihn nicht die ganze Zeit sehen.
+    Ja, der Server muss die ganze Zeit geöffnet sein, aber du musst ihn nicht die ganze Zeit sehen.
 	Minimiere den Server einfach und er legt sich in das Windows Benachrichtigungsfeld.  
 	
 	![System Tray](../assets/Tray1.jpg)  

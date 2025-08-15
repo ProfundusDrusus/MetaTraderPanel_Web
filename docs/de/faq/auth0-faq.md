@@ -39,7 +39,7 @@
 
 ??? note "Wo muss ich mein Passwort eingeben?"
 
-    Wird dein Beutzername und dein Passwort benötigt, erscheint automatisch der Dialog am Bildschirm.	 
+    Wird dein Benutzername und dein Passwort benötigt, erscheint automatisch der Dialog am Bildschirm.	 
 	
 ??? note "Wie lange ist mein Login gültig?"
 

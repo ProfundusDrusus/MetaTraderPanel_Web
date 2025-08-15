@@ -157,7 +157,7 @@ hide:
             <div class="section-heading">
                <h3>FOCAL POINT</h3>
                <h2 class="section-title">Focus on what's essential</h2>
-               <p class="font-16">You take care of the game  - and we'll take care of the scoreboard.</p>
+               <p class="font-16">You take care of the game and we'll take care of the scoreboard.</p>
             </div>
             <p class="font-16">Nowadays in active trading milliseconds often make all the difference. Having the right information at the right time is crucial to your success as a trader. 
             </p>

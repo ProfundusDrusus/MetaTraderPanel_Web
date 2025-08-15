@@ -52,7 +52,7 @@
 	 
 	 
 
-??? note "Wie verhindere ich, dass mein ganzer Chart mit Fobonacci Levels bedeckt ist?"
+??? note "Wie verhindere ich, dass mein ganzer Chart mit Fibonacci Levels bedeckt ist?"
 
     Nutze anstatt des MT5 Fibonacci den 'Better Fibo' des MetaTrader-Panels.
 	Das gibt dir die Möglichkeit immer nur die Retracements zeichnen zu lassen die du gerade brauchst und hält deinen Chart frei.

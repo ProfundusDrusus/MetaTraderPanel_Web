@@ -22,7 +22,7 @@
 		<img src="../../assets/Lock1.jpg" alt="Tooltip">
     <picture>  
 	
-	Überprüfe, ob das __`Schloss`__  geöffnet ist. Is es geschlossen, klicke es mit der Maus an oder rufe den Tastatur Kurzbefehl __`Strg + L`__ auf.  
+	Überprüfe, ob das __`Schloss`__  geöffnet ist. Ist es geschlossen, klicke es mit der Maus an oder rufe den Tastatur Kurzbefehl __`Strg + L`__ auf.  
 	
 	:material-lightbulb-on:{ .lightbulb }  Tipp: Das Schloss ist eine Schutzeinrichtung, damit du nicht unbeabsichtigt einen Trade auslöst.
 	
@@ -59,7 +59,7 @@
 	
 ??? note "Wie schalte ich von der Profit & Loss Anzeige auf den Mini Chart?"
 
-    Mit einem Doppelklick auf den Mini Chart wechselst du zur Profit & Loss Anzeige oder wieder rurück.
+    Mit einem Doppelklick auf den Mini Chart wechselst du zur Profit & Loss Anzeige oder wieder zurück.
 	Du kannst natürlich auch den Tastaturkurzbefehl   __`Strg +  C`__  benutzen.
 	
 ??? note "Wie zeige ich die Eigenschaften einer Position an?"
@@ -90,16 +90,16 @@
 		  
 
 	
-??? note "Wie kann ich ein detailiertes Handeslsergebnis für einen Tag ansehen?"
+??? note "Wie kann ich ein detailiertes Handelsergebnis für einen Tag ansehen?"
 
     Das erklären wir [__hier__](pl-faq.md)		
 	
-??? note "Was bedeuetet Docked?"
+??? note "Was bedeutet Docked?"
 
     Du kannst das MetaTrader-Panel Interface entweder im Hauptfenster von MT5 laufen lassen, oder außerhalb; ganz wie du möchtest.
-	Im __`Docked Modus`__ ist das Interface Teil von MT5, ansonsten kannst du das Interface frei auf deinem Bildschirme positionieren.
+	Im __`Docked Modus`__ ist das Interface Teil von MT5, ansonsten kannst du das Interface frei auf deinem Bildschirm positionieren.
 
-??? note "Was bedeueten die verschiedenen Icons in der Statuszeile?"
+??? note "Was bedeuten die verschiedenen Icons in der Statuszeile?"
 
     Die Bedeutung der unterschiedlichen Icons und ihre Verwendung erklären wir [__hier__](pl-faq.md).
 
@@ -113,7 +113,7 @@
 
     Solltest du einen ungültigen Wert eingeben, wird das erkannt und stattdessen die kleinste mögliche Lotsize des Instrumentes vorgeschlagen.	 
 
-??? note "Wie ermittle ich die Mindestpositionsgröße für eine Instrument?"
+??? note "Wie ermittle ich die Mindestpositionsgröße für ein Instrument?"
 
     Gib einfach eine __`0`__ ein, der Algorithmus ersetzt dann diesen Wert mit der kleinsten Lotsize, die für das gewählte Instrument möglich ist.	.	 
 	 	 
