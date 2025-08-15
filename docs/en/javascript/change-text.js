@@ -26,6 +26,18 @@ function changeTestimonials1() {
          $(this).fadeIn("slow");
       });
 	  
+		/* change testimonial 2*/
+    $("#ttm2").fadeOut("slow", function () {
+         $(this).html(ttmq2[ttmsCnt]);
+         $(this).fadeIn("slow");
+      });
+
+		/* change testimonial 3*/
+    $("#ttm3").fadeOut("slow", function () {
+         $(this).html(ttmq3[ttmsCnt]);
+         $(this).fadeIn("slow");
+      });
+	  
 	if (ttmsCnt < ttmq1.length - 1) {
 	  ttmsCnt++;
 	} else {
@@ -34,27 +46,7 @@ function changeTestimonials1() {
 
 	setTimeout(changeTestimonials1, 10000)	
 }
-function changeTestimonials2() {
-  
-	/* change testimonial 2*/
-    $("#ttm2").fadeOut("slow", function () {
-         $(this).html(ttmq2[ttmsCnt]);
-         $(this).fadeIn("slow");
-      });
 
-	setTimeout(changeTestimonials2, 10000)
-}
-	
-function changeTestimonials3() {
-  
-	/* change testimonial 3*/
-    $("#ttm3").fadeOut("slow", function () {
-         $(this).html(ttmq3[ttmsCnt]);
-         $(this).fadeIn("slow");
-      });
-
-	setTimeout(changeTestimonials3, 10000)
-}
 
 var texts = new Array();
 texts[0]=("WHY DOES YOUR BROKER KNOW ABOUT YOUR STOP LOSS?");
@@ -154,7 +146,4 @@ function changeHeaderText() {
 }
 
 changeHeaderText();
-
 changeTestimonials1();
-changeTestimonials2();
-changeTestimonials3();
