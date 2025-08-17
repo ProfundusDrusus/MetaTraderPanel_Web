@@ -12,139 +12,126 @@
 </svg>
 </a>
 
-# ALLGEMEINE FRAGEN
+# COMMON QUESTIONS
 <p id="com-faq"></p>
-### Verschiedenes	 	 
+### Miscellaneous	 	 
 
-??? note "Wie stelle ich das Benutzer-Interface auf Deutsch um?"
+??? note "How do I change the language of the user interface?"
 	
-    Für die Beschriftung der Steuerelemte nutzen wir grundsätzlich  ausschließlich Englisch.  
+    We only use English for the labeling of control elements.  
 	
-	__Warum tun wir das?__  
+	__Why are we doing this?__  
 	
-    Genau wie im internationalen Flugverkehr ist im Trading Englisch der gesetzte Standard
-    mit dem sich Begriffe kurz und knapp beschreiben lassen. Wie sperrig die deutsche Sprache
-	bei Trading Begriffen ist, lässt sich sehr gut an der Übersetzung der Begriffe 'Bid' und 'Ask '
-	sehen. Die englischen Begriffe sind kurz und selbsterklärend, die deutschen Begriffe 'Geldkurs' und 'Briefkurs' sind verwirrend und fast 3 mal so lang.
+    Just as in international air travel, English is the standard language used in trading, allowing terms to be described concisely and succinctly. The translation of the terms ‘bid’ and ‘ask’ illustrates how cumbersome other languages can be when it comes to trading terms.
+	The English terms are short and self-explanatory,
 	
-	__Keine Sorge, wir helfen dir mit Tooltips__  
+	__Don't worry, we'll help you with tooltips.__  
 	
 	<picture >
 		<img src="../../assets/Tooltip2.jpg" alt="Tooltip">
     <picture>  
 	
-	Wenn du mit der Maus auf ein Steuerelemt zeigst, bekommst du einen Tooltip in deutscher Sprache angezeigt,
-	oft mit zusätzlichen Erläuterungen zur Handhabung der jeweiligen Funktion. So gewöhnst du dich an die internationalen 
-	Begriffe und hast doch immer eine deutschsprachige Erklärung zur Hand.  
+	Select the display language for tooltips of your choice in the MetaTrader-Panel options. When hovering your mouse over a control element, a tooltip will appear, often with additional explanations on how to use the respective function. This allows you to familiarize yourself with the international terms while still having an explanation in the selected language at your fingertips.  
 	
 	
 	
-??? note "Warum nutzt der MetaTrader-Panel EA externe Bibliotheken?"
+??? note "Why the MetaTrader Panel EA is using external libraries?"
 
-    Durch die Verwendung externer Bibliotheken (sogenannter DLL's) ist MetaTrader-Panel modularer, effizienter und wartungsfreundlicher.
-	Dies erlaubt es uns Aufgaben parallel zu prozessieren und dadurch einen Zeitvorsprung 
-	für dein Trading zu gewinnen, hoch spezialisierte Steuerelemte einzubinden und vieles mehr. 
-	Der wichtigste Grund aber ist, dass wir MetaTrader-Panel so für dich immer auf dem neuesten Stand der Technik halten können.
+    The use of external libraries (known as DLLs) makes MetaTrader Panel more modular, efficient, and easier to maintain. This allows us to process tasks in parallel, giving you a time advantage in your trading, integrate highly specialized control elements, and much more. But the most important reason is that it allows us to keep MetaTrader Panel up to date with the latest technology for you.
 	
-??? note "Was ist eigentlich ein VPS und warum ist er sinnvoll?"
+??? note "What exactly is a VPS and why is it useful?"
 
-    VPS ist die Abkürzung für Virtueller Privater Server. Das bedeutet, du mietest bei einem Anbieter
-    eine Windows Maschine  
+    VPS is the abbreviation for Virtual Private Server. This means that you rent a Windows machine from a provider  
 	
 	
-	__Was ist der Vorteil dieser Lösung?__   
+	__What is the advantage of this solution?__   
 	
-    Der Handel läuft heutzutage 24 Stunden am Tag, 5 Tage in der Woche und bei Kryptowährungen 7 Tage.
-	Wenn du aktiv handelst, musst du deine Positionen auch 24 Stunden am Tag überwachen. Ein VPS ist dafür
-	aufgrund seiner Ausfallsicherheit, Internetanbindung und Kostengünstigkeit hervorragend geeignet. 
-	Hinzu kommt eine bis zu 50-fach bessere Zugriffszeit auf den Trading Server deines Brokers.
+    Nowadays, trading takes place 24 hours a day, 5 days a week, and in the case of cryptocurrencies, 7 days a week. If you are an active trader, you need to monitor your positions 24 hours a day. A VPS is ideal for this purpose due to its reliability, internet connection, and cost-effectiveness. In addition, it offers up to 50 times faster access to your broker's trading server.
 
-	<p style="text-align:left;">Einen Leitfaden wie man eine VPS richtig auswählt findest du <a href="../../features/stops/"><strong>hier</strong></a></p>	
+	<p style="text-align:left;">You can find a guide on how to choose the right VPS <a href="../../features/stops/"><strong>here</strong></a></p>	
 <br>
 
 ### Installation
 
-??? note "Kann ich MetaTrader-Panel in Verbindung mit einem VPS nutzen?"
+??? note "Can I use MetaTrader Panel in conjunction with a VPS?"
 
-    Ja selbstverständlich. MetaTrader-Panel ist auf einem VPS uneingeschränkt lauffähig.	 
+    Yes, of course. MetaTrader Panel runs without restrictions on a VPS.	 
 	
-??? note "Was bedeutet mobile Installation?"
+??? note "What does mobile installation mean??"
 
-    MT5 bietet erfahrenen Benutzern die Möglichkeit die Anwendung unter einem beliebigen Pfad zu installieren.
-	Das Feature __`Mobile Installation`__ gibt dir die Möglichkeit MetaTrader-Panel unter einem benutzerdefinierten Pfad zu installieren.
+    MT5 offers experienced users the option to install the application under any path.
+	The __`Mobile Installation`__ feature allows you to install MetaTrader Panel under a custom path.
 
-??? note "Kann ich MetaTrader-Panel auch mit MT4 nutzen?"
+??? note "Can I also use MetaTrader Panel with MT4?"
 
-    MT4 ist der Vorgänger von MT5 und inzwischen über 20 Jahre alt.
-	Deshalb haben wir uns entschieden MT4 nicht zu unterstützen.
+    MT4 is the predecessor of MT5 and is now over 20 years old. That is why we have decided not to support MT4.
 	 
-??? note "Kann ich MetaTrader-Panel auf einem Rechner mit iOS / Linux installieren?"
+??? note "Can I install MetaTrader Panel on a computer running iOS/Linux?"
 
-    Zum gegenwärtigen Zeitpunkt unterstützen wir ausschließlich die Windows Version..	 
+    At present, we only support the Windows version.	
 	 
 
 <br>	 
-### Lokaler Server
+### Local Server
 
-??? note "Was sind die Aufgaben des lokale Servers?"
+??? note "What are the tasks of the local server?"
 
-    Der lokale Server ist das zentrale Verbindungsglied zwischen allen offenen Panels.
-	Zu seinen Aufgaben gehören die Prüfung der Lizenz, das Anzeigen von Benachrichtigungen, 
-	Datenbank-Management, Sprachverwaltung, statistische Auswertungen deiner Trades und vieles mehr.
+    The local server is the central link between all open panels.
+    Its tasks include checking the license, displaying notifications, 
+    database management, language management, statistical evaluations of your trades, and much more.
 	
-??? note "Muss der Server die ganze Zeit geöffnet sein?"
+??? note "Does the server need to be open all the time?"
 
-    Ja, der Server muss die gganze Zeit geöffnet sein, aber du musst ihn nicht die ganze Zeit sehen.
-	Minimiere den Server einfach und er legt sich in das Windows Benachrichtigungsfeld.  
+    Yes, the server must be open all the time, but you don't have to see it all the time.
+	Just minimize the server and it will be placed in the Windows notification area. 
 	
 	![System Tray](../assets/Tray1.jpg)  
 	
-	Und falls du ihn einmal brauchst, kannst du mit einem Rechtsklick die Befehlsleiste aufrufen  
+	And if you ever need it, you can access the command bar by right-clicking.
 		
 	![System Tray](../assets/Tray2.jpg)  
 	 
 
 <br>	
-### Lizenz
+### License
 
-??? note "Hat die kostenfreie Lizenz Beschränkungen?"
+??? note "Does the free license have any restrictions?"
 
     Nachfolgend findest du eine Tabelle die die Unterschiede der verschiedenen Preis Modelle zeigt.
 	
-	| MODUL            | KOSTENFREI                           | KOSTENPFLICHTIG                          |
+	| MODUL            | FREE OF CHARGE                           | SUBJECT TO CHARGES                          |
 	| :----------     | :----------------------------------- :|:-----------------------------------: |
-	| __`Alle Features`__     | Ja  |Ja  |
-	| __`Laufzeit`__     | 3 Monate  |12 Monate  |
-	| __`Panels`__       | 2 |Unbeschränkt  |
-	| __`Demo Positionen`__         | Ja |Ja |
-	| __`Echtgeld Positionen`__         | Nein |Ja |
-	| __`Support`__    		   | Beschränkt |Voller Support  |  
+	| __`All Features`__     | Yes  |Yes  |
+	| __`Valid`__     | 3 Month  |12 Month  |
+	| __`Panels`__       | 2 |Unlimited  |
+	| __`Demo Positions`__         | Yes |Yes |
+	| __`Real Positions`__         | No |Yes |
+	| __`Support`__    		   | Restricted |Full Support  |  
 	
-	Wir glauben, das ist ein sehr faires Angebot. Du kannst 3 Monate lang in aller Ruhe MetaTrader-Panel annähernd ohne jede Einschränkungen testen
-	und dich ganz in Ruhe entscheiden,   
+	We believe this is a very fair offer. You can test MetaTrader Panel for 3 months with virtually no restrictions and take your time to decide.  
 	
-	Und falls du doch noch Fragen hast, wir helfen gerne weiter unter __<info@metatrader-panel.com>__
+	And if you still have questions, we are happy to help at __<info@metatrader-panel.com>__
 
 
-??? note "Wie lange ist eine Lizenz gültig?"
+??? note "How long is a license valid?"
 
-    Die kostenfreie Lizenz ist 3 Monate gültig, die kostenpflichtige Version ist 12 Monate gültig.
+    The free license is valid for 3 months, while the paid version is valid for 12 months.
 	 
 	 
 
-??? note "Kann ich die Lizenz Kosten steuerlich absetzen?"
+??? note "Can I deduct the license costs from my taxes?"
 
-    Ja selbstverständlich. Die jährliche Lizenz Gebühren sind sogenannte Werbungskosten und steuerlich voll vortragbar.
+    Yes, of course. The annual license fees are considered advertising expenses and are fully tax deductible.
 	 
 	 
 
-??? note "Ist die Lizenz übertragbar?"
+??? note "Is the license transferable?"
 
-    Nein, die Lizenz ist an dein persönliches Handelskonto gebunden und daher nicht übertragbar.
+    No, the license is linked to your personal trading account and is therefore non-transferable.
 	
-??? note "Für welche Instrumente sendet Jeannie Signale?"
+??? note "For which instruments does Jeannie send signals?"
 	
-	Nachfolgend aufgeführte Instrumente überwacht Jeannie und sendet bei Erreichen der jeweiligen Kriterien ein Signal zur Eröffnung/Schließen der Position.  
+	Jeannie monitors the instruments listed below and sends a signal to open/close the position when the respective criteria are met.  
 	
 	| INDEX            |                             |                      |
 	| :----------     | :-------------------------- |:---------------------------|
@@ -152,8 +139,8 @@
 	| __`SP500`__         |    							|USA  					     |
 	| __`Nasdaq-100`__         |    							|USA  					     |
 	| __`Nikkei-225`__         |    							|Japan  					     |
-	| __`DAX-40`__         |    |Deutschland  |
-	| __`CAC-40`__         |    |Frankreich  |
+	| __`DAX-40`__         |    |Germany  |
+	| __`CAC-40`__         |    |France  |
 	| __`EURO STOXX 50`__         |    |Europa  |
 	__WÄHRUNG__  
     | __`JPYUSD`__         |    |Global  |
@@ -175,46 +162,42 @@
 
 	
 <br>	
-### MT5 Berechtigungen	 	 
+### MT5 Permissions	 	 
 
-??? note "Warum kann ich den MetaTrader-Panel EA nicht auf den Chart ziehen?"
+??? note "Why can't I drag the MetaTrader Panel EA onto the chart?"
 
 	<div>
     
-	Vergewissere dich, dass -  wie im Bild dargestellt, die Option __`DLL Import erlauben`__ aktiviert ist.  
+	Make sure that, as shown in the image, the option __`Allow DLL import`__ is enabled.
 	
 	<picture >
             <img src="../../assets/MT5_EA_Dialog2.png" alt="">
     <picture>
 		  
 	</div>  
-	:material-lightbulb-on:{ .lightbulb }  Tipp: Setze den Haken in den Optionen von MT5.
+	:material-lightbulb-on:{ .lightbulb }  Tip: Check the box in the MT5 options.
 	
-??? note "Der MetaTrader-Panel EA startet, aber ich kann nicht traden"
+??? note "The MetaTrader Panel EA starts, but I cannot trade"
 
-    Vergewissere dich, dass -  wie im Bild dargestellt, die Option __`Algorithmischen Handel erlauben`__ aktiviert ist.  	 
+    Make sure that, as shown in the image, the option “Allow algorithmic trading” is enabled.	 
 	
 	![MT5 EA Dialog](../assets/MT5_EA_Dialog3.png){ align=left }
 	 
-??? note "Kann ich das Timeframe wechseln während MetaTrader-Panel läuft?"
+??? note "Can I change the timeframe while MetaTrader-Panel is running?"
 
-    Aber selbstverständlich. Du kannst zu jeder Zeit jedes beliebige, vorhandene Timeframe wählen, 
-	das du möchtest	denn MetaTrader-Panel arbeitet Tick-basiert.	 
+    But of course. You can choose any available timeframe you want at any time, because the MetaTrader panel works on a tick basis.	 
 	
-??? note "Warum schliesst sich MetaTrader-Panel, wenn ich das Konto wechsle?"
+??? note "Why does MetaTrader Panel close when I switch accounts?"
 
-    Jede MetaTrader-Panel Lizenz ist an genau ein Konto gebunden.
-	Wechselst du das Konto, schließt sich MetaTrader-Panel sobald festgestellt wird, dass für das neue Konto
-	keine gültige Lizenz vorhanden ist.
+    Each MetaTrader Panel license is linked to exactly one account. If you switch accounts, MetaTrader Panel will close as soon as it detects that there is no valid license for the new account.
 	 
-??? note "Kann ich das Symbol wechseln, während MetaTrader-Panel läuft?"
+??? note "Can I change the symbol while MetaTrader Panel is running?"
 
-    Ja selbstverständlich. Sobald du ein neues Symbol auf den Chart ziehst, lädt MetaTrader-Panel
-	automatisch die Konfiguration für das neue Instrument sowie alle offenen Positionen und Orders.
+    Yes, of course. As soon as you drag a new symbol onto the chart, MetaTrader Panel automatically loads the configuration for the new instrument as well as all open positions and orders.
 
-??? note "Muss ich Web-Requests setzen?"
+??? note "Do I need to to set web requests?"
 
-    Nein, keine Sorge du musst keinerlei Web-Requests setzen.
+    No, don't worry, you don't have to set any web requests.
 
 <br>
 
