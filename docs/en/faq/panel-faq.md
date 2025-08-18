@@ -12,59 +12,59 @@
 </svg>
 </a>
 
-# INTERFACE FRAGEN 
+# INTERFACE QUESTIONS 
 <p id="com-faq"></p>
-### Verschiedenes	 	 
-??? note "Warum passiert nichts, wenn ich auf kaufen oder verkaufen klicke?" 
+### Miscellaneous	 	 
+??? note "Why nothing happens when I click on buy or sell?" 
 
 	
 	<picture >
 		<img src="../../assets/Lock1.jpg" alt="Tooltip">
     <picture>  
 	
-	Überprüfe, ob das __`Schloss`__  geöffnet ist. Is es geschlossen, klicke es mit der Maus an oder rufe den Tastatur Kurzbefehl __`Strg + L`__ auf.  
+	Check whether the __`lock`__  is open. If closed open it with a mouse click or use the keyboard shortcut __`Ctrl + L`__.
 	
-	:material-lightbulb-on:{ .lightbulb }  Tipp: Das Schloss ist eine Schutzeinrichtung, damit du nicht unbeabsichtigt einen Trade auslöst.
+	:material-lightbulb-on:{ .lightbulb }  Tip: The lock is a protective feature that prevents you from accidentally triggering a trade.
 	
-??? note "Kann ich die Größe des Interfaces ändern?"
+??? note "Can I change the size of the interface?"
 	
-	Du kannst die Höhe des Interfaces mit der Maus stufenlos andern. 
+	You can continuously adjust the height of the interface with the mouse.
 	
     ![Interface min size](../assets/GuiMinSize.jpg)  
-	Minimal Größe  
+	Minimum size
 	
 	![Interface min size](../assets/ProfitLoss1.jpg)  
-	Benutzerdefinierte Größe 
+	Custom Größe 
 	 
-	:material-lightbulb-on:{ .lightbulb }  Tipp: Mit einem Doppelklick in die Statuszeile kannst du das Interface blitzschnell verkleinern..
+	:material-lightbulb-on:{ .lightbulb }  Tip: Double-click on the status bar to quickly minimize the interface.
 	
-??? note "Warum gibt es mehr als einen Close Button?"
+??? note "Why there is more than one close button?"
 
-	Damit du immer blitzschnell auf eine Situation im Markt reagieren kannst, verfügt MetaTrader-Panel über spezialisierte close buttons.
-	Nachfolgende Übersicht zeigt ihre Verwendung.
+	To enable you to react quickly to market situations, MetaTrader Panel features specialized close buttons.  
+	The following overview demonstrates their usage.
 	
-    | Button            |   Verwendung                         |
+    | Button            |   Usage                         |
 	| :----------     | :----------------------------------- |
-	| __`Close all`__    |Schliesst alle Positionen des Instrumentes, die nicht als [__`Longrunner`__](pl-faq.md) markiert sind. |
-	| __`Close marked`__   |Schliesst alle __selektierten__ Positionen des Instrumentes, die nicht als [__`Longrunner`__](pl-faq.md) markiert sind. |
-	| __`Close`__      |Schließt eine einzelne Position oder löst einen Teilverkauf der Position aus.  |
+	| __`Close all`__    |Closes all positions of the instrument which are not marked as [__`Longrunner`__](pl-faq.md).
+	| __`Close marked`__   |Closes all __selected__ positions of the instrument that are not marked as [__`Longrunner`__](pl-faq.md). |
+	| __`Close`__      |Closes a single position or triggers a partial sale of the position.  |
 	 
 
-??? note "Was hat es mit dem Revert Button auf sich?"
+??? note "What is the Revert button for?"
 	
-    Der __`Revert Button`__ erlaubt es dir blitzschnell eine Position zu schließen und eine Position in die Gegenrichtung zu eröffnen.
-	Dabei kannst du entscheiden, ob die gleiche Positionsgröße oder nur eine Teilmenge verwendet werden soll. 
-	Eine ausführliche Anleitung zum Gebrauch des __`Revert Button`__ findest du [__hier__](pl-faq.md)
+    The __`Revert Button`__ allows you to close a position in a flash and open a position in the opposite direction.  
+	You can decide whether to use the same position size or only a subset.  
+	Detailed instructions on how to use the __`Revert Button`__ can be found [__here__](pl-faq.md).
 
 	
-??? note "Wie schalte ich von der Profit & Loss Anzeige auf den Mini Chart?"
+??? note "How do I switch from the profit & loss display to the mini chart?"
 
-    Mit einem Doppelklick auf den Mini Chart wechselst du zur Profit & Loss Anzeige oder wieder rurück.
-	Du kannst natürlich auch den Tastaturkurzbefehl   __`Strg +  C`__  benutzen.
+    Double-click on the mini chart to switch to the profit & loss display or back again.  
+    You can also use the keyboard shortcut   __`Ctrl +  C`__  .
 	
-??? note "Wie zeige ich die Eigenschaften einer Position an?"
+??? note "How do I display the properties of a position?"
 
-	Mit einem Doppelklick auf die Position, rufst du ganz einfach den Eigenschaften Dialog auf.  
+	Double-click on the position to easily open the properties dialog.
 	
 
 	<div>
@@ -78,50 +78,47 @@
 		  
 	</div>
 	
-??? note "Wie kann ich die Handelszeit für ein Instrument anzeigen?"
+??? note "How can I view the trading hours for an instrument?"
 
-	Das haben wir schon für dich erledigt.
+	We've already taken care of that for you.
 	
 	<picture >
             <img src="../../assets/TradingSession1.jpg" alt="Handelszeit">
     <picture>   
-	Die Anzeige ist aufgebaut wie ein Timer. Steht die Anzeige auf __`00:00:00`__ ist Handelsschluss.	Um dich zusätzlich zu unterstützen, bekommst  die   __`letzten 15 Minuten`__  vor Handelsschluss zusätzliche Warnungen angezeigt.
-
-		  
-
+	The display is structured like a timer. When the display shows __`00:00:00`__, trading has closed. To provide you with additional support, additional warnings are displayed during the __`last 15 minutes`__ before trading closes.
 	
-??? note "Wie kann ich ein detailiertes Handeslsergebnis für einen Tag ansehen?"
+??? note "How can I view detailed trading results for a single day?"
 
-    Das erklären wir [__hier__](pl-faq.md)		
+    We explain this [__here__](pl-faq.md)	
 	
-??? note "Was bedeuetet Docked?"
+??? note "What does docked mean?"
 
-    Du kannst das MetaTrader-Panel Interface entweder im Hauptfenster von MT5 laufen lassen, oder außerhalb; ganz wie du möchtest.
-	Im __`Docked Modus`__ ist das Interface Teil von MT5, ansonsten kannst du das Interface frei auf deinem Bildschirme positionieren.
+    You can run the MetaTrader Panel interface either in the main MT5 window or outside of it, whichever you prefer.
+	In __`Docked Mode`__, the interface is part of MT5; otherwise, you can position the interface freely on your screen.
 
-??? note "Was bedeueten die verschiedenen Icons in der Statuszeile?"
+??? note "What do the various icons in the status bar mean?"
 
-    Die Bedeutung der unterschiedlichen Icons und ihre Verwendung erklären wir [__hier__](pl-faq.md).
+    We explain the meaning of the different icons and their usage [__here__](pl-faq.md).
 
 <br>
-### Positionsgröße	 	 
-??? note "Muss ich Punkt oder Komma als Dezimaltrenner verwenden?"
+### Position size	 	 
+??? note "Do I have to use a period or comma as the decimal separator?"
 
-    Du kannst beides nehmen. Deine Eingabe wird automatisch geprüft und das Dezimalzeichen gegebenenfalls ersetzt.
+    You can use either. Your input will be checked automatically and the decimal point replaced if necessary.
 
-??? note "Und wenn ich mich bei der Eingabe vertippe?"
+??? note "What if I make a mistake when entering the information?"
 
-    Solltest du einen ungültigen Wert eingeben, wird das erkannt und stattdessen die kleinste mögliche Lotsize des Instrumentes vorgeschlagen.	 
+    If you enter an invalid value, this will be detected and the smallest possible lot size for the instrument will be suggested instead.
 
-??? note "Wie ermittle ich die Mindestpositionsgröße für eine Instrument?"
+??? note "How do I determine the minimum position size for an instrument?"
 
-    Gib einfach eine __`0`__ ein, der Algorithmus ersetzt dann diesen Wert mit der kleinsten Lotsize, die für das gewählte Instrument möglich ist.	.	 
+    Simply enter a __`0`__, and the algorithm will replace this value with the smallest lot size possible for the selected instrument.    
 	 	 
 
-??? note "Kann ich eine maximale Positionsgröße setzen?"
+??? note "Can I set a maximum position size?"
 
-    Ja klar. Um dich vor sogenannten __`fat finger trades`__ zu schützen kannst du in den MetaTrader-Panel Optionen, unabhängig von den Vorgaben deines Brokers, sowohl eine Warnschwelle als auch eine maximale Positionsgröße setzen.
-	Weitere Informationen zum Thema findest du [__hier__](pl-faq.md)
+    Yes, of course. To protect yourself from so-called “fat finger trades,” you can set both a warning threshold and a maximum position size in the MetaTrader panel options, regardless of your broker's specifications.
+	You can find more information on this topic [__here__](pl-faq.md).
 
 <br>
 
