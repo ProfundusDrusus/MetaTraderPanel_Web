@@ -1,77 +1,81 @@
+
+<a href="../.." title="MetaTrader-Panel" aria-label="MetaTrader-Panel">
+<svg class="mobile_only" width="60" height="60" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="20" cy="20" fill="none" r="12" stroke="#1750AC" stroke-width="3">
+	<animate attributeName="r" from="8" to="20" dur="1.5s" begin="0s" repeatCount="indefinite"/>
+	<animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="20" cy="20" fill="#3373C4" r="13"/>
+  <circle cx="20" cy="20" fill="#5494DA" r="12"/>
+  <circle cx="20" cy="20" fill="#1750AC" r="8"/>
+  <circle cx="20" cy="20" fill="#F5F5F5" r="7"/>
+</svg>
+</a>
  
-# FIBONACCI FRAGEN
+# FIBONACCI QUESTIONS
 <p id="com-faq"></p>
-### Allgemein	 	 
+### Common	 	 
 	
-??? note "Was ist ein Fibonacci Swing und was ein Fibonacci Level?"
+??? note "What is a Fibonacci swing and what is a Fibonacci level?"
 
-    Ein "Fibonacci Swing" basiert auf 
-	den höchsten und niedrigsten Punkten einer Kursbewegung. Diese Punkte werden als "Swing High" (hoher Punkt) 
-	und "Swing Low" (tiefer Punkt) bezeichnet. Ein Swing wird verwendet, 
-	um potenzielle Unterstützungs- und Widerstandsniveaus in der Kursbewegung eines Instrumentes zu identifizieren.  
+    A “Fibonacci swing” is based on the highest and lowest points of a price movement. These points are referred to as the “swing high” (high point) and “swing low” (low point). A swing is used to identify potential support and resistance levels in the price movement of an instrument.  
 	
-	Die Fibonacci-Folge ist eine mathematische Reihe, in der jede Zahl die Summe der beiden vorhergehenden Zahlen ist.
-	Aus dieser Folge lassen sich Verhältnisse ableiten, die als Grundlage für die Fibonacci-Levels dienen.
-	Diese Verhältnisse (z.B. 61.8%), auch Levels oder Retracements genannt, werden auf einen vorherigen Kursbereich angewendet, um horizontale Linien im Chart zu erzeugen.  
+	The Fibonacci sequence is a mathematical series in which each number is the sum of the two preceding numbers.
+	Ratios can be derived from this sequence, which serve as the basis for Fibonacci levels. These ratios (e.g., 61.8%), also known as levels or retracements, are applied to a previous price range to create horizontal lines on the chart.  
 	
-	MetaTrader-Panel stellt dir mehr als 20 verschiedene Fibonacci Levels zur Verfügung.
+	The MetaTrader panel provides you with more than 20 different Fibonacci levels.
 	
 	
-??? note "Wie nutze ich Fibonacci Levels für mein Trading?"
+??? note "How do I use Fibonacci levels for my trading?"
 
-    Diese Frage lässt sich leider nicht in ein paar Sätzen beantworten, aber einen guten Einstieg in das Thema
-	verbunden mit einem Beispiel aus der realen Welt findest du z.B. [__hier__](https://www.investopedia.com/terms/f/fibonacciretracement.asp), [__hier__]( https://www.investopedia.com/articles/active-trading/091114/strategies-trading-fibonacci-retracements.asp) oder
-	 [__hier__](https://www.dukascopy.com/swiss/english/marketwatch/articles/fibonacci-trading-strategy/#:~:text=Fibonacci%20retracement%20levels%20are%20plotted,opportunity%20to%20plan%20your%20moves.).
+    Unfortunately, this question cannot be answered in a few sentences, but you can find a good introduction to the topic
+	combined with a real-world example at, for example [__here__](https://www.investopedia.com/terms/f/fibonacciretracement.asp), [__here__]( https://www.investopedia.com/articles/active-trading/091114/strategies-trading-fibonacci-retracements.asp) or
+	 [__here__](https://www.dukascopy.com/swiss/english/marketwatch/articles/fibonacci-trading-strategy/#:~:text=Fibonacci%20retracement%20levels%20are%20plotted,opportunity%20to%20plan%20your%20moves.).
 
 	
-??? note "Was sind die Unterschiede zwischen dem MT5 Fibonacci und MetaTrader-Panel Fibonacci?"
+??? note "What are the differences between MT5 Fibonacci and MetaTrader Panel Fibonacci?"
 
-    Nachfolgend findest du eine Tabelle die die Unterschiede der verschiedenen Methoden zeigt.
+    Below you will find a table showing the differences between the various methods.
 	
-	| MODUL            | MT5                           | MetaTrader-Panel                          |
+	| SUBJECT            | MT5                           | MetaTrader-Panel                          |
 	| :----------     | :----------------------------------- :|:-----------------------------------: |
-	| __`Levels ohne Daten zeichnen`__     | Nein  |Ja  |
-	| __`Levels beliebig wählbar`__     | Nein  |Ja  |
-	| __`Externe Speicherung`__       | Nein |Ja  |
-	| __`Fehlerfrei`__         | Nein |Ja |
-	| __`Smart Levels`__         | Nein |Ja |  
+	| __`Draw levels without data`__     | No  |Yes  |
+	| __`Slect levels as desired`__     | No  |Yes  |
+	| __`External storage`__       | No |Yes  |
+	| __`Flawless`__         | No |Yes |
+	| __`Smart levels`__         | No |Yes |  
 	
-	Mehr Informationen wie du das Fibonaccci Modul konfigurierst, findest du [__hier__](../features/fibonacci.md)
+	For more information on how to configure the Fibonacci module, see [__here__](../features/fibonacci.md).
 
 <br>
 	
 ### Levels	
 
 
-??? note "Was ist die Distance Einstellung und wie nutze ich sie?"
+??? note "What is the Distance setting and how do I use it?"
 
-    Die __`Distance`__ Einstellung berechnet auf Basis des vorgegebenen Wertes einen Bereich in dem die Retracements gezeichnet werden.
-	Am leichtesten ist das an einem Beispiel erklärt. Wir nehemen an der Dax steht bei 23500 und du nutzt eine Distance Einstellung von 2000.
-	Daraus ergibt sich der Bereich 25500 bis 22000. Lässt du jetzt Retracements zeichnen, prüft der Algorithmus welche Levels in diesem Bereich liegen
-	und zeichnet auch nur diese Levels.
-	 
+    The __`Distance`__ setting calculates a range in which the retracements are drawn based on the specified value. This is easiest to explain with an example. Let's assume that the DAX is at 23500 and you use a Distance setting of 2000. This results in a range from 25500 to 22000. If you now draw retracements, the algorithm checks which levels are in this range
+	and only draws these levels.
 	 
 
-??? note "Wie verhindere ich, dass mein ganzer Chart mit Fobonacci Levels bedeckt ist?"
+??? note "How do I prevent my entire chart from being covered with Fibonacci levels?"
 
-    Nutze anstatt des MT5 Fibonacci den 'Better Fibo' des MetaTrader-Panels.
-	Das gibt dir die Möglichkeit immer nur die Retracements zeichnen zu lassen die du gerade brauchst und hält deinen Chart frei.
+    Instead of MT5 Fibonacci, use the __`Better Fibo`__ feature in the MetaTrader panel.
+	This allows you to draw only the retracements you need at any given time and keeps your chart clear.
 	 
 	 
-??? note "Warum werden keine Retracements gezeichnet?"
+??? note "Why are retracements not drawn?"
 
-    Du hast wahrscheinlich die __`Distance`__ Einstellung zu klein gewählt und in derm berechneten Bereich gibt es keine Retracements.
-	Vergrößere einfach den Bereich in dem du den Wert erhöhst und lasse die Levels neu zeichnen.
+    You have probably selected the __`Distance`__ setting too small and there are no retracements in the calculated range. Simply enlarge the range by increasing the value and let the levels redraw.
 	
-??? note "Ich will die Daten für einen Swing ändern, geht das?"
+??? note "I want to change the data for a swing. Is that possible?"
 
-    Ja natürlich. Wähle einfach im MetaTrader-Panel Fibonacci Dialog den dementsprechenden Swing aus 
-	und passe die vorhandenen Werte an. Danach lässt du die Retracement Levels im MT5 Chart einfach neu zeichnen.
+    Yes, of course. Simply select the corresponding swing in the Fibonacci dialog box in the MetaTrader panel and adjust the existing values. Then simply redraw the retracement levels in the MT5 chart.
 	
 
-??? note "Kann ich konfigurieren welche Levels gezeichnet werden?"
+??? note "Can I configure which levels are drawn?"
 
-    Ja selbstverständlich. Du kannst individuell für jedes Instrument festlegen welche Levels gezeichnet werden sollen..	
+    Yes, of course. You can specify individually for each instrument which levels should be drawn.
 
 <br>
 
