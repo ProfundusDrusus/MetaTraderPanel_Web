@@ -12,79 +12,76 @@
 </svg>
 </a>
 
-# ORDER FRAGEN
+# ORDER QUESTIONS
 <p id="com-faq"></p>
-### Allgemein	 	 
+### Common	 	 
 
-??? note "Warum überhaupt Orders verwenden?"
+??? note "Why use orders at all?"
 
-    Während vor 20 Jahren der  Wertpapierhandel noch im Wesentlichen telefon-basiert gewesen war, 
-	geht es heutzutage um Millisekunden. Wie groß die Unterschiede wirklich sind zeigt dir die nachfolgende Übrsicht.  
+    While 20 years ago, securities trading was still largely telephone-based, today it is all about milliseconds. The following overview shows you just how big the differences really are.  
 	
-	| METHODE |                             |    DAUER                  |
+	| METHOD |                             |    DURATION                  |
 	| :----------     | :-------------------------- |:---------------------------|
-	| __`MetaTrader-Panel Limit Order`__     | |2-5 Millisekunden|
-	| __`Market Order MT5`__ | |3-5 Sekunden  |
-	| __`Telefonische Order`__  ||7-15 Sekunden |  
+	| __`MetaTrader-Panel Limit Order`__     | |2-5 milliseconds|
+	| __`Market order MT5`__ | |3-5 seconds  |
+	| __`Telephone order`__  ||7-15 seconds |  
 	
-	Verglichen mit einer Market Order beträgt dein Geschwindigkeitsvorteil bei einer Limit Order, bis zum Faktor 1000.
+	Compared to a market order, your speed advantage with a limit order is up to a factor of 1000.
 
     
 	
-??? note "Was ist eine GTC und was ein GTD Order?"
+??? note "What's a GTC and what's a GTD order?"
 
-    __`GTC`__ ist die Abkürzung für 'Good until canceled' und definiert eine Limit-Order die solange aktiv bleibt,
-	bis sie entweder ausgeführt ist oder der Benutzer die Order streicht.  
-	__`GTD`__ ist die Abkürzung für 'Good until today' und definiert eine Limit-Order die, falls der Limit-Preis nicht erreicht wird, 
-	zum Ende des Handelstages verfällt.  
+    __`GTC`__ is the abbreviation for ‘Good until canceled’ and defines a limit order that remains active until it is either executed or the user cancels the order.  
+	__`GTD`__ is the abbreviation for ‘Good until today’ and defines a limit order that expires at the end of the trading day if the limit price is not reached. 
 	
-	__Wir empfehlen die Einstellung__ __`GTD`__ __zu verwenden.__
+	We recommend using the __`GTD`__  setting.
 	
 	
 	
-### Setzen, ändern und löschen von Orders
-??? note "Wie setze ich eine Order?"
+### Placing, changing, and deleting orders
+??? note "How do I place an order?"
 
-    Du kannst blitzschnell eine Limit Order setzen, indem du einen Doppelklick im Chart ausführst.  
-	Für eine long Limit Order doppelklickst du unter den aktuellen Kurs, für eine short Order über den aktuellen Kurs.
+    You can place a limit order in a flash by double-clicking on the chart.  
+	For a long limit order, double-click below the current price; for a short order, double-click above the current price.
 	
-	| ORDER TYP            |                             |    AKTION                  |
+	| ORDER TYPE            |                             |    ACTION                  |
 	| :----------     | :-------------------------- |:---------------------------|
-	| __`Long Order`__     |    							|Doppelklick unter dem aktuellen Kurs   					 |
-	| __`Short Order`__     |    							|Doppelklick über dem aktuellen Kurs   					 |
+	| __`Long order`__     |    							|Double-click in an area lower than the current price|
+	| __`Short order`__     |    							|Double-click in an area higher than the current price|
 	
-??? note "Kann ich aus dem Tick-Chart auch Orders setzen?"
+??? note "Can I also place orders from the tick chart?"
 
-    Aber natürlich. Es gilt das gleiche Prinzip wie beim setzen einer Limit Order im MT5 Chart.
+    Of course. The same principle applies as when placing a limit order in the MT5 chart.
 	
-??? note "Warum kann ich keine Order setzen?"
+??? note "Why can't I place an order?"
 	
-	Dafür kann es die folgenden Gründe geben:  
+	There may be the following reasons for this:
 	
-    1. Es findet aktuell kein Handel statt
-	2. Die Option __`Algoritmisches Handeln erlauben`__ in den MT5 Optionen ist nicht gesetzt.
-	3. Der Abstand vom Limit Preis zum aktuellen Kurs ist kleiner als der Spread des Instrumentes.
-	3. Das MetaTradr-Panel Interface zeigt ein geschlossenes Schloss an.
-	4. Dein Broker erlaubt momentan keine neuen Positionen für das Instrument.
+    1. No trading is currently taking place.
+	2. The option __`Allow algorithmic trading`__ in the MT5 options is not set.
+	3. The difference between the limit price and the current price is smaller than the spread of the instrument.
+	3. The MetaTrader panel interface displays a closed lock.
+	4. Your broker is currently not allowing new positions for this instrument.
 	 
 	 
 
-??? note "Wie ändere ich eine Order?"
+??? note "How do I change an order?"
 
-    Du kannst blitzschnell dein Limit ändern, indem du die Limit Order einfach mit der Maus auf den neuen Wert verschiebst.  
+    You can change your limit in a flash by simply moving the limit order to the new value with your mouse.
 	
     ![Kill Order](../assets/Limit2.jpg)   
 	
-	:material-lightbulb-on:{ .lightbulb }  Tipp: Du kannst auch mehrere Orders, die du vorher im Chart ausgewählt hast, auf einmal ändern.	
+	:material-lightbulb-on:{ .lightbulb }  Tip: You can also change multiple orders that you have previously selected in the chart at once.
 	 
 
-??? note "Wie lösche ich eine Order?"
+??? note "How do I cancel an order?"
 	
-	Mit einem Rechtsklick im Order Tab kannst du entweder das ausgewähle Limit oder alle gesetzten Limits löschen.  
+	By right-clicking in the Order Tab, you can either delete the selected limit or all set limits.
 	
     ![Kill Order](../assets/Limit1.jpg)  
 	
-	:material-lightbulb-on:{ .lightbulb }  Tipp: Du kannst eine Order auch löschen indem du einfach die Limit Linie im MT5 Chart löschst.
+	:material-lightbulb-on:{ .lightbulb }  Tip: You can also delete an order by simply deleting the limit line in the MT5 chart.
 <br>
 
 

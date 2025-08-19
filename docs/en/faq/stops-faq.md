@@ -13,51 +13,49 @@
 </a>
 
 
-# STOP FRAGEN
+# STOP QUESTIONS
 <p id="com-faq"></p>
-## Allgemein
+## Common
 
-??? note "Was genau sind die Unterschiede der verschiedenen Stops?"
+??? note "What exactly are the differences between the various stops?"
     	
 	<div style="text-align:left;" class="annotate" markdown>
 	
-	MetaTrader-Panel stellt dir spezialisierte Stops zur Verfügung die alle im <a href="../../features/stops#stealth-modus"><strong>Stealth Modus</strong></a> arbeiten.
-	Nachfolgend findest du eine Übersicht, welchen Stop du wofür verwendest. 
+	The MetaTrader panel provides you with specialized stops that all work in <a href="../../features/stops#stealth-modus"><strong>stealth mode</strong></a>.  
+	Below you will find an overview of which stop to use for what.
 	
 
-    | TYP            | VERWENDUNG                           | UNSICHTBAR                          |
+    | TYPW            | USAGE                           | STEALTH MODE                          |
 	| :----------     | :----------------------------------- |:-----------------------------------: |
-	| __`STOP LOSS`__     | Standard Verlustbegrenzung  |:material-check:  |
-	| __`TARGET POINT`__       | Standard Gewinnsicherung |:material-check:  |
-	| __`BAILOUT`__    		   | Schnelles closen schlechter Einstiege |:material-check:  |
-	| __`GROUP STOP`__         | Verlustbegrenzung für alle Positionen eines Instrumentes |:material-check: |
-	| __`GUARDIAN ANGEL`__     | Verlustbegrenzung für alle Positionen über alle Instrumente |:material-check:  |
-	| __`LONGRUNNER`__         | Definiert Ausnahmeregeln |:material-check:  |
+	| __`STOP LOSS`__     | Standard loss limitation|:material-check:  |
+	| __`TARGET POINT`__       | Standard profit protection |:material-check:  |
+	| __`BAILOUT`__    		   | Quickly closing bad entries |:material-check:  |
+	| __`GROUP STOP`__         | Loss limitation for all positions of an instrument |:material-check: |
+	| __`GUARDIAN ANGEL`__     | Loss limitation for all positions across all instruments |:material-check:  |
+	| __`LONGRUNNER`__         | Defines exception rules |:material-check:  |
 	
 	</div>
 
 	
-	<p style="text-align:left;">Detailierte Informationen zu den unterschiedlichen Stops findest du <a href="../../features/stops/"><strong>hier</strong></a></p>
+	<p style="text-align:left;">You can find detailed information about the different stops <a href="../../features/stops/"><strong>here</strong></a></p>
     
-??? note "Was ist der Stealth Modus?"
+??? note "What is Stealth Mode?"
 
-    <p style="text-align:left;">Im Stealth Modus sind deine Stops deinem Broker gegenüber verborgen und nur du kannst sie sehen. Mehr Informationen zum Steahlt Modus und warum er so wichtig ist, findest du <a href="../../features/stops/"><strong>hier</strong></a></p>
-	
+    <p style="text-align:left;">In Stealth Mode, your stops are hidden from your broker and only you can see them. More information about Stealth Mode and why it is so important you can find <a href="../../features/stops/"><strong>here</strong></a></p>
 		  
 	
-??? note "Ich will einen Stop setzen, wie mache ich das?"
+??? note "I want to set a stop. How do I do that?"
 
-	Mit einem Doppelklick auf die Position deren Eigenschaften du ändern möchtest, rufst du ganz einfach den Eigenschaften Dialog auf.  
-	
-	
-    :material-lightbulb-on:{ .lightbulb }  Tipp: Achte darauf, dass das Schloss geöffnet ist
+	Double-click on the position whose properties you want to change to easily open the Properties dialog box.  
+		
+    :material-lightbulb-on:{ .lightbulb }  Tip: Make sure the lock is open.
 
 	<div>
 	<picture >
             <img src="../../assets/Positions2.jpg" alt="">
     <picture>  
 	
-	Im Eigenschaften Dialog kannst du nun deine Stops wie gewünscht setzen.
+	In the Properties dialog, you can now set your stops as desired.
     
 
 	<picture >
@@ -65,19 +63,19 @@
     <picture>
 		  
 	</div>
-	<p style="text-align:left;">Weitere Informationen zu den unterschiedlichen Stops findest du <a href="../../features/stops/"><strong>hier</strong></a></p>
+	<p style="text-align:left;">You can find more information about the different stops  <a href="../../features/stops/"><strong>here</strong></a></p>
 
 
-??? note "Kann ich schon vor Eröffnung einer Position Stops festlegen?"
+??? note "Can I set stops before opening a position?"
 	
-	Ja klar, das ist kein Problem. In den MetaTrader-Panel Einstellungen kannst du für das jeweilige Instrument sowohl einen Stop Loss als auch Target Point Wert festlegen, die ab Eröffnung der Position sofort gültig sind.
+	Yes, of course, that's no problem. In the MetaTrader panel settings, you can set both a stop loss and a target point value for the respective instrument, which are valid immediately upon opening the position.
 	
 	<div>
 	<picture >
             <img src="../../assets/Settings1.jpg" alt="">
     <picture>
     
-	<p style="text-align:left;">Weitere Informationen zu vordefinierten Stops findest du <a href="../../features/stops/"><strong>hier</strong></a></p>
+	<p style="text-align:left;">For more information on predefined stops, see <a href="../../features/stops/"><strong>here</strong></a></p>
 		  
 	</div>
  
@@ -85,160 +83,157 @@
 <br>	
 ## Stop Loss
 
-??? note "Wie setze ich ein Stop Loss?"
+??? note "How do I set a stop loss?"
 	
-	Ein Doppelklick auf eine Position im Interface zeigt dir ihre Eigenschaften an.  
+	Double-clicking on a position in the interface displays its properties.
 	
     ![Position Prperties](../assets/Pic3.jpg)  
 	
-??? note "Kann mein Broker mein Stop Loss sehen?"
+??? note "Can my broker see my stop loss?"
 
-    Nein keine Sorge. MetaTrader-Panel arbeitet im sogenannten __`Steahlth Modus`__.
-	Alle Stops sind dabei für deinen Broker verborgen und nur du weißt wo sie liegen.
+    No, don't worry. MetaTrader Panel works in what is known as  __`Steahlth Mode`__.
+	All stops are hidden from your broker, and only you know where they are.
 	
-??? note "Wie sichere ich eine Position am schnellsten, sobald sie ins Geld läuft?"
+??? note "What is the fastest way to secure a position once it becomes profitable?"
 
-    Einfach bei gedrückter __`Strg Taste`__  auf die Position im Interface doppelklicken
-	und es wird ein Stop Loss im Geld gesetzt. Wie weit im Geld der Stop Loss gesetzt wird, 
-	kannst du du in den Optionen des Instrumentes individuell festlegen.
+    Simply hold down the __`Ctrl key`__  and double-click on the position in the interface to set a stop loss in the money. You can specify how far in the money the stop loss is set in the instrument options.
 
-??? note "Wie ändere ich ein Stop Loss am schnellsten?"
+??? note "What's the fastest way to change a stop loss?"
 
-    Die mit Abstand schnellste Art dein Stop Loss zu ändern ist es im MT5 Chart einfach dahin zu ziehen wo du es haben möchtest.
-	Du kannst das Stop Loss natürlich auch über die Positions Eigenschaften ändern.
+    By far the fastest way to change your stop loss is to simply drag it to where you want it in the MT5 chart.  
+	You can also change the stop loss via the position properties.
 
-??? note "Ich möchte für alle Positionen das gleich Stop Loss setzen"
+??? note "I want to set the same stop loss for all positions."
 
-    Kein Problem, aktiviere einfach in den Positions Eigenschaften den Schalter __`All`__ .	Der Algorithmus übernimmt dann für alle offenen Position für die das gleiche Stop Loss möglich ist den Vorschlagswert.
-	Positionen bei denen der Vorschlagswert zu einem sofortigen Schließen der Position führen würde, werden ignoriert.
+    No problem, just activate the __`All`__ switch in the position properties. The algorithm will then apply the suggested value to all open positions for which the same stop loss is possible.
+	Positions where the suggested value would result in the immediate closure of the position are ignored.
 
-??? note "Kann ich das Stop Loss im Chart anzeigen?"
+??? note "Can I display the stop loss on the chart?"
 
-    Natürlich. Aktiviere einfach in den Positions Eigenschaften den Schalter __`Paint`__ .	 
+    Sure. Just activate the switch in the position properties. __`Paint`__ .	 
 	
-??? note "Kann ich das Stop Loss mit einem Teilverkauf kombinieren?"
+??? note "Can I combine a stop loss with a partial sale?"
 
-    Kein Problem für MetaTrader-Panel. Aktiviere einfach den __`Teilverkauf`__ mit dem gewünschten Prozentsatz. Zusätzlich setzt du dein Stop Loss wie gewohnt.	 .	
+    No problem for MetaTrader Panel. Simply activate the __`Partial sale`__ with the desired percentage. In addition, you set your stop loss as usual.
 <br>
 ## Target Point	 	 
 
-??? note "Wie setze ich einen Target Point?"
+??? note "How do I set a target point?"
 
-    Ein Doppelklick auf eine Position im Interface zeigt dir ihre Eigenschaften an.  
+    Double-clicking on a position in the interface displays its properties.
 	
     ![Position Prperties](../assets/Pic3.jpg)  .
 
-??? note "Kann mein Broker meinen Target Point sehen?"
+??? note "Can my broker see my target point?"
 
-    Nein keine Sorge. MetaTrader-Panel arbeitet im sogenannten __`Steahlth Modus`__.
-	Alle Stops sind dabei für deinen Broker verborgen und nur du weißt wo sie liegen.
+    No, don't worry. MetaTrader Panel works in what is known as __`Steahlth Mmde`__.
+	All stops are hidden from your broker, and only you know where they are.
 	 
 	 
-??? note "Wie ändere ich einen Target Point am schnellsten?"
+??? note "What is the fastest way to change a target point?"
 
-    Wenn du den Target Point im MT5 Chart hast zeichnen lassen, kannst du die Linie einfach mit der Maus auf den neuen Wert verschieben.
+    Once you have drawn the target point in the MT5 chart, you can simply move the line to the new value with the mouse.
 	 
-??? note "Ich möchte für alle Positionen das gleich Stop Loss setzen"
+??? note "I want to set the same stop loss for all positions."
 
-    Kein Problem, aktiviere einfach in den Positions Eigenschaften den Schalter __`All`__ .	Der Algorithmus übernimmt dann für alle offenen Position für die das gleiche Stop Loss möglich ist den Vorschlagswert.
-	Positionen bei denen der Vorschlagswert zu einem sofortigen Schließen der Position führen würde, werden ignoriert.
+    No problem, just activate the __`All`__ switch in the position properties. The algorithm will then apply the suggested value to all open positions for which the same stop loss is possible.  
+	Positions where the suggested value would result in the immediate closure of the position are ignored.
 	
-??? note "Kann ich den Target Point im Chart anzeigen?"
+??? note "Can I display the target point on the chart?"
 
-    Aktiviere in den Positions Eigenschaften einfach den Schalter __`Paint`__  und dein Target Point wird im Chart gezeichnet.	
+    Simply activate the __`Paint`__ switch in the position properties and your target point will be drawn on the chart.
 	
-??? note "Kann ich den Target Point mit einem Teilverkauf kombinieren?"
+??? note "Can I combine the Target Point with a partial sale?"
 
-    Kein Problem für MetaTrader-Panel. Aktiviere einfach den __`Teilverkauf`__ mit dem gewünschten Prozentsatz. Zusätzlich setzt du deinen Target Point wie gewohnt.	 .			
+    No problem for MetaTrader Panel. Simply activate the __`Partial sale`__ with the desired percentage. In addition, you set your target point as usual.     .
 <br>
 ## Bailout
 
-??? note "Was ist eigentlich ein Bailout und wie nutze ich ihn?"
+??? note "What exactly is a bailout and how do I use it?"
 	
-	Manchmal lauft ein Trade nicht so wie man es geplant hat. In solchen Fällen ist es oft die beste Wahl die Position möglichst mit einer schwarzen Null zu closen.
-	Die __`Bailout`__ Funktion unterstüzt dich dabei. Du definierst einen Abstand zu deinem Einstiegspreis und die Bailout Funktion schließt die Position für dich sobald der Bereich erreicht wird.
-	Mehr Informationen findest du [__hier__](../features/stops.md)
+	Sometimes a trade does not go as planned. In such cases, it is often best to close the position at break-even if possible.
+	The __`Bailout`__ function supports you in doing so. You define a distance from your entry price and the Bailout function closes the position for you as soon as that range is reached.
+	You can find more information at [__here__](../features/stops.md)
 
-??? note "Wie aktiviere ich den Bailout?"
+??? note "How do I activate the bailout?"
 	
-	Aktiviere den __`Bailout`__ Schalter und setze den gewünschten Spread Multiplikator. Das wars schon.
+	Activate the __`Bailout`__ switch and set the desired spread multiplier. That's it.
 	
     ![Position Prperties](../assets/Bailout1.jpg)  .
 
-??? note "Warum kann ich den Bailout nicht aktivieren?"
+??? note "Why can't I activate the bailout?"
 
-    Der Bailout kann nur aktiviert werden für Position die aus dem Geld sind.
-    Ist	deine Position profitabel, gibt es keinen Grund den Bailout zu nutzen.
+    The bailout can only be activated for positions that are out of the money.  
+	If your position is profitable, there is no reason to use the bailout.
 
-??? note "Kann ich den Bailout gleichzeitig für alle offenen Positionen setzen?"
+??? note "Can I set the bailout for all open positions at the same time?"
 
-    Nein, das würde keinen Sinn ergeben. Der Bailout muss gezielt für jede Position aktiviert werden..
+    No, that wouldn't make sense. The bailout must be activated specifically for each position.
 <br>
 
 ## Group Stop 	 
 
-??? note "Was ist eigentlich ein Group Stop?"
+??? note "What exactly is a group stop?"
 
-    Du kannst dir einen Group Stop ähnlich einem Stop Loss vorstellen nur dass der Group Stop alle Positionen eines Instrumentes berücksichtigt.
-	Mehr Informationen zu Stops findest du [__hier__](../features/stops.md)
+    You can think of a group stop as similar to a stop loss, except that a group stop takes into account all positions of an instrument.  
+	You can find more information about stops [__here__](../features/stops.md)
 
-??? note "Werden alle Positionen geshlossen, falls der Group Stop ausgelöst wird?"
+??? note "Will all positions be closed if the group stop is triggered?"
 
-    Nein, wird der Group Stop ausgelöst, sucht er die Position des Instrumentes mit dem größten Verlust und schließt diese.
-	Dieser Vorgang wiederholt sich jedes mal, wenn die festgelegte Verlustgrenze überschritten wird.	
+    No, when the Group Stop is triggered, it searches for the position of the instrument with the greatest loss and closes it.  
+	This process is repeated every time the specified loss limit is exceeded.	
 	 
-??? note "Kann ich den Group Stop in Verbindung mit einem Positions Stop Loss nutzen?"
+??? note "Can I use the Group Stop in conjunction with a Position Stop Loss?"
 
-    Ja selbstverständlich, so bist du doppelt abgesichert.
+    Yes, of course, that way you are doubly covered.
 	 
-??? note "Kann ich den Group Stop in Verbindung mit einem Positions Target Point nutzen?"
+??? note "Can I use the Group Stop in conjunction with a position target point?"
 
-    Na klar, es gilt das gleiche Prinzip wie bei der Kombination mit einem Stop Loss.
+    Of course, the same principle applies as when combining with a stop loss.
 	
-??? note "Wird der Group Stop in in Punkten gesetzt?"
+??? note "Is a Group Stop defined in points?"
 
-    Nein, den Grop Stop Wert setzt du in der Währung deines Trading Kontos.
+    No, you set the group stop value in the currency of your trading account.
 	 	 
 <br>
 ## Guardian Angel
 
-??? note "Was ist die Schutzengel Funktion und wie nutze ich sie?"
+??? note "What is the Guardian Angel feature and how do I use it?"
 
-    Du kannst dir den Schutzengel Stop ähnlich einem Stop Loss vorstellen nur dass der Schutzengel Stop alle 
-	Positionen und alle Instrumentes berücksichtigt. Mehr Informationen zu Stops findest du hier.
+    You can think of the Guardian Angel Stop as similar to a stop loss, except that the Guardian Angel Stop takes into account all positions and all instruments. You can find more information about stops here.
 
-??? note "Werden gegebenfalls alle Positionen geschlossen?"
+??? note "Are all positions closed when the guardian angel stop is triggered?"
 
-    Nein, wird der Schutzengel Stop ausgelöst, sucht er über alle Instrumente für die du offene Position hast, die mit dem höchsten Verlust und schließt nur diese.
-	Dieser Vorgang wiederholt sich jedes mal wenn die festgelegte Verlustgrenze überschritten wird.		 
+    No, when the guardian angel stop is triggered, it searches all instruments for which you have an open position for the one with the highest loss and closes only that one.  
+	This process is repeated every time the specified loss limit is exceeded.
 
-??? note "Kann ich den Schutzengel in Verbindung mit einem Group Stop nutzen?"
+??? note "Can I use the guardian angel in conjunction with a group stop?"
 
-    Ja selbstverständlich, alle Stops bauen aufeinander auf und ergänzen sich.
-	Mehr Informationen dazu wie die Stops ineinder greifen, findest du [__hier__](../features/stops.md)
+    Yes, of course, all stops build on each other and complement each other.  
+	You can find more information about how the stops interact with each other [__here__](../features/stops.md)
 
-??? note "Kann ich den Schutzengel in Verbindung mit Stop Loss oder Target Point einer Position nutzen?"
+??? note "Can I use the Guardian Angel in conjunction with a position's stop loss or target point?"
 
-    Ja klar, kein Problem, alle Stops sind miteinander kombinierbar.
-	[__Hier__](../features/stops.md) erklären wir, die unterschiedlichen Stops im Detail.
+	Yes, of course, no problem, all stops can be combined with each other.
+	[__Here__](../features/stops.md) we explain the different stops in detail.
 
-??? note "Wird der Schutzengel Stop in in Punkten gesetzt?"
+??? note "Is the Guardian Angel Stop set in points?"
 
-    Nein, den Grop Stop Wert setzt du in der Währung deines Trading Kontos.		
+    No, you set the stop value in the currency of your trading account.
 <br>	
 ## Longrunner
 
-??? note "Was ist eigentlich ein Longrunner?"
+??? note "What exactly is a long runner?"
 
-    Der __`Longrunner`__ Status definiert Ausnahmeregeln für eine Position. Das erlaubt dir kurz- und mittelfristige Trades parallel zu handeln.
-	Nachfolgend findest du eine Übersicht der Regeln.  
+    The __`Longrunner`__ status defines exception rules for a position. This allows you to trade short- and medium-term trades in parallel.
+	Below you will find an overview of the rules.
 	
-	- Wird nicht bei __`Close all`__  berücksichtigt  
-	- Wird nicht in der  __`P&L Anzeige`__  berücksichtigt  
-	- Wird nicht bei __`Close marked`__  berücksichtigt
-	- Wird nicht bei __`Revert`__  berücksichtigt
-	- Wird bei Auslösen des __`Group Stop`__  als letztes geclosed
-	- Wird bei Auslösen des __`Guardian angel`__  als letztes geclosed
+	- Not taken into account when using __`Close all`_
+	- Not included in  __`P&L display`__
+	- Not taken into account when usingi __`Close marked`__ 
+	- Not taken into account when using __`Revert`__ 
+	- Closed last when __`Group Stop`__ is triggered
+	- Closd last when __`Guardian angel`__  is triggered
 	 
 	
 <br>
