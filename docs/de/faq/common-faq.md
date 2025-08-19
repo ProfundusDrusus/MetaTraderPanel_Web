@@ -80,7 +80,7 @@
 	 
 ??? note "Kann ich MetaTrader-Panel auf einem Rechner mit iOS / Linux installieren?"
 
-    Zum gegenwärtigen Zeitpunkt unterstützen wir ausschließlich die Windows Version..	 
+    Zum gegenwärtigen Zeitpunkt unterstützen wir ausschließlich die Windows Version.	 
 	 
 
 <br>	 

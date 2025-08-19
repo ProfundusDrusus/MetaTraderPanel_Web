@@ -71,7 +71,7 @@
 
 ??? note "Kann ich konfigurieren welche Levels gezeichnet werden?"
 
-    Ja selbstverständlich. Du kannst individuell für jedes Instrument festlegen welche Levels gezeichnet werden sollen..	
+    Ja selbstverständlich. Du kannst individuell für jedes Instrument festlegen welche Levels gezeichnet werden sollen.	
 
 <br>
 

@@ -172,7 +172,7 @@
 
 ??? note "Kann ich den Bailout gleichzeitig für alle offenen Positionen setzen?"
 
-    Nein, das würde keinen Sinn ergeben. Der Bailout muss gezielt für jede Position aktiviert werden..
+    Nein, das würde keinen Sinn ergeben. Der Bailout muss gezielt für jede Position aktiviert werden.
 <br>
 
 ## Group Stop 	 
@@ -197,7 +197,7 @@
 	
 ??? note "Wird der Group Stop in in Punkten gesetzt?"
 
-    Nein, den Grop Stop Wert setzt du in der Währung deines Trading Kontos.
+    Nein, den Group Stop Wert setzt du in der Währung deines Trading Kontos.
 	 	 
 <br>
 ## Guardian Angel
@@ -224,7 +224,7 @@
 
 ??? note "Wird der Schutzengel Stop in in Punkten gesetzt?"
 
-    Nein, den Grop Stop Wert setzt du in der Währung deines Trading Kontos.		
+    Nein, den Stop Wert für den Schutzengel setzt du in der Währung deines Trading Kontos.		
 <br>	
 ## Longrunner
 

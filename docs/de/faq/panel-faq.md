@@ -36,7 +36,7 @@
 	![Interface min size](../assets/ProfitLoss1.jpg)  
 	Benutzerdefinierte Größe 
 	 
-	:material-lightbulb-on:{ .lightbulb }  Tipp: Mit einem Doppelklick in die Statuszeile kannst du das Interface blitzschnell verkleinern..
+	:material-lightbulb-on:{ .lightbulb }  Tipp: Mit einem Doppelklick in die Statuszeile kannst du das Interface blitzschnell verkleinern.
 	
 ??? note "Warum gibt es mehr als einen Close Button?"
 
