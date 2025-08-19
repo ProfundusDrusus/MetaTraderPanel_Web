@@ -194,7 +194,7 @@ hide:
                </div>
                <ul class="font-17">
                   <li style="color: #333333;">Great for beginners</li>
-                  <li style="color: #333333;">1 Trading Panel</li>
+                  <li style="color: #333333;">2 Trading Panels</li>
                   <li style="color: #333333;">Valid for 3 Months</li>
                   <li style="color: #333333;">Demo account only</li>
                   <li style="color: #333333;">Restricted support</li>

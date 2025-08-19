@@ -195,7 +195,7 @@ hide:
                </div>
                <ul class="font-17">
                   <li style="color: #333333;">Ideal für Anfänger</li>
-                  <li style="color: #333333;">1 Trading Panel</li>
+                  <li style="color: #333333;">2 Trading Panels</li>
                   <li style="color: #333333;">3 Monate gültig</li>
                   <li style="color: #333333;">Beschränkt auf Demo-Konten</li>
                   <li style="color: #333333;">Eingeschränkter Support</li>
