@@ -90,12 +90,12 @@
 	
 ??? note "How do I modify a stop loss?"
 
-    By far the fastest way to change your stop loss is to simply draw the line in the tick chart where you want the new stop loss to be.  
+    By far the fastest way to change your stop loss is to simply draw the line in the tick chart where you want the new stop loss to be. 
 	You can also change the stop loss via the position properties.
 	
 ??? note "How do I delete a stop loss?"
 
-       You can delete the selected stop by right-clicking on the chart.
+       Right-click the stop loss and select the delete command.
 
 ??? note "I can't place a stop loss"
 
