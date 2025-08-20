@@ -12,7 +12,7 @@
 </svg>
 </a>
 
-# TICK CHART Fragen
+# TICK CHART FRAGEN
 <p id="com-faq"></p>
 ### Allgemein	 	 
 
@@ -20,7 +20,7 @@
 
     Das ist deine Entscheidung. Je nachdem was du für deine Trades nutzen willst, aktivierst entweder Bid oder Ask.
 	
-??? note "Sind Timeframes verfügbar für den Tick Chart?"
+??? note "Sind Timeframes verfügbar?"
 
     Ja klar, du kannst aus Intervallen zwischen 1 Minute bis 60 Minuten wählen.
 
@@ -98,7 +98,7 @@
 	
 ??? note "Wie lösche ich ein Stop Loss?"
 
-    Mit einem Rechtsklick im Chart kannst du das ausgewähle Limit löschen.  	.		
+    Mit einem Rechtsklick im Chart kannst du den ausgewählen Stop löschen.  	.		
 
 ??? note "Ich kann kein Stop Loss setzen"
 
