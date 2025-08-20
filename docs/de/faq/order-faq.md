@@ -64,7 +64,7 @@
     1. Es findet aktuell kein Handel statt
 	2. Die Option __`Algoritmisches Handeln erlauben`__ in den MT5 Optionen ist nicht gesetzt.
 	3. Der Abstand vom Limit Preis zum aktuellen Kurs ist kleiner als der Spread des Instrumentes.
-	3. Das MetaTradr-Panel Interface zeigt ein geschlossenes Schloss an.
+	3. Das MetaTrader-Panel Interface zeigt ein geschlossenes Schloss an.
 	4. Dein Broker erlaubt momentan keine neuen Positionen für das Instrument.
 	 
 	 
