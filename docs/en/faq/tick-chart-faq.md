@@ -53,7 +53,7 @@
 ### Placing, modifying and deleting orders
 ??? note "How do I place an order?"
 
-    You can place a limit order in a flash by double-clicking on the chart.    
+    You can place a limit order in a flash by double-clicking on the chart.  
 	To place a long limit order, double-click below the current price; for a short order, double-click above the current price.
 	
 	| ORDER TYPE            |                             |    ACTION                  |
@@ -74,7 +74,7 @@
     There may be the following reasons for this:  
 	
     1. No trading is currently taking place.
-	2. The option “Allow algorithmic trading” in the MT5 options is not set.
+	2. The option __`Allow algorithmic trading`__ in the MT5 options is not set.
 	3. The difference between the limit price and the current price is smaller than the spread of the instrument.
 	3. The MetaTrader panel interface displays a closed lock.
 	4. Your broker is currently not allowing new positions for the instrument.
@@ -102,7 +102,7 @@
     There may be the following reasons for this:  
 	
     1. No trading is currently taking place.
-	2. The option “Allow algorithmic trading” in the MT5 options is not set.
+	2. The option __`Allow algorithmic trading`__ in the MT5 options is not set.
 	3. The difference between the stop loss and the current price is smaller than the spread of the instrument.
 	3. The MetaTrader panel interface displays a closed lock.
 
