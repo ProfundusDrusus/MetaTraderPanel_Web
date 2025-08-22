@@ -13,7 +13,7 @@
       Junior-Entwickler für alles Mögliche	 
 ???+ note "Arbeitsort"
 
-      Ein top-modernes ensterloses Kellerbüro mit viel Atmosphäre 	  
+      Ein top-modernes fensterloses Kellerbüro mit viel Atmosphäre 	  
 ???+ note "Vertragsdauer"
 
      So lange du es aushältst
