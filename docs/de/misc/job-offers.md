@@ -34,7 +34,7 @@ Wir, ein dynamisches 222-Mann-Startup-Team, suchen einen hochmotivierten, unterb
 <br>  
 #### Was du mitbringen solltest
 -  Unerbittliche Leidenschaft für Code – du musst bereit sein, für die Kunst zu leiden.
--  Expertise in alles, was du in 10 Jahren Informatikstudium gelernt hast (idealerweise auf deinem eigenen Laptop).
+-  Zeig uns, was du in 10 Jahren Informatikstudium gelernt hast (idealerweise auf deinem __`eigenen Laptop`__).
 -  Die Fähigkeit, ohne direkte Anweisungen zu arbeiten – denn wir haben gerade keine Zeit für Anweisungen.
 -  Bereitschaft, Überstunden zu machen, die nicht protokolliert werden.
 -  Ein unerschütterlicher Glaube an das Konzept von "Erfahrung als Währung".  
