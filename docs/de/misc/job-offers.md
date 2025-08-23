@@ -6,13 +6,14 @@
 #### Dein Profil
 -  Mehrjärige Erfahrung in allem was  __`wir`__ halt so brauchen.
 -   __`50`__ Jahre  __`Fortran`__ Erfahrung, besser  __`70`__.
--  Praxis in der Administration oder Implementierung des  __`Augsburger Puppenkiste patterns`__.
+-  Praxis in der Administration oder Implementierung des  __`Augsburger Puppenkiste Patterns`__.
+-  Praxis in der Administration oder Implementierung des  __`Flip Over Patterns`__.
 -  Verständnis für Datenmodelle - __`von uns hat da keiner auch nur  den Hauch einer Ahnung`__.
 -  Verständnis für Servicearchitektur - __`da sind wir genauso blank`__.
 -  __`23 Sprachen`__ fehlerfrei in Wort und Schrift.
 -  Idealerweise hast du eine __`Oma mit viel Kohle`__ dann brauchen wir unsere nicht zu riskieren
 #### Position  
-- Junior-Entwickler für alles Mögliche (freiwillig). Bitte beachten sie folgende, gesetzliche Vorgabe:  
+- Junior-Entwickler für alles Mögliche (freiwillig). Bitte beachte folgende, gesetzliche Vorgabe:  
 __Bei gleicher Eignung werden Bewerber mit tollen Hupen bevorzugt behandelt.__
 <br>
 #### Arbeitsort
