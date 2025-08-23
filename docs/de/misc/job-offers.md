@@ -41,7 +41,7 @@ Wir, ein dynamisches 222-Mann-Startup-Team, suchen einen hochmotivierten, unterb
 <br>  
 #### Was wir dir bieten
 -  Gegenüber gibt es ein relativ günstiges Bistro.
--  Flexible Arbitszeiten. Ob du 05:00 oder 05:15 beginnst ist uns egal - da sind wir locker und modern.
+-  Flexible Arbeitszeiten. Ob du 05:00 oder 05:15 beginnst ist uns egal - da sind wir locker und modern.
 -  Tageweise mobiles Arbeiten . Uns ist es egal, ob du in der Bahn schuftest oder im Office.
 -  Eine unvergessliche Zeit, in der du lernst, wie man ohne Schlaf auskommt.
 -  Die Möglichkeit, das Mittagessen bei uns im Büro einzunehmen – wenn du es mitbringst.
